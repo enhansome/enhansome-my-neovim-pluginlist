@@ -1,0 +1,3127 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugin Manager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Completion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LSP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Treesitter"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fuzzy Finder"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Filer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Syntax / Highlight"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Statusline"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bufferline"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tabline"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "winbar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "luukvbaal/statuscol.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-09T13:17:28Z",
+            "owner": "luukvbaal",
+            "repo": "statuscol.nvim",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElPiloto/significant.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-09-28T12:39:38Z",
+            "owner": "ElPiloto",
+            "repo": "significant.nvim",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wsdjeg/statuscolumn.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-02T15:14:33Z",
+            "owner": "wsdjeg",
+            "repo": "statuscolumn.nvim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tombell/hem.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-13T16:28:27Z",
+            "owner": "tombell",
+            "repo": "hem.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coreyb-git/statuscolumn.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-19T08:24:42Z",
+            "owner": "coreyb-git",
+            "repo": "statuscolumn.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "statuscolumn"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cursor"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cursorline / Columnline"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nvim-zh/colorful-winsep.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-26T13:24:53Z",
+            "owner": "nvim-zh",
+            "repo": "colorful-winsep.nvim",
+            "stars": 706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A-Lamia/spotlight.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-07-30T15:43:41Z",
+            "owner": "A-Lamia",
+            "repo": "spotlight.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Window Separators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Aasim-A/scrollEOF.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-09-14T21:16:08Z",
+            "owner": "Aasim-A",
+            "repo": "scrollEOF.nvim",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LZDQ/nvim-autocenter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-18T16:41:32Z",
+            "owner": "LZDQ",
+            "repo": "nvim-autocenter",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vvvvv/yfix.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-30T17:08:35Z",
+            "owner": "vvvvv",
+            "repo": "yfix.nvim",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MagnetizedFreckles/centerscroll.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-30T23:09:57Z",
+            "owner": "MagnetizedFreckles",
+            "repo": "centerscroll.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Screen position"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "andrewferrier/wrapping.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-20T17:43:59Z",
+            "owner": "andrewferrier",
+            "repo": "wrapping.nvim",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "benlubas/wrapping-paper.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-01T23:07:06Z",
+            "owner": "benlubas",
+            "repo": "wrapping-paper.nvim",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rlychrisg/truncateline.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-14T18:19:41Z",
+            "owner": "rlychrisg",
+            "repo": "truncateline.nvim",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Wrap line"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RoBaertschi/modeline2.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-23T05:19:03Z",
+            "owner": "RoBaertschi",
+            "repo": "modeline2.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CheesyChocolate/modeline.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-29T15:58:04Z",
+            "owner": "CheesyChocolate",
+            "repo": "modeline.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coding4Glory/tiny-modeline.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-20T15:26:55Z",
+            "owner": "Coding4Glory",
+            "repo": "modneo-modeline",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "modeline"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mode"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scrollbar"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Appearance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "folke/twilight.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-28T15:02:10Z",
+            "owner": "folke",
+            "repo": "twilight.nvim",
+            "stars": 1544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koenverburg/peepsight.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-11-14T18:56:01Z",
+            "owner": "koenverburg",
+            "repo": "peepsight.nvim",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "Highlight current function"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mcauley-penney/visual-whitespace.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-05T17:30:16Z",
+            "owner": "mcauley-penney",
+            "repo": "visual-whitespace.nvim",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fraso-dev/nvim-listchars",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-05-28T09:34:39Z",
+            "owner": "0xfraso",
+            "repo": "nvim-listchars",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rseichter/ellipsis.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-24T13:00:53Z",
+            "owner": "rseichter",
+            "repo": "ellipsis.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corey-Keller/ToggleListChars.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-17T11:48:21Z",
+            "owner": "Corey-Keller",
+            "repo": "ToggleListChars.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "listchars"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Background"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Buffer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Window"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tab"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Terminal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Motion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Jump"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gregorias/toggle.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-28T09:37:29Z",
+            "owner": "gregorias",
+            "repo": "toggle.nvim",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "walkingshamrock/optiongroup.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-15T13:14:02Z",
+            "owner": "walkingshamrock",
+            "repo": "optiongroup.nvim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kibadda/starter.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-18T07:50:57Z",
+            "owner": "Kibadda",
+            "repo": "starter.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ras0q/optplus.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-05T17:00:33Z",
+            "owner": "ras0q",
+            "repo": "optplus.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Set Option"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Editing support"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Select Edit"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AgusDOLARD/backout.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-20T15:05:45Z",
+            "owner": "AgusDOLARD",
+            "repo": "backout.nvim",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csessh/stopinsert.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-11T02:48:06Z",
+            "owner": "csessh",
+            "repo": "stopinsert.nvim",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duqcyxwd/stringbreaker.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-05T22:48:27Z",
+            "owner": "duqcyxwd",
+            "repo": "stringbreaker.nvim",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sontungexpt/bim.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-11T01:56:04Z",
+            "owner": "sontungexpt",
+            "repo": "bim.nvim",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yuki-yano/smart-i.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-11T01:59:57Z",
+            "owner": "yuki-yano",
+            "repo": "smart-i.nvim",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AntonVanAssche/date-time-inserter.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-23T17:07:26Z",
+            "owner": "AntonVanAssche",
+            "repo": "date-time-inserter.nvim",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tehdb/nvim-faker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-12-30T22:38:41Z",
+            "owner": "tehdb",
+            "repo": "nvim-faker",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aidancz/lfsp.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-01T02:32:52Z",
+            "owner": "aidancz",
+            "repo": "lfsp.nvim",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enoatu/nvim-smartchr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-19T18:47:25Z",
+            "owner": "enoatu",
+            "repo": "nvim-smartchr",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "njaczko/nvim-dummy-text",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-08-17T06:30:37Z",
+            "owner": "njaczko",
+            "repo": "nvim-dummy-text",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nobody-famous/lima.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-02-07T03:43:34Z",
+            "owner": "nobody-famous",
+            "repo": "lima.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akirisu-kirisu/nvim-insert-mode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-17T10:34:12Z",
+            "owner": "Akirisu-kirisu",
+            "repo": "nvim-insert-mode",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bwintertkb/enclose_nav.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-12-29T18:44:30Z",
+            "owner": "bwintertkb",
+            "repo": "enclose_nav.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resonyze/erase_node.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-07-22T00:40:16Z",
+            "owner": "resonyze",
+            "repo": "erase_node.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adammccartney/nvim-rinse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-20T08:30:25Z",
+            "owner": "adammccartney",
+            "repo": "nvim-rinse",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Someone-s-out-there/stutter.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-01-27T20:15:37Z",
+            "owner": "Someone-s-out-there",
+            "repo": "stutter.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haolian9/ico.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-03T15:50:14Z",
+            "owner": "haolian9",
+            "repo": "ico.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ins0mniaque/sacrilege.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-09-26T03:07:23Z",
+            "owner": "ins0mniaque",
+            "repo": "sacrilege.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cwmaguire/datebox.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-14T19:51:35Z",
+            "owner": "cwmaguire",
+            "repo": "datebox.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Insert"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "boltlessengineer/smart-tab.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-11-18T06:58:24Z",
+            "owner": "boltlessengineer",
+            "repo": "smart-tab.nvim",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lsvmello/elastictabstops.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-07T21:18:09Z",
+            "owner": "lsvmello",
+            "repo": "elastictabstops.nvim",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvim-jo/smarttab.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-11-01T11:49:16Z",
+            "owner": "nvim-jo",
+            "repo": "smarttab.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Smart Tab"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Auto Insert"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "monkoose/matchparen.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-04T14:19:28Z",
+            "owner": "monkoose",
+            "repo": "matchparen.nvim",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yorickpeterse/nvim-tree-pairs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-19T15:05:45Z",
+            "owner": "yorickpeterse",
+            "repo": "nvim-tree-pairs",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rareitems/hl_match_area.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-18T09:43:20Z",
+            "owner": "rareitems",
+            "repo": "hl_match_area.nvim",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tar80/matchwith.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-15T09:56:09Z",
+            "owner": "tar80",
+            "repo": "matchwith.nvim",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jugarpeupv/visual-match-paren.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-08T15:58:42Z",
+            "owner": "jugarpeupv",
+            "repo": "visual-match-paren.nvim",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haolian9/showmatch.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-17T08:30:09Z",
+            "owner": "haolian9",
+            "repo": "showmatch.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "matchparen"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fvictorio/eval-replace.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-09-22T10:38:48Z",
+            "owner": "fvictorio",
+            "repo": "eval-replace.nvim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lost22git/run-visual.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-10T11:29:55Z",
+            "owner": "lost22git",
+            "repo": "run-visual.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Eval"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Convert"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Indent"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vonr/align.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-10T08:01:45Z",
+            "owner": "Vonr",
+            "repo": "align.nvim",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "echasnovski/mini.align",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-07T13:41:52Z",
+            "owner": "nvim-mini",
+            "repo": "mini.align",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RRethy/nvim-align",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-08-23T22:21:22Z",
+            "owner": "RRethy",
+            "repo": "nvim-align",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jakeru/columnize.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-01-12T18:49:43Z",
+            "owner": "jakeru",
+            "repo": "columnize.nvim",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vzze/aligner.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-11-15T18:06:20Z",
+            "owner": "vzze",
+            "repo": "aligner.nvim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chuck-flowers/align-selection.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-09-14T03:06:54Z",
+            "owner": "chuck-flowers",
+            "repo": "align-selection.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haolian9/furrow.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-05T07:55:49Z",
+            "owner": "haolian9",
+            "repo": "furrow.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoffeeCoder1/virtual-align.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-04T13:36:29Z",
+            "owner": "ApolloFops",
+            "repo": "virtual-align.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGomezCuervo/align.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-09-16T23:31:10Z",
+            "owner": "AGomezCuervo",
+            "repo": "align.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoSpawnn/align.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-02T16:34:56Z",
+            "owner": "NoSpawnn",
+            "repo": "align.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FLeWz/align-format.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-29T11:33:46Z",
+            "owner": "FLeWz",
+            "repo": "align-format.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Align"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TextObject, Operator"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "boltlessengineer/zeta.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-27T10:39:16Z",
+            "owner": "boltlessengineer",
+            "repo": "zeta.nvim",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Southporter/zeta.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-27T16:18:32Z",
+            "owner": "Southporter",
+            "repo": "zeta.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zenodea/nextedit.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-03T20:19:44Z",
+            "owner": "zenodea",
+            "repo": "nextedit.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Edit Prediction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LunarVim/bigfile.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-01T09:43:59Z",
+            "owner": "LunarVim",
+            "repo": "bigfile.nvim",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pteroctopus/faster.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-22T15:39:59Z",
+            "owner": "pteroctopus",
+            "repo": "faster.nvim",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ouuan/nvim-bigfile",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-09T08:15:10Z",
+            "owner": "ouuan",
+            "repo": "nvim-bigfile",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mei28/BigSheetGardna.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-13T01:21:45Z",
+            "owner": "mei28",
+            "repo": "BigSheetGardna.nvim",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Large file"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "abecodes/tabout.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-12-10T10:36:12Z",
+            "owner": "abecodes",
+            "repo": "tabout.nvim",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saifulapm/chartoggle.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-14T00:03:49Z",
+            "owner": "saifulapm",
+            "repo": "chartoggle.nvim",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Allendang/nvim-expand-expr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-08-14T10:21:19Z",
+            "owner": "AllenDang",
+            "repo": "nvim-expand-expr",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svban/Reverse.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-28T10:31:30Z",
+            "owner": "svban",
+            "repo": "Reverse.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parsifa1/smartab.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-22T11:06:16Z",
+            "owner": "Parsifa1",
+            "repo": "smartab.nvim",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Standard Feature Enhancement"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Search, Replace, Select"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mapping"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Yank, Paste"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Split / Join"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sitiom/nvim-numbertoggle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-19T09:17:35Z",
+            "owner": "sitiom",
+            "repo": "nvim-numbertoggle",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shrynx/line-numbers.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-05T09:11:18Z",
+            "owner": "shrynx",
+            "repo": "line-numbers.nvim",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nkakouros-original/numbers.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-26T20:48:54Z",
+            "owner": "nkakouros-original",
+            "repo": "numbers.nvim",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpea2506/relative-toggle.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-13T16:21:23Z",
+            "owner": "cpea2506",
+            "repo": "relative-toggle.nvim",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stikypiston/unobtrusive-relnums.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-26T08:08:33Z",
+            "owner": "indium114",
+            "repo": "unobtrusive-relnums.nvim",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prichrd/flagmode.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-11-06T18:02:16Z",
+            "owner": "prichrd",
+            "repo": "flagmode.nvim",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lum1nar/peep.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-16T08:52:18Z",
+            "owner": "lum1nar",
+            "repo": "peep.nvim",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fluxdiv/relative-rainbow.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-12-13T21:14:11Z",
+            "owner": "fluxdiv",
+            "repo": "relative-rainbow.nvim",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gvlatko/inline-relative-numbers.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-08-03T17:15:53Z",
+            "owner": "gvlatko",
+            "repo": "inline-relative-numbers.nvim",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dk949/file_line.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-08-03T17:59:39Z",
+            "owner": "dk949",
+            "repo": "file_line.nvim",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "walkingshamrock/rnum.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-15T04:45:44Z",
+            "owner": "walkingshamrock",
+            "repo": "rnum.nvim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markosnarinian/ln.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-25T17:31:31Z",
+            "owner": "markosnarinian",
+            "repo": "ln.nvim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redxtech/sharing.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-08T18:24:29Z",
+            "owner": "redxtech",
+            "repo": "sharing.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sayyidalijufri/termlinehide.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-17T05:13:11Z",
+            "owner": "Sayyidalijufri",
+            "repo": "termlinehide.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DarrellBrogdon/trnu.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-23T19:18:03Z",
+            "owner": "DarrellBrogdon",
+            "repo": "trnu.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joshdirkx/toggle-relativenumber.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-04-01T19:04:10Z",
+            "owner": "joshdirkx",
+            "repo": "toggle-relativenumber.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Long104/hidecolumn.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-27T05:03:51Z",
+            "owner": "Long104",
+            "repo": "hidecolumn.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teial/relvirt.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-13T09:15:35Z",
+            "owner": "teial",
+            "repo": "relvirt.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "am2b/smartnumber.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-03T16:06:00Z",
+            "owner": "am2b",
+            "repo": "smartnumber.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segfaulted67/rln.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-20T07:27:30Z",
+            "owner": "segfaulted67",
+            "repo": "rln.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "secobaka/peepingnum.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-03T06:10:45Z",
+            "owner": "secobaka",
+            "repo": "peepingnum.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "togawalk/relative-toggle.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-19T14:51:13Z",
+            "owner": "rastaesh",
+            "repo": "relative-toggle.nvim",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Number"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mark"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "debugloop/telescope-undo.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-31T15:13:51Z",
+            "owner": "debugloop",
+            "repo": "telescope-undo.nvim",
+            "stars": 790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiaoshijie/undotree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-16T02:03:49Z",
+            "owner": "jiaoshijie",
+            "repo": "undotree",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tzachar/highlight-undo.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-26T11:39:45Z",
+            "owner": "tzachar",
+            "repo": "highlight-undo.nvim",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XXiaoA/atone.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-30T16:08:24Z",
+            "owner": "XXiaoA",
+            "repo": "atone.nvim",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SunnyTamang/select-undo.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-05T14:23:55Z",
+            "owner": "SunnyTamang",
+            "repo": "select-undo.nvim",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "y3owk1n/undo-glow.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-04T17:43:25Z",
+            "owner": "y3owk1n",
+            "repo": "undo-glow.nvim",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "y3owk1n/time-machine.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-04T17:31:37Z",
+            "owner": "y3owk1n",
+            "repo": "time-machine.nvim",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aileot/emission.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2025-02-21T15:08:19Z",
+            "owner": "aileot",
+            "repo": "emission.nvim",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mvllow/session-undo.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-09T04:58:08Z",
+            "owner": "mvllow",
+            "repo": "session-undo.nvim",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haolian9/redostr.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-11-16T12:40:25Z",
+            "owner": "haolian9",
+            "repo": "redostr.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "walkingshamrock/undoplay.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-21T09:20:40Z",
+            "owner": "walkingshamrock",
+            "repo": "undoplay.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Undo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Diff"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "quangnguyen30192/cmp-nvim-tags",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-05T06:28:05Z",
+            "owner": "quangnguyen30192",
+            "repo": "cmp-nvim-tags",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weilbith/nvim-floating-tag-preview",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-01-05T09:44:32Z",
+            "owner": "weilbith",
+            "repo": "nvim-floating-tag-preview",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linrongbin16/gentags.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-08-20T13:33:57Z",
+            "owner": "linrongbin16",
+            "repo": "gentags.nvim",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "francescoApophis/tags.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-12T10:40:00Z",
+            "owner": "francescoApophis",
+            "repo": "tags.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tags"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fold / Conceal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Calculation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Command Line"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Spell check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dictionary"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "srackham/digraph-picker.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-05-16T08:42:47Z",
+            "owner": "srackham",
+            "repo": "digraph-picker.nvim",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jonathanforhan/nvim-glyph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-09-10T19:35:09Z",
+            "owner": "jonathanforhan",
+            "repo": "nvim-glyph",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adorostkar/NGG.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-02T20:54:23Z",
+            "owner": "adorostkar",
+            "repo": "NGG.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "digraph"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "0styx0/abbreinder.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-06-30T21:38:44Z",
+            "owner": "0styx0",
+            "repo": "abbreinder.nvim",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ck-zhang/mistake.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-08T16:05:09Z",
+            "owner": "ck-zhang",
+            "repo": "mistake.nvim",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadyalfred/electric-quotes.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-08-30T17:46:08Z",
+            "owner": "shadyalfred",
+            "repo": "electric-quotes.nvim",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reyalka/shell-abbr.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-31T13:58:55Z",
+            "owner": "reyalka",
+            "repo": "shell-abbr.nvim",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Russoul/abbrev-expand.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-20T01:10:30Z",
+            "owner": "Russoul",
+            "repo": "abbrev-expand.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dgtipon/abbrev-gen.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-21T04:06:08Z",
+            "owner": "dgtipon",
+            "repo": "abbrev-gen.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Abbreviation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Quickfix / Location"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Directory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "filetype"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Macro"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ph1losof/ecolog2.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-19T13:08:18Z",
+            "owner": "ph1losof",
+            "repo": "ecolog2.nvim",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yohendry/envs.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-02T23:44:51Z",
+            "owner": "yohendry",
+            "repo": "envs.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alexandersfg4/environment.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-25T20:32:47Z",
+            "owner": "Alexandersfg4",
+            "repo": "environment.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sociale11/envim.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-17T09:11:31Z",
+            "owner": "sociale11",
+            "repo": "envim.nvim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leonardo-Luz/hidenv.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-10T14:39:39Z",
+            "owner": "Leonardo-Luz",
+            "repo": "hidenv.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gyandeep09/env-drift.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-29T03:15:24Z",
+            "owner": "Gyandeep09",
+            "repo": "env-drift.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Environment Variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Errorformat"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Message / Notification"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Help"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Save&Backup"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Startup"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Session"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "notomo/gesture.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-10T01:47:31Z",
+            "owner": "notomo",
+            "repo": "gesture.nvim",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryardley/mouser.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-27T23:02:09Z",
+            "owner": "ryardley",
+            "repo": "mouser.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Mouse"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Coding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Readable Assistant"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Comment Out"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "romgrk/nvim-treesitter-context",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Janet",
+            "last_commit": "2026-08-02T08:51:48Z",
+            "owner": "nvim-treesitter",
+            "repo": "nvim-treesitter-context",
+            "stars": 3223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polarmutex/contextprint.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-07-18T20:31:06Z",
+            "owner": "polarmutex",
+            "repo": "contextprint.nvim",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Context Header"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Linter / Formatter"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bennypowers/nvim-regexplainer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-14T16:18:20Z",
+            "owner": "bennypowers",
+            "repo": "nvim-regexplainer",
+            "stars": 758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tomiis4/Hypersonic.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-11T17:31:34Z",
+            "owner": "tomiis4",
+            "repo": "hypersonic.nvim",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Djancyp/regex.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-08-25T11:33:56Z",
+            "owner": "Djancyp",
+            "repo": "regex.nvim",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rclawlor/regex-railroad.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-29T09:53:47Z",
+            "owner": "rclawlor",
+            "repo": "regex-railroad.nvim",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jake-stewart/regex-vars.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-31T03:39:08Z",
+            "owner": "jake-stewart",
+            "repo": "regex-vars.nvim",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Regex"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jeangiraldoo/codedocs.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-14T13:29:39Z",
+            "owner": "jeangiraldoo",
+            "repo": "codedocs.nvim",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeioth/dooku.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-24T11:38:33Z",
+            "owner": "Zeioth",
+            "repo": "dooku.nvim",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Generate documentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Code outline"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Snippet/Template"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Task Runner"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Test"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Debug/REPL"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Git/GitHub"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Project"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "New features"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Note Taking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jbyuki/venn.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-16T03:55:30Z",
+            "owner": "jbyuki",
+            "repo": "venn.nvim",
+            "stars": 1178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3rd/diagram.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-12T23:52:58Z",
+            "owner": "3rd",
+            "repo": "diagram.nvim",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "McKean/diagon.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-23T08:27:07Z",
+            "owner": "McKean",
+            "repo": "diagon.nvim",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Diagram"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Translate"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lewis6991/hover.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-20T12:46:44Z",
+            "owner": "lewis6991",
+            "repo": "hover.nvim",
+            "stars": 741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fildo7525/pretty_hover",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-22T15:44:43Z",
+            "owner": "Fildo7525",
+            "repo": "pretty_hover",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ellisonleao/weather.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-12-11T14:08:27Z",
+            "owner": "ellisonleao",
+            "repo": "weather.nvim",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StonyBoy/nvim-update-time",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-26T12:16:47Z",
+            "owner": "StonyBoy",
+            "repo": "nvim-update-time",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dgyurov/termify.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-09-02T21:58:46Z",
+            "owner": "dgyurov",
+            "repo": "termify.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Popup Info"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Uptime"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chrisgrieser/nvim-ghengis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-03T07:54:49Z",
+            "owner": "chrisgrieser",
+            "repo": "nvim-genghis",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StefanBartl/fileops.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-12T16:41:19Z",
+            "owner": "StefanBartl",
+            "repo": "fileops.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "File Handling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zeioth/hot-reload.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-24T11:46:46Z",
+            "owner": "Zeioth",
+            "repo": "hot-reload.nvim",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "milkias17/reloader.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-11-04T08:36:26Z",
+            "owner": "milkias17",
+            "repo": "reloader.nvim",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mskelton/live-reload.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-04-12T11:42:05Z",
+            "owner": "mskelton",
+            "repo": "live-reload.nvim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Little-Captain/reloader.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-09-06T05:35:08Z",
+            "owner": "Little-Captain",
+            "repo": "reloader.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Reload Configuration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Package Manager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "VS Code features"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Concentration(Pomodoro/Zenn)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hex"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Office Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analytics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neo451/feed.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-01T01:54:28Z",
+            "owner": "neo451",
+            "repo": "feed.nvim",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r7sqtr/wyw.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-14T13:59:45Z",
+            "owner": "r7sqtr",
+            "repo": "wyw.nvim",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4DRIAN0RTIZ/rssfeed.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-06T14:22:19Z",
+            "owner": "4DRIAN0RTIZ",
+            "repo": "rssfeed.nvim",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pawemix/decscribe.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-12-19T17:18:29Z",
+            "owner": "pawemix",
+            "repo": "decscribe.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jwayston/quicknews.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-19T19:00:22Z",
+            "owner": "jwayston",
+            "repo": "quicknews.nvim",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "RSS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "liljaylj/codestats.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-18T16:51:18Z",
+            "owner": "liljaylj",
+            "repo": "codestats.nvim",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freed-Wu/code-stats.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-03T18:57:23Z",
+            "owner": "Freed-Wu",
+            "repo": "code-stats.nvim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maorun/code-stats.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-29T11:05:09Z",
+            "owner": "maorun",
+            "repo": "code-stats.nvim",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Code::Stats"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Checker"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Font / Emoji"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "johannww/tts.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-26T19:39:52Z",
+            "owner": "johannww",
+            "repo": "tts.nvim",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cskeeters/kokoro.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-08T23:07:22Z",
+            "owner": "cskeeters",
+            "repo": "kokoro.nvim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "derekriemer/nvim-speaks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-07T17:56:30Z",
+            "owner": "derekriemer",
+            "repo": "nvim-speaks",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "TTS (text-to-speech)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Util pack"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Integration with other apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Browser"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Service"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CLI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Language specific"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lua"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Javascript/Typescript"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "C/C++"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game Engine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Configuration File"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Database"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protocol"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Neovim Lua Library"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Neovim Lua Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Colorscheme"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Neovim Distribution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "External Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Service"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Music"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Animation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Natural Language"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Toy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:09:31.305Z",
+    "original_repository": "yutkat/my-neovim-pluginlist",
+    "original_repository_sha": "ce3691731f02bc11470b6cd1f717ce373be82cd9",
+    "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
+    "enhanced_repository_description": null,
+    "title": "Awesome my neovim pluginlist with stars"
+  }
+}
