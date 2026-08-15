@@ -189,7 +189,7 @@
             "last_commit": "2025-09-14T21:16:08Z",
             "owner": "Aasim-A",
             "repo": "scrollEOF.nvim",
-            "stars": 171
+            "stars": 170
           }
         },
         {
@@ -1758,7 +1758,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-07-30T16:08:24Z",
+            "last_commit": "2026-08-15T11:55:26Z",
             "owner": "XXiaoA",
             "repo": "atone.nvim",
             "stars": 187
@@ -2550,7 +2550,7 @@
             "last_commit": "2026-03-20T12:46:44Z",
             "owner": "lewis6991",
             "repo": "hover.nvim",
-            "stars": 741
+            "stars": 740
           }
         },
         {
@@ -2642,7 +2642,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T15:43:19Z",
+            "last_commit": "2026-08-15T07:04:36Z",
             "owner": "StefanBartl",
             "repo": "fileops.nvim",
             "stars": 1
@@ -3117,9 +3117,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:51:19.944Z",
+    "last_updated": "2026-08-15T20:44:10.410Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
-    "original_repository_sha": "c049d6b60011af501657eb3785921e4c65d9473a",
+    "original_repository_sha": "5ac2bf0383f1b28ba9be43d812c8b41519db9024",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
