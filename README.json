@@ -1747,7 +1747,7 @@
             "last_commit": "2025-06-26T11:39:45Z",
             "owner": "tzachar",
             "repo": "highlight-undo.nvim",
-            "stars": 356
+            "stars": 355
           }
         },
         {
@@ -1789,7 +1789,7 @@
             "last_commit": "2026-07-04T17:43:25Z",
             "owner": "y3owk1n",
             "repo": "undo-glow.nvim",
-            "stars": 104
+            "stars": 105
           }
         },
         {
@@ -2251,7 +2251,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-10T01:47:31Z",
+            "last_commit": "2026-08-16T05:44:25Z",
             "owner": "notomo",
             "repo": "gesture.nvim",
             "stars": 546
@@ -2303,7 +2303,7 @@
             "last_commit": "2026-08-02T08:51:48Z",
             "owner": "nvim-treesitter",
             "repo": "nvim-treesitter-context",
-            "stars": 3225
+            "stars": 3226
           }
         },
         {
@@ -3117,9 +3117,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:44:10.410Z",
+    "last_updated": "2026-08-16T20:43:27.991Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
-    "original_repository_sha": "5ac2bf0383f1b28ba9be43d812c8b41519db9024",
+    "original_repository_sha": "06acfe34a0657f1ee93d5c450679060ad53784e5",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
