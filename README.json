@@ -1719,7 +1719,7 @@
             "last_commit": "2025-01-31T15:13:51Z",
             "owner": "debugloop",
             "repo": "telescope-undo.nvim",
-            "stars": 790
+            "stars": 789
           }
         },
         {
@@ -2303,7 +2303,7 @@
             "last_commit": "2026-08-02T08:51:48Z",
             "owner": "nvim-treesitter",
             "repo": "nvim-treesitter-context",
-            "stars": 3226
+            "stars": 3225
           }
         },
         {
@@ -2432,7 +2432,7 @@
             "last_commit": "2025-06-24T11:38:33Z",
             "owner": "Zeioth",
             "repo": "dooku.nvim",
-            "stars": 51
+            "stars": 52
           }
         }
       ],
@@ -2642,7 +2642,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-15T07:04:36Z",
+            "last_commit": "2026-08-17T17:34:04Z",
             "owner": "StefanBartl",
             "repo": "fileops.nvim",
             "stars": 1
@@ -2859,7 +2859,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-03T18:57:23Z",
+            "last_commit": "2026-08-17T19:22:59Z",
             "owner": "Freed-Wu",
             "repo": "code-stats.nvim",
             "stars": 3
@@ -3117,9 +3117,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:43:27.991Z",
+    "last_updated": "2026-08-17T20:48:48.306Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
-    "original_repository_sha": "06acfe34a0657f1ee93d5c450679060ad53784e5",
+    "original_repository_sha": "2e56b9bb716d4bb8c6fb39dbe9df784af24e9c78",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
