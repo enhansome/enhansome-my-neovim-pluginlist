@@ -99,7 +99,7 @@
                 "last_commit": "2026-04-26T13:24:53Z",
                 "owner": "nvim-zh",
                 "repo": "colorful-winsep.nvim",
-                "stars": 706
+                "stars": 707
               }
             },
             {
@@ -307,7 +307,7 @@
                 "last_commit": "2025-10-28T15:02:10Z",
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1546
+                "stars": 1548
               }
             },
             {
@@ -2426,7 +2426,7 @@
                 "last_commit": "2026-03-20T12:46:44Z",
                 "owner": "lewis6991",
                 "repo": "hover.nvim",
-                "stars": 740
+                "stars": 741
               }
             },
             {
@@ -2701,7 +2701,7 @@
                     "archived": false,
                     "id": 835636383,
                     "language": "Lua",
-                    "last_commit": "2026-08-17T19:22:59Z",
+                    "last_commit": "2026-08-19T15:15:49Z",
                     "owner": "Freed-Wu",
                     "repo": "code-stats.nvim",
                     "stars": 3
@@ -2773,7 +2773,7 @@
                 "archived": false,
                 "id": 1326994801,
                 "language": "Lua",
-                "last_commit": "2026-08-07T17:56:30Z",
+                "last_commit": "2026-08-19T14:38:50Z",
                 "owner": "derekriemer",
                 "repo": "nvim-speaks",
                 "stars": 1
@@ -2789,7 +2789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:13.080Z",
+    "last_updated": "2026-08-19T20:49:57.250Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
     "original_repository_id": 482552025,
     "original_repository_sha": "be65ef184c401d65211d25f262f5bd5dd1f6e40e",
