@@ -2374,7 +2374,7 @@
                 "last_commit": "2024-08-16T03:55:30Z",
                 "owner": "jbyuki",
                 "repo": "venn.nvim",
-                "stars": 1178
+                "stars": 1179
               }
             },
             {
@@ -2389,7 +2389,7 @@
                 "last_commit": "2026-06-12T23:52:58Z",
                 "owner": "3rd",
                 "repo": "diagram.nvim",
-                "stars": 401
+                "stars": 403
               }
             },
             {
@@ -2773,7 +2773,7 @@
                 "archived": false,
                 "id": 1326994801,
                 "language": "Lua",
-                "last_commit": "2026-08-19T14:38:50Z",
+                "last_commit": "2026-08-20T16:26:53Z",
                 "owner": "derekriemer",
                 "repo": "nvim-speaks",
                 "stars": 1
@@ -2789,10 +2789,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:49:57.250Z",
+    "last_updated": "2026-08-20T20:51:53.682Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
     "original_repository_id": 482552025,
-    "original_repository_sha": "be65ef184c401d65211d25f262f5bd5dd1f6e40e",
+    "original_repository_sha": "2b4ea6d77b7a8c1c16493d343f34520090f5bb39",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
