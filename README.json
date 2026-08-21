@@ -307,7 +307,7 @@
                 "last_commit": "2025-10-28T15:02:10Z",
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1548
+                "stars": 1547
               }
             },
             {
@@ -827,7 +827,7 @@
                 "last_commit": "2026-07-04T14:19:28Z",
                 "owner": "monkoose",
                 "repo": "matchparen.nvim",
-                "stars": 135
+                "stars": 134
               }
             },
             {
@@ -1692,7 +1692,7 @@
                 "last_commit": "2026-05-16T02:03:49Z",
                 "owner": "jiaoshijie",
                 "repo": "undotree",
-                "stars": 367
+                "stars": 368
               }
             },
             {
@@ -2426,7 +2426,7 @@
                 "last_commit": "2026-03-20T12:46:44Z",
                 "owner": "lewis6991",
                 "repo": "hover.nvim",
-                "stars": 741
+                "stars": 742
               }
             },
             {
@@ -2789,10 +2789,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:51:53.682Z",
+    "last_updated": "2026-08-21T20:44:53.534Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
     "original_repository_id": 482552025,
-    "original_repository_sha": "2b4ea6d77b7a8c1c16493d343f34520090f5bb39",
+    "original_repository_sha": "2e28a89ffb074aae2a19e9f9adcb0335a265b04e",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
