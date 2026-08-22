@@ -344,7 +344,7 @@
                 "last_commit": "2026-06-05T17:30:16Z",
                 "owner": "mcauley-penney",
                 "repo": "visual-whitespace.nvim",
-                "stars": 477
+                "stars": 476
               }
             },
             {
@@ -961,7 +961,7 @@
                 "last_commit": "2024-04-10T08:01:45Z",
                 "owner": "Vonr",
                 "repo": "align.nvim",
-                "stars": 187
+                "stars": 186
               }
             },
             {
@@ -1200,7 +1200,7 @@
                 "last_commit": "2026-06-22T15:39:59Z",
                 "owner": "pteroctopus",
                 "repo": "faster.nvim",
-                "stars": 128
+                "stars": 127
               }
             },
             {
@@ -1677,7 +1677,7 @@
                 "last_commit": "2025-01-31T15:13:51Z",
                 "owner": "debugloop",
                 "repo": "telescope-undo.nvim",
-                "stars": 789
+                "stars": 788
               }
             },
             {
@@ -1692,7 +1692,7 @@
                 "last_commit": "2026-05-16T02:03:49Z",
                 "owner": "jiaoshijie",
                 "repo": "undotree",
-                "stars": 368
+                "stars": 367
               }
             },
             {
@@ -2207,7 +2207,7 @@
                     "last_commit": "2026-08-02T08:51:48Z",
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3225
+                    "stars": 3223
                   }
                 },
                 {
@@ -2789,10 +2789,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:44:53.534Z",
+    "last_updated": "2026-08-22T20:44:45.661Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
     "original_repository_id": 482552025,
-    "original_repository_sha": "2e28a89ffb074aae2a19e9f9adcb0335a265b04e",
+    "original_repository_sha": "94c8db9bc60741bb37e7422e7464f1c60955c3a9",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
