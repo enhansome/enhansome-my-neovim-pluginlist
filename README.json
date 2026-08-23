@@ -307,7 +307,7 @@
                 "last_commit": "2025-10-28T15:02:10Z",
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1547
+                "stars": 1548
               }
             },
             {
@@ -884,7 +884,7 @@
                 "archived": false,
                 "id": 1137019981,
                 "language": "Lua",
-                "last_commit": "2026-03-08T15:58:42Z",
+                "last_commit": "2026-08-23T19:16:14Z",
                 "owner": "jugarpeupv",
                 "repo": "visual-match-paren.nvim",
                 "stars": 6
@@ -1752,7 +1752,7 @@
                 "last_commit": "2026-07-04T17:43:25Z",
                 "owner": "y3owk1n",
                 "repo": "undo-glow.nvim",
-                "stars": 105
+                "stars": 106
               }
             },
             {
@@ -2789,10 +2789,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:44:45.661Z",
+    "last_updated": "2026-08-23T20:44:20.393Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
     "original_repository_id": 482552025,
-    "original_repository_sha": "94c8db9bc60741bb37e7422e7464f1c60955c3a9",
+    "original_repository_sha": "058f9c2f98d51bba3005930476e34c66d0e49d20",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"

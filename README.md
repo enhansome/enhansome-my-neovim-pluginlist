@@ -234,7 +234,7 @@
 
 ### Highlight current function
 
-* [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ⭐ 1,547 | 🐛 3 | 🌐 Lua | 📅 2025-10-28 ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
+* [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ⭐ 1,548 | 🐛 3 | 🌐 Lua | 📅 2025-10-28 ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
 * [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) ⭐ 115 | 🐛 0 | 🌐 Lua | 📅 2023-11-14 ![](https://img.shields.io/github/stars/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/last-commit/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/commit-activity/y/koenverburg/peepsight.nvim)
 
 ### listchars
@@ -305,7 +305,7 @@
 * [yorickpeterse/nvim-tree-pairs](https://github.com/yorickpeterse/nvim-tree-pairs) ⭐ 81 | 🐛 2 | 🌐 Lua | 📅 2026-06-19 ![](https://img.shields.io/github/stars/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-tree-pairs)
 * [rareitems/hl\_match\_area.nvim](https://github.com/rareitems/hl_match_area.nvim) ⭐ 53 | 🐛 0 | 🌐 Lua | 📅 2023-09-18 ![](https://img.shields.io/github/stars/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/last-commit/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/hl_match_area.nvim)
 * [tar80/matchwith.nvim](https://github.com/tar80/matchwith.nvim) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-04-15 ![](https://img.shields.io/github/stars/tar80/matchwith.nvim) ![](https://img.shields.io/github/last-commit/tar80/matchwith.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/matchwith.nvim)
-* [jugarpeupv/visual-match-paren.nvim](https://github.com/jugarpeupv/visual-match-paren.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-03-08 ![](https://img.shields.io/github/stars/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/visual-match-paren.nvim)
+* [jugarpeupv/visual-match-paren.nvim](https://github.com/jugarpeupv/visual-match-paren.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-08-23 ![](https://img.shields.io/github/stars/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/visual-match-paren.nvim)
 * [haolian9/showmatch.nvim](https://github.com/haolian9/showmatch.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-12-17 ![](https://img.shields.io/github/stars/haolian9/showmatch.nvim) ![](https://img.shields.io/github/last-commit/haolian9/showmatch.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/showmatch.nvim)
 
 ### matchadd
@@ -407,7 +407,7 @@
 * [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) ⭐ 355 | 🐛 0 | 🌐 Lua | 📅 2025-06-26 ![](https://img.shields.io/github/stars/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/last-commit/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/tzachar/highlight-undo.nvim)
 * [XXiaoA/atone.nvim](https://github.com/XXiaoA/atone.nvim) ⭐ 187 | 🐛 0 | 🌐 Lua | 📅 2026-08-15 ![](https://img.shields.io/github/stars/XXiaoA/atone.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/atone.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/atone.nvim)
 * [SunnyTamang/select-undo.nvim](https://github.com/SunnyTamang/select-undo.nvim) ⭐ 127 | 🐛 0 | 🌐 Lua | 📅 2026-07-05 ![](https://img.shields.io/github/stars/SunnyTamang/select-undo.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/select-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/select-undo.nvim)
-* [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim) ⭐ 105 | 🐛 1 | 🌐 Lua | 📅 2026-07-04 ![](https://img.shields.io/github/stars/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/undo-glow.nvim)
+* [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim) ⭐ 106 | 🐛 1 | 🌐 Lua | 📅 2026-07-04 ![](https://img.shields.io/github/stars/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/undo-glow.nvim)
 * [y3owk1n/time-machine.nvim](https://github.com/y3owk1n/time-machine.nvim) ⭐ 80 | 🐛 0 | 🌐 Lua | 📅 2026-07-04 ![](https://img.shields.io/github/stars/y3owk1n/time-machine.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/time-machine.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/time-machine.nvim)
 * [aileot/emission.nvim](https://github.com/aileot/emission.nvim) ⭐ 25 | 🐛 1 | 🌐 Fennel | 📅 2025-02-21 ![](https://img.shields.io/github/stars/aileot/emission.nvim) ![](https://img.shields.io/github/last-commit/aileot/emission.nvim) ![](https://img.shields.io/github/commit-activity/y/aileot/emission.nvim)
 * [mvllow/session-undo.nvim](https://github.com/mvllow/session-undo.nvim) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2025-02-09 ![](https://img.shields.io/github/stars/mvllow/session-undo.nvim) ![](https://img.shields.io/github/last-commit/mvllow/session-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/session-undo.nvim)
@@ -704,4 +704,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
