@@ -2559,7 +2559,7 @@
                 "last_commit": "2024-08-16T03:55:30Z",
                 "owner": "jbyuki",
                 "repo": "venn.nvim",
-                "stars": 1179
+                "stars": 1181
               }
             },
             {
@@ -2705,7 +2705,7 @@
                 "archived": false,
                 "id": 1277984459,
                 "language": "Lua",
-                "last_commit": "2026-08-24T04:24:36Z",
+                "last_commit": "2026-08-24T17:12:34Z",
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
                 "stars": 1
@@ -3040,7 +3040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:42.193Z",
+    "last_updated": "2026-08-24T20:54:06.376Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
     "original_repository_id": 482552025,
     "original_repository_sha": "963c32068015eb76db6f1752ab255dc68f029ca9",
