@@ -4,6 +4,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "OXY2DEV/bars.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 828239135,
+            "language": "Lua",
+            "last_commit": "2026-05-31T13:21:56Z",
+            "owner": "OXY2DEV",
+            "repo": "bars.nvim",
+            "stars": 95
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -914,6 +929,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "haolian9/gary.nvim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 824692450,
+                "language": "Lua",
+                "last_commit": "2025-12-26T04:11:13Z",
+                "owner": "haolian9",
+                "repo": "gary.nvim",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "matchadd"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "fvictorio/eval-replace.nvim",
               "description": null,
               "children": [],
@@ -1118,6 +1155,44 @@
           "description": null,
           "node_type": "group",
           "title": "Align"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "julienvincent/nvim-paredit",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dnebauer/dn-markdown.nvim",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 748894993,
+                    "language": "Lua",
+                    "last_commit": "2026-08-03T07:30:54Z",
+                    "owner": "dnebauer",
+                    "repo": "dn-markdown.nvim",
+                    "stars": 1
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 650743148,
+                "language": "Lua",
+                "last_commit": "2025-12-08T17:18:22Z",
+                "owner": "julienvincent",
+                "repo": "nvim-paredit",
+                "stars": 262
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Parenthetical edit"
         },
         {
           "children": [
@@ -1906,6 +1981,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "axlebedev/nvim-footprints",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154530773,
+                "language": "Lua",
+                "last_commit": "2026-03-12T15:32:53Z",
+                "owner": "axlebedev",
+                "repo": "nvim-footprints",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":changes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "srackham/digraph-picker.nvim",
               "description": null,
               "children": [],
@@ -2152,6 +2249,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "mart-mihkel/pshada.nvim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1029541910,
+                "language": "Lua",
+                "last_commit": "2025-08-13T08:11:31Z",
+                "owner": "mart-mihkel",
+                "repo": "pshada.nvim",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shada"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "notomo/gesture.nvim",
               "description": null,
               "children": [],
@@ -2184,6 +2303,28 @@
           "description": null,
           "node_type": "group",
           "title": "Mouse"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "muellan/nvim-telescope-arglist",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1331119153,
+                "language": "Lua",
+                "last_commit": "2026-08-11T16:15:02Z",
+                "owner": "muellan",
+                "repo": "nvim-telescope-arglist",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Argument List"
         }
       ],
       "title": "Other Standard Feature Enhancement"
@@ -2191,6 +2332,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SleepySwords/change-function.nvim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 804170627,
+                "language": "Lua",
+                "last_commit": "2025-02-17T08:09:35Z",
+                "owner": "SleepySwords",
+                "repo": "change-function.nvim",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Function Arguments"
+        },
         {
           "children": [
             {
@@ -2234,6 +2397,28 @@
           "description": null,
           "node_type": "group",
           "title": "Comment Out"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "piersolenski/telescope-import.nvim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 686779255,
+                "language": "Lua",
+                "last_commit": "2026-04-05T00:04:36Z",
+                "owner": "piersolenski",
+                "repo": "import.nvim",
+                "stars": 265
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Import"
         },
         {
           "children": [
@@ -2520,7 +2705,7 @@
                 "archived": false,
                 "id": 1277984459,
                 "language": "Lua",
-                "last_commit": "2026-08-17T17:34:04Z",
+                "last_commit": "2026-08-24T04:24:36Z",
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
                 "stars": 1
@@ -2597,6 +2782,72 @@
           "description": null,
           "node_type": "group",
           "title": "Reload Configuration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cassin01/sche.nvim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 559131281,
+                "language": "Lua",
+                "last_commit": "2024-08-18T07:37:08Z",
+                "owner": "Cassin01",
+                "repo": "sche.nvim",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Schedule"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jerrywang1981/keystroke.nvim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570742902,
+                "language": "Lua",
+                "last_commit": "2025-04-01T00:40:48Z",
+                "owner": "jerrywang1981",
+                "repo": "keystroke.nvim",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Key stroke"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "notomo/waitevent.nvim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601632744,
+                "language": "Lua",
+                "last_commit": "2026-08-10T01:48:36Z",
+                "owner": "notomo",
+                "repo": "waitevent.nvim",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "EDITOR"
         },
         {
           "children": [
@@ -2789,10 +3040,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:44:20.393Z",
+    "last_updated": "2026-08-24T14:19:42.193Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
     "original_repository_id": 482552025,
-    "original_repository_sha": "058f9c2f98d51bba3005930476e34c66d0e49d20",
+    "original_repository_sha": "963c32068015eb76db6f1752ab255dc68f029ca9",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
