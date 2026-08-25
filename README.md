@@ -508,7 +508,7 @@
 
 #### Context Header
 
-* [romgrk/nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context) ⭐ 3,224 | 🐛 31 | 🌐 Janet | 📅 2026-08-02 ![](https://img.shields.io/github/stars/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/last-commit/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/commit-activity/y/romgrk/nvim-treesitter-context)
+* [romgrk/nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context) ⭐ 3,225 | 🐛 31 | 🌐 Janet | 📅 2026-08-02 ![](https://img.shields.io/github/stars/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/last-commit/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/commit-activity/y/romgrk/nvim-treesitter-context)
 * [polarmutex/contextprint.nvim](https://github.com/polarmutex/contextprint.nvim) ⭐ 40 | 🐛 0 | 🌐 Lua | 📅 2021-07-18 ![](https://img.shields.io/github/stars/polarmutex/contextprint.nvim) ![](https://img.shields.io/github/last-commit/polarmutex/contextprint.nvim) ![](https://img.shields.io/github/commit-activity/y/polarmutex/contextprint.nvim)
 
 ### [Linter / Formatter](./linter_formatter.md)
@@ -520,7 +520,7 @@
 ### Regex
 
 * [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) ⭐ 758 | 🐛 2 | 🌐 Lua | 📅 2026-04-14 ![](https://img.shields.io/github/stars/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/last-commit/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/commit-activity/y/bennypowers/nvim-regexplainer)
-* [tomiis4/Hypersonic.nvim](https://github.com/tomiis4/Hypersonic.nvim) ⭐ 232 | 🐛 3 | 🌐 Lua | 📅 2024-08-11 ![](https://img.shields.io/github/stars/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/last-commit/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/commit-activity/y/tomiis4/Hypersonic.nvim)
+* [tomiis4/Hypersonic.nvim](https://github.com/tomiis4/Hypersonic.nvim) ⭐ 233 | 🐛 3 | 🌐 Lua | 📅 2024-08-11 ![](https://img.shields.io/github/stars/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/last-commit/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/commit-activity/y/tomiis4/Hypersonic.nvim)
 * [Djancyp/regex.nvim](https://github.com/Djancyp/regex.nvim) ⭐ 40 | 🐛 3 | 🌐 Lua | 📅 2023-08-25 ![](https://img.shields.io/github/stars/Djancyp/regex.nvim) ![](https://img.shields.io/github/last-commit/Djancyp/regex.nvim) ![](https://img.shields.io/github/commit-activity/y/Djancyp/regex.nvim)
 * [rclawlor/regex-railroad.nvim](https://github.com/rclawlor/regex-railroad.nvim) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2024-06-29 ![](https://img.shields.io/github/stars/rclawlor/regex-railroad.nvim) ![](https://img.shields.io/github/last-commit/rclawlor/regex-railroad.nvim) ![](https://img.shields.io/github/commit-activity/y/rclawlor/regex-railroad.nvim)
 * [jake-stewart/regex-vars.nvim](https://github.com/jake-stewart/regex-vars.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2025-03-31 ![](https://img.shields.io/github/stars/jake-stewart/regex-vars.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/regex-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/regex-vars.nvim)
@@ -550,7 +550,7 @@
 
 ### Diagram
 
-* [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) ⭐ 1,181 | 🐛 5 | 🌐 Lua | 📅 2024-08-16 ![](https://img.shields.io/github/stars/jbyuki/venn.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/venn.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/venn.nvim)
+* [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) ⭐ 1,182 | 🐛 5 | 🌐 Lua | 📅 2024-08-16 ![](https://img.shields.io/github/stars/jbyuki/venn.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/venn.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/venn.nvim)
 * [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) ⭐ 403 | 🐛 26 | 🌐 Lua | 📅 2026-06-12 ![](https://img.shields.io/github/stars/3rd/diagram.nvim) ![](https://img.shields.io/github/last-commit/3rd/diagram.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/diagram.nvim)
 * [McKean/diagon.nvim](https://github.com/McKean/diagon.nvim) ⭐ 3 | 🐛 1 | 🌐 Lua | 📅 2024-05-23 ![](https://img.shields.io/github/stars/McKean/diagon.nvim) ![](https://img.shields.io/github/last-commit/McKean/diagon.nvim) ![](https://img.shields.io/github/commit-activity/y/McKean/diagon.nvim)
 
@@ -569,7 +569,7 @@
 ### File Handling
 
 * [chrisgrieser/nvim-ghengis](https://github.com/chrisgrieser/nvim-ghengis) ⭐ 222 | 🐛 2 | 🌐 Lua | 📅 2026-08-03 ![](https://img.shields.io/github/stars/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-ghengis)
-* [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-24 ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
+* [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-25 ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
 
 ### Reload Configuration
 

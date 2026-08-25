@@ -2370,7 +2370,7 @@
                     "last_commit": "2026-08-02T08:51:48Z",
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3224
+                    "stars": 3225
                   }
                 },
                 {
@@ -2449,7 +2449,7 @@
                 "last_commit": "2024-08-11T17:31:34Z",
                 "owner": "tomiis4",
                 "repo": "hypersonic.nvim",
-                "stars": 232
+                "stars": 233
               }
             },
             {
@@ -2559,7 +2559,7 @@
                 "last_commit": "2024-08-16T03:55:30Z",
                 "owner": "jbyuki",
                 "repo": "venn.nvim",
-                "stars": 1181
+                "stars": 1182
               }
             },
             {
@@ -2705,7 +2705,7 @@
                 "archived": false,
                 "id": 1277984459,
                 "language": "Lua",
-                "last_commit": "2026-08-24T17:12:34Z",
+                "last_commit": "2026-08-25T19:58:00Z",
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
                 "stars": 1
@@ -3040,7 +3040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:06.107Z",
+    "last_updated": "2026-08-25T20:51:34.842Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
     "original_repository_id": 482552025,
     "original_repository_sha": "e1cf5c28b489aaeb1ee9d89bacec8e324d53dbeb",
