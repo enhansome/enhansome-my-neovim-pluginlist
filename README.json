@@ -2370,7 +2370,7 @@
                     "last_commit": "2026-08-02T08:51:48Z",
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3223
+                    "stars": 3224
                   }
                 },
                 {
@@ -3040,10 +3040,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:54:06.376Z",
+    "last_updated": "2026-08-25T06:09:06.107Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
     "original_repository_id": 482552025,
-    "original_repository_sha": "963c32068015eb76db6f1752ab255dc68f029ca9",
+    "original_repository_sha": "e1cf5c28b489aaeb1ee9d89bacec8e324d53dbeb",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
