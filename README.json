@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-09T13:17:28Z",
                 "owner": "luukvbaal",
                 "repo": "statuscol.nvim",
-                "stars": 613
+                "stars": 612
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2025-09-14T21:16:08Z",
                 "owner": "Aasim-A",
                 "repo": "scrollEOF.nvim",
-                "stars": 170
+                "stars": 171
               }
             },
             {
@@ -1013,7 +1013,7 @@
                 "last_commit": "2026-07-07T13:41:52Z",
                 "owner": "nvim-mini",
                 "repo": "mini.align",
-                "stars": 176
+                "stars": 178
               }
             },
             {
@@ -1186,7 +1186,7 @@
                 "last_commit": "2025-12-08T17:18:22Z",
                 "owner": "julienvincent",
                 "repo": "nvim-paredit",
-                "stars": 262
+                "stars": 263
               }
             }
           ],
@@ -1415,7 +1415,7 @@
                 "last_commit": "2026-06-19T09:17:35Z",
                 "owner": "sitiom",
                 "repo": "nvim-numbertoggle",
-                "stars": 229
+                "stars": 230
               }
             },
             {
@@ -2705,7 +2705,7 @@
                 "archived": false,
                 "id": 1277984459,
                 "language": "Lua",
-                "last_commit": "2026-08-25T19:58:00Z",
+                "last_commit": "2026-08-26T20:34:49Z",
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
                 "stars": 1
@@ -2863,7 +2863,7 @@
                 "last_commit": "2026-04-01T01:54:28Z",
                 "owner": "neo451",
                 "repo": "feed.nvim",
-                "stars": 206
+                "stars": 205
               }
             },
             {
@@ -3040,10 +3040,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:51:34.842Z",
+    "last_updated": "2026-08-26T23:47:01.547Z",
     "original_repository": "yutkat/my-neovim-pluginlist",
     "original_repository_id": 482552025,
-    "original_repository_sha": "e1cf5c28b489aaeb1ee9d89bacec8e324d53dbeb",
+    "original_repository_sha": "a4f6c4aa9ec99f9c4595558b8c6fa21ea45d14e9",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
