@@ -467,7 +467,7 @@
 * [ph1losof/ecolog2.nvim](https://github.com/ph1losof/ecolog2.nvim) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2026-05-19 ![](https://img.shields.io/github/stars/ph1losof/ecolog2.nvim) ![](https://img.shields.io/github/last-commit/ph1losof/ecolog2.nvim) ![](https://img.shields.io/github/commit-activity/y/ph1losof/ecolog2.nvim)
 * [yohendry/envs.nvim](https://github.com/yohendry/envs.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2024-06-02 ![](https://img.shields.io/github/stars/yohendry/envs.nvim) ![](https://img.shields.io/github/last-commit/yohendry/envs.nvim) ![](https://img.shields.io/github/commit-activity/y/yohendry/envs.nvim)
 * [Alexandersfg4/environment.nvim](https://github.com/Alexandersfg4/environment.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2025-03-25 ![](https://img.shields.io/github/stars/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/last-commit/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/commit-activity/y/Alexandersfg4/environment.nvim)
-* [sociale11/envim.nvim](https://github.com/sociale11/envim.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-05-17 ![](https://img.shields.io/github/stars/sociale11/envim.nvim) ![](https://img.shields.io/github/last-commit/sociale11/envim.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/envim.nvim)
+* [sociale11/envim.nvim](https://github.com/sociale11/envim.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-08-27 ![](https://img.shields.io/github/stars/sociale11/envim.nvim) ![](https://img.shields.io/github/last-commit/sociale11/envim.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/envim.nvim)
 * [Leonardo-Luz/hidenv.nvim](https://github.com/Leonardo-Luz/hidenv.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-04-10 ![](https://img.shields.io/github/stars/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/hidenv.nvim)
 * [Gyandeep09/env-drift.nvim](https://github.com/Gyandeep09/env-drift.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-07-29 ![](https://img.shields.io/github/stars/Gyandeep09/env-drift.nvim) ![](https://img.shields.io/github/last-commit/Gyandeep09/env-drift.nvim) ![](https://img.shields.io/github/commit-activity/y/Gyandeep09/env-drift.nvim)
 
@@ -569,7 +569,7 @@
 ### File Handling
 
 * [chrisgrieser/nvim-ghengis](https://github.com/chrisgrieser/nvim-ghengis) ⭐ 222 | 🐛 2 | 🌐 Lua | 📅 2026-08-03 ![](https://img.shields.io/github/stars/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-ghengis)
-* [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-26 ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
+* [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-27 ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
 
 ### Reload Configuration
 
@@ -704,4 +704,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
