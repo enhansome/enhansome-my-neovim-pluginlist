@@ -239,7 +239,7 @@
 
 ### listchars
 
-* [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) ⭐ 476 | 🐛 0 | 🌐 Lua | 📅 2026-06-05 ![](https://img.shields.io/github/stars/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/last-commit/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/mcauley-penney/visual-whitespace.nvim)
+* [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) ⭐ 477 | 🐛 0 | 🌐 Lua | 📅 2026-06-05 ![](https://img.shields.io/github/stars/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/last-commit/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/mcauley-penney/visual-whitespace.nvim)
 * [fraso-dev/nvim-listchars](https://github.com/fraso-dev/nvim-listchars) ⭐ 22 | 🐛 1 | 🌐 Lua | 📅 2025-05-28 ![](https://img.shields.io/github/stars/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/last-commit/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/commit-activity/y/fraso-dev/nvim-listchars)
 * [rseichter/ellipsis.nvim](https://github.com/rseichter/ellipsis.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-04-24 ![](https://img.shields.io/github/stars/rseichter/ellipsis.nvim) ![](https://img.shields.io/github/last-commit/rseichter/ellipsis.nvim) ![](https://img.shields.io/github/commit-activity/y/rseichter/ellipsis.nvim)
 * [Corey-Keller/ToggleListChars.nvim](https://github.com/Corey-Keller/ToggleListChars.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-04-17 ![](https://img.shields.io/github/stars/Corey-Keller/ToggleListChars.nvim) ![](https://img.shields.io/github/last-commit/Corey-Keller/ToggleListChars.nvim) ![](https://img.shields.io/github/commit-activity/y/Corey-Keller/ToggleListChars.nvim)
@@ -324,7 +324,7 @@
 ### Align
 
 * [Vonr/align.nvim](https://github.com/Vonr/align.nvim) ⭐ 186 | 🐛 7 | 🌐 Lua | 📅 2024-04-10 ![](https://img.shields.io/github/stars/Vonr/align.nvim) ![](https://img.shields.io/github/last-commit/Vonr/align.nvim) ![](https://img.shields.io/github/commit-activity/y/Vonr/align.nvim)
-* [echasnovski/mini.align](https://github.com/echasnovski/mini.align) ⭐ 178 | 🐛 0 | 🌐 Lua | 📅 2026-07-07 ![](https://img.shields.io/github/stars/echasnovski/mini.align) ![](https://img.shields.io/github/last-commit/echasnovski/mini.align) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.align)
+* [echasnovski/mini.align](https://github.com/echasnovski/mini.align) ⭐ 179 | 🐛 0 | 🌐 Lua | 📅 2026-07-07 ![](https://img.shields.io/github/stars/echasnovski/mini.align) ![](https://img.shields.io/github/last-commit/echasnovski/mini.align) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.align)
 * [RRethy/nvim-align](https://github.com/RRethy/nvim-align) ⭐ 49 | 🐛 0 | 🌐 Lua | 📅 2022-08-23 ![](https://img.shields.io/github/stars/RRethy/nvim-align) ![](https://img.shields.io/github/last-commit/RRethy/nvim-align) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-align)
 * [jakeru/columnize.nvim](https://github.com/jakeru/columnize.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2024-01-12 ![](https://img.shields.io/github/stars/jakeru/columnize.nvim) ![](https://img.shields.io/github/last-commit/jakeru/columnize.nvim) ![](https://img.shields.io/github/commit-activity/y/jakeru/columnize.nvim)
 * [vzze/aligner.nvim](https://github.com/vzze/aligner.nvim) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2022-11-15 ![](https://img.shields.io/github/stars/vzze/aligner.nvim) ![](https://img.shields.io/github/last-commit/vzze/aligner.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/aligner.nvim)
@@ -704,4 +704,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

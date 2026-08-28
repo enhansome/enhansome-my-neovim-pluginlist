@@ -16,7 +16,8 @@
             "owner": "OXY2DEV",
             "repo": "bars.nvim",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T04:23:46.669Z"
         },
         {
           "children": [
@@ -33,7 +34,8 @@
                 "owner": "luukvbaal",
                 "repo": "statuscol.nvim",
                 "stars": 612
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ElPiloto",
                 "repo": "significant.nvim",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "wsdjeg",
                 "repo": "statuscolumn.nvim",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "tombell",
                 "repo": "hem.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "coreyb-git",
                 "repo": "statuscolumn.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -115,7 +121,8 @@
                 "owner": "nvim-zh",
                 "repo": "colorful-winsep.nvim",
                 "stars": 707
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "A-Lamia",
                 "repo": "spotlight.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "Aasim-A",
                 "repo": "scrollEOF.nvim",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "LZDQ",
                 "repo": "nvim-autocenter",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "vvvvv",
                 "repo": "yfix.nvim",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "MagnetizedFreckles",
                 "repo": "centerscroll.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -219,7 +231,8 @@
                 "owner": "andrewferrier",
                 "repo": "wrapping.nvim",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "benlubas",
                 "repo": "wrapping-paper.nvim",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "rlychrisg",
                 "repo": "truncateline.nvim",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -271,7 +286,8 @@
                 "owner": "RoBaertschi",
                 "repo": "modeline2.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -286,7 +302,8 @@
                 "owner": "CheesyChocolate",
                 "repo": "modeline.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "Coding4Glory",
                 "repo": "modneo-modeline",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -323,7 +341,8 @@
                 "owner": "folke",
                 "repo": "twilight.nvim",
                 "stars": 1548
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -338,7 +357,8 @@
                 "owner": "koenverburg",
                 "repo": "peepsight.nvim",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -359,8 +379,9 @@
                 "last_commit": "2026-06-05T17:30:16Z",
                 "owner": "mcauley-penney",
                 "repo": "visual-whitespace.nvim",
-                "stars": 476
-              }
+                "stars": 477
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -375,7 +396,8 @@
                 "owner": "0xfraso",
                 "repo": "nvim-listchars",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -390,7 +412,8 @@
                 "owner": "rseichter",
                 "repo": "ellipsis.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -405,7 +428,8 @@
                 "owner": "Corey-Keller",
                 "repo": "ToggleListChars.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -431,7 +455,8 @@
             "owner": "gregorias",
             "repo": "toggle.nvim",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T04:23:46.669Z"
         },
         {
           "node_type": "item",
@@ -446,7 +471,8 @@
             "owner": "walkingshamrock",
             "repo": "optiongroup.nvim",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:23:46.669Z"
         },
         {
           "node_type": "item",
@@ -461,7 +487,8 @@
             "owner": "Kibadda",
             "repo": "starter.nvim",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T04:23:46.669Z"
         },
         {
           "node_type": "item",
@@ -476,7 +503,8 @@
             "owner": "ras0q",
             "repo": "optplus.nvim",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T04:23:46.669Z"
         }
       ],
       "title": "Set Option"
@@ -499,7 +527,8 @@
                 "owner": "AgusDOLARD",
                 "repo": "backout.nvim",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -514,7 +543,8 @@
                 "owner": "csessh",
                 "repo": "stopinsert.nvim",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -529,7 +559,8 @@
                 "owner": "duqcyxwd",
                 "repo": "stringbreaker.nvim",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -544,7 +575,8 @@
                 "owner": "sontungexpt",
                 "repo": "bim.nvim",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -559,7 +591,8 @@
                 "owner": "yuki-yano",
                 "repo": "smart-i.nvim",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -574,7 +607,8 @@
                 "owner": "AntonVanAssche",
                 "repo": "date-time-inserter.nvim",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -589,7 +623,8 @@
                 "owner": "tehdb",
                 "repo": "nvim-faker",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -604,7 +639,8 @@
                 "owner": "aidancz",
                 "repo": "lfsp.nvim",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -619,7 +655,8 @@
                 "owner": "enoatu",
                 "repo": "nvim-smartchr",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -634,7 +671,8 @@
                 "owner": "njaczko",
                 "repo": "nvim-dummy-text",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -649,7 +687,8 @@
                 "owner": "nobody-famous",
                 "repo": "lima.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -664,7 +703,8 @@
                 "owner": "Akirisu-kirisu",
                 "repo": "nvim-insert-mode",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -679,7 +719,8 @@
                 "owner": "bwintertkb",
                 "repo": "enclose_nav.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -694,7 +735,8 @@
                 "owner": "resonyze",
                 "repo": "erase_node.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -709,7 +751,8 @@
                 "owner": "adammccartney",
                 "repo": "nvim-rinse",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -724,7 +767,8 @@
                 "owner": "Someone-s-out-there",
                 "repo": "stutter.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -739,7 +783,8 @@
                 "owner": "haolian9",
                 "repo": "ico.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -754,7 +799,8 @@
                 "owner": "ins0mniaque",
                 "repo": "sacrilege.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -769,7 +815,8 @@
                 "owner": "cwmaguire",
                 "repo": "datebox.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "children": [
@@ -786,7 +833,8 @@
                     "owner": "boltlessengineer",
                     "repo": "smart-tab.nvim",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:46.669Z"
                 },
                 {
                   "node_type": "item",
@@ -801,7 +849,8 @@
                     "owner": "lsvmello",
                     "repo": "elastictabstops.nvim",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:46.669Z"
                 },
                 {
                   "node_type": "item",
@@ -816,7 +865,8 @@
                     "owner": "nvim-jo",
                     "repo": "smarttab.nvim",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:46.669Z"
                 }
               ],
               "description": null,
@@ -843,7 +893,8 @@
                 "owner": "monkoose",
                 "repo": "matchparen.nvim",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -858,7 +909,8 @@
                 "owner": "yorickpeterse",
                 "repo": "nvim-tree-pairs",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -873,7 +925,8 @@
                 "owner": "rareitems",
                 "repo": "hl_match_area.nvim",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -888,7 +941,8 @@
                 "owner": "tar80",
                 "repo": "matchwith.nvim",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -903,7 +957,8 @@
                 "owner": "jugarpeupv",
                 "repo": "visual-match-paren.nvim",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -918,7 +973,8 @@
                 "owner": "haolian9",
                 "repo": "showmatch.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -940,7 +996,8 @@
                 "owner": "haolian9",
                 "repo": "gary.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -962,7 +1019,8 @@
                 "owner": "fvictorio",
                 "repo": "eval-replace.nvim",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -977,7 +1035,8 @@
                 "owner": "lost22git",
                 "repo": "run-visual.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -999,7 +1058,8 @@
                 "owner": "Vonr",
                 "repo": "align.nvim",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1013,8 +1073,9 @@
                 "last_commit": "2026-07-07T13:41:52Z",
                 "owner": "nvim-mini",
                 "repo": "mini.align",
-                "stars": 178
-              }
+                "stars": 179
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1029,7 +1090,8 @@
                 "owner": "RRethy",
                 "repo": "nvim-align",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1044,7 +1106,8 @@
                 "owner": "jakeru",
                 "repo": "columnize.nvim",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1059,7 +1122,8 @@
                 "owner": "vzze",
                 "repo": "aligner.nvim",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1074,7 +1138,8 @@
                 "owner": "chuck-flowers",
                 "repo": "align-selection.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1089,7 +1154,8 @@
                 "owner": "haolian9",
                 "repo": "furrow.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1104,7 +1170,8 @@
                 "owner": "ApolloFops",
                 "repo": "virtual-align.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1119,7 +1186,8 @@
                 "owner": "AGomezCuervo",
                 "repo": "align.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1134,7 +1202,8 @@
                 "owner": "NoSpawnn",
                 "repo": "align.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1149,7 +1218,8 @@
                 "owner": "FLeWz",
                 "repo": "align-format.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -1176,7 +1246,8 @@
                     "owner": "dnebauer",
                     "repo": "dn-markdown.nvim",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:46.669Z"
                 }
               ],
               "repo_info": {
@@ -1187,7 +1258,8 @@
                 "owner": "julienvincent",
                 "repo": "nvim-paredit",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -1209,7 +1281,8 @@
                 "owner": "boltlessengineer",
                 "repo": "zeta.nvim",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1224,7 +1297,8 @@
                 "owner": "Southporter",
                 "repo": "zeta.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1239,7 +1313,8 @@
                 "owner": "zenodea",
                 "repo": "nextedit.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -1261,7 +1336,8 @@
                 "owner": "LunarVim",
                 "repo": "bigfile.nvim",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1276,7 +1352,8 @@
                 "owner": "pteroctopus",
                 "repo": "faster.nvim",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1291,7 +1368,8 @@
                 "owner": "ouuan",
                 "repo": "nvim-bigfile",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1306,7 +1384,8 @@
                 "owner": "mei28",
                 "repo": "BigSheetGardna.nvim",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -1328,7 +1407,8 @@
                 "owner": "abecodes",
                 "repo": "tabout.nvim",
                 "stars": 861
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1343,7 +1423,8 @@
                 "owner": "saifulapm",
                 "repo": "chartoggle.nvim",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1358,7 +1439,8 @@
                 "owner": "AllenDang",
                 "repo": "nvim-expand-expr",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1373,7 +1455,8 @@
                 "owner": "svban",
                 "repo": "Reverse.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1388,7 +1471,8 @@
                 "owner": "Parsifa1",
                 "repo": "smartab.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -1416,7 +1500,8 @@
                 "owner": "sitiom",
                 "repo": "nvim-numbertoggle",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1431,7 +1516,8 @@
                 "owner": "shrynx",
                 "repo": "line-numbers.nvim",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1446,7 +1532,8 @@
                 "owner": "nkakouros-original",
                 "repo": "numbers.nvim",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1461,7 +1548,8 @@
                 "owner": "cpea2506",
                 "repo": "relative-toggle.nvim",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1476,7 +1564,8 @@
                 "owner": "indium114",
                 "repo": "unobtrusive-relnums.nvim",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1491,7 +1580,8 @@
                 "owner": "prichrd",
                 "repo": "flagmode.nvim",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1506,7 +1596,8 @@
                 "owner": "lum1nar",
                 "repo": "peep.nvim",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1521,7 +1612,8 @@
                 "owner": "fluxdiv",
                 "repo": "relative-rainbow.nvim",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1536,7 +1628,8 @@
                 "owner": "gvlatko",
                 "repo": "inline-relative-numbers.nvim",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1551,7 +1644,8 @@
                 "owner": "dk949",
                 "repo": "file_line.nvim",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1566,7 +1660,8 @@
                 "owner": "walkingshamrock",
                 "repo": "rnum.nvim",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1581,7 +1676,8 @@
                 "owner": "markosnarinian",
                 "repo": "ln.nvim",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1596,7 +1692,8 @@
                 "owner": "redxtech",
                 "repo": "sharing.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1611,7 +1708,8 @@
                 "owner": "Sayyidalijufri",
                 "repo": "termlinehide.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1626,7 +1724,8 @@
                 "owner": "DarrellBrogdon",
                 "repo": "trnu.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1641,7 +1740,8 @@
                 "owner": "joshdirkx",
                 "repo": "toggle-relativenumber.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1656,7 +1756,8 @@
                 "owner": "Long104",
                 "repo": "hidecolumn.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1671,7 +1772,8 @@
                 "owner": "teial",
                 "repo": "relvirt.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1686,7 +1788,8 @@
                 "owner": "am2b",
                 "repo": "smartnumber.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1701,7 +1804,8 @@
                 "owner": "segfaulted67",
                 "repo": "rln.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1716,7 +1820,8 @@
                 "owner": "secobaka",
                 "repo": "peepingnum.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1731,7 +1836,8 @@
                 "owner": "rastaesh",
                 "repo": "relative-toggle.nvim",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -1753,7 +1859,8 @@
                 "owner": "debugloop",
                 "repo": "telescope-undo.nvim",
                 "stars": 788
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1768,7 +1875,8 @@
                 "owner": "jiaoshijie",
                 "repo": "undotree",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1783,7 +1891,8 @@
                 "owner": "tzachar",
                 "repo": "highlight-undo.nvim",
                 "stars": 355
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1798,7 +1907,8 @@
                 "owner": "XXiaoA",
                 "repo": "atone.nvim",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1813,7 +1923,8 @@
                 "owner": "SunnyTamang",
                 "repo": "select-undo.nvim",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1828,7 +1939,8 @@
                 "owner": "y3owk1n",
                 "repo": "undo-glow.nvim",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1843,7 +1955,8 @@
                 "owner": "y3owk1n",
                 "repo": "time-machine.nvim",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1858,7 +1971,8 @@
                 "owner": "aileot",
                 "repo": "emission.nvim",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1873,7 +1987,8 @@
                 "owner": "mvllow",
                 "repo": "session-undo.nvim",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1888,7 +2003,8 @@
                 "owner": "haolian9",
                 "repo": "redostr.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1903,7 +2019,8 @@
                 "owner": "walkingshamrock",
                 "repo": "undoplay.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -1925,7 +2042,8 @@
                 "owner": "quangnguyen30192",
                 "repo": "cmp-nvim-tags",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1940,7 +2058,8 @@
                 "owner": "weilbith",
                 "repo": "nvim-floating-tag-preview",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1955,7 +2074,8 @@
                 "owner": "linrongbin16",
                 "repo": "gentags.nvim",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -1970,7 +2090,8 @@
                 "owner": "francescoApophis",
                 "repo": "tags.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -1992,7 +2113,8 @@
                 "owner": "axlebedev",
                 "repo": "nvim-footprints",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2014,7 +2136,8 @@
                 "owner": "srackham",
                 "repo": "digraph-picker.nvim",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2029,7 +2152,8 @@
                 "owner": "jonathanforhan",
                 "repo": "nvim-glyph",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2044,7 +2168,8 @@
                 "owner": "adorostkar",
                 "repo": "NGG.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2066,7 +2191,8 @@
                 "owner": "0styx0",
                 "repo": "abbreinder.nvim",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2081,7 +2207,8 @@
                 "owner": "ck-zhang",
                 "repo": "mistake.nvim",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2096,7 +2223,8 @@
                 "owner": "shadyalfred",
                 "repo": "electric-quotes.nvim",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2111,7 +2239,8 @@
                 "owner": "reyalka",
                 "repo": "shell-abbr.nvim",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2126,7 +2255,8 @@
                 "owner": "Russoul",
                 "repo": "abbrev-expand.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2141,7 +2271,8 @@
                 "owner": "dgtipon",
                 "repo": "abbrev-gen.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2163,7 +2294,8 @@
                 "owner": "ph1losof",
                 "repo": "ecolog2.nvim",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2178,7 +2310,8 @@
                 "owner": "yohendry",
                 "repo": "envs.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2193,7 +2326,8 @@
                 "owner": "Alexandersfg4",
                 "repo": "environment.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2208,7 +2342,8 @@
                 "owner": "sociale11",
                 "repo": "envim.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2223,7 +2358,8 @@
                 "owner": "Leonardo-Luz",
                 "repo": "hidenv.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2238,7 +2374,8 @@
                 "owner": "Gyandeep09",
                 "repo": "env-drift.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2260,7 +2397,8 @@
                 "owner": "mart-mihkel",
                 "repo": "pshada.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2282,7 +2420,8 @@
                 "owner": "notomo",
                 "repo": "gesture.nvim",
                 "stars": 546
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2297,7 +2436,8 @@
                 "owner": "ryardley",
                 "repo": "mouser.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2319,7 +2459,8 @@
                 "owner": "muellan",
                 "repo": "nvim-telescope-arglist",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2347,7 +2488,8 @@
                 "owner": "SleepySwords",
                 "repo": "change-function.nvim",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2371,7 +2513,8 @@
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
                     "stars": 3225
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:46.669Z"
                 },
                 {
                   "node_type": "item",
@@ -2386,7 +2529,8 @@
                     "owner": "polarmutex",
                     "repo": "contextprint.nvim",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:46.669Z"
                 }
               ],
               "description": null,
@@ -2413,7 +2557,8 @@
                 "owner": "piersolenski",
                 "repo": "import.nvim",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2435,7 +2580,8 @@
                 "owner": "bennypowers",
                 "repo": "nvim-regexplainer",
                 "stars": 758
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2450,7 +2596,8 @@
                 "owner": "tomiis4",
                 "repo": "hypersonic.nvim",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2465,7 +2612,8 @@
                 "owner": "Djancyp",
                 "repo": "regex.nvim",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2480,7 +2628,8 @@
                 "owner": "rclawlor",
                 "repo": "regex-railroad.nvim",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2495,7 +2644,8 @@
                 "owner": "jake-stewart",
                 "repo": "regex-vars.nvim",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2517,7 +2667,8 @@
                 "owner": "jeangiraldoo",
                 "repo": "codedocs.nvim",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2532,7 +2683,8 @@
                 "owner": "Zeioth",
                 "repo": "dooku.nvim",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2560,7 +2712,8 @@
                 "owner": "jbyuki",
                 "repo": "venn.nvim",
                 "stars": 1182
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2575,7 +2728,8 @@
                 "owner": "3rd",
                 "repo": "diagram.nvim",
                 "stars": 403
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2590,7 +2744,8 @@
                 "owner": "McKean",
                 "repo": "diagon.nvim",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2612,7 +2767,8 @@
                 "owner": "lewis6991",
                 "repo": "hover.nvim",
                 "stars": 742
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2627,7 +2783,8 @@
                 "owner": "Fildo7525",
                 "repo": "pretty_hover",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2642,7 +2799,8 @@
                 "owner": "ellisonleao",
                 "repo": "weather.nvim",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2657,7 +2815,8 @@
                 "owner": "StonyBoy",
                 "repo": "nvim-update-time",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2672,7 +2831,8 @@
                 "owner": "dgyurov",
                 "repo": "termify.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2694,7 +2854,8 @@
                 "owner": "chrisgrieser",
                 "repo": "nvim-genghis",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2709,7 +2870,8 @@
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2731,7 +2893,8 @@
                 "owner": "Zeioth",
                 "repo": "hot-reload.nvim",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2746,7 +2909,8 @@
                 "owner": "milkias17",
                 "repo": "reloader.nvim",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2761,7 +2925,8 @@
                 "owner": "mskelton",
                 "repo": "live-reload.nvim",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2776,7 +2941,8 @@
                 "owner": "Little-Captain",
                 "repo": "reloader.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2798,7 +2964,8 @@
                 "owner": "Cassin01",
                 "repo": "sche.nvim",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2820,7 +2987,8 @@
                 "owner": "jerrywang1981",
                 "repo": "keystroke.nvim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2842,7 +3010,8 @@
                 "owner": "notomo",
                 "repo": "waitevent.nvim",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -2864,7 +3033,8 @@
                 "owner": "neo451",
                 "repo": "feed.nvim",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2879,7 +3049,8 @@
                 "owner": "r7sqtr",
                 "repo": "wyw.nvim",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2894,7 +3065,8 @@
                 "owner": "4DRIAN0RTIZ",
                 "repo": "rssfeed.nvim",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2909,7 +3081,8 @@
                 "owner": "pawemix",
                 "repo": "decscribe.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -2924,7 +3097,8 @@
                 "owner": "jwayston",
                 "repo": "quicknews.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "children": [
@@ -2941,7 +3115,8 @@
                     "owner": "liljaylj",
                     "repo": "codestats.nvim",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:46.669Z"
                 },
                 {
                   "node_type": "item",
@@ -2956,7 +3131,8 @@
                     "owner": "Freed-Wu",
                     "repo": "code-stats.nvim",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:46.669Z"
                 },
                 {
                   "node_type": "item",
@@ -2971,7 +3147,8 @@
                     "owner": "maorun",
                     "repo": "code-stats.nvim",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:23:46.669Z"
                 }
               ],
               "description": null,
@@ -2998,7 +3175,8 @@
                 "owner": "johannww",
                 "repo": "tts.nvim",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -3013,7 +3191,8 @@
                 "owner": "cskeeters",
                 "repo": "kokoro.nvim",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             },
             {
               "node_type": "item",
@@ -3028,7 +3207,8 @@
                 "owner": "derekriemer",
                 "repo": "nvim-speaks",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
             }
           ],
           "description": null,
@@ -3040,7 +3220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:16.997Z",
+    "last_updated": "2026-08-28T04:23:46.669Z",
     "original_repository_info": {
       "archived": false,
       "id": 482552025,
