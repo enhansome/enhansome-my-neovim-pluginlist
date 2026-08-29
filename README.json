@@ -530,7 +530,7 @@
                 "open_issues": 0,
                 "owner": "mcauley-penney",
                 "repo": "visual-whitespace.nvim",
-                "stars": 477,
+                "stars": 476,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -1763,27 +1763,6 @@
             },
             {
               "node_type": "item",
-              "title": "Southporter/zeta.nvim",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Zeta edit predictions for Neovim",
-                "homepage": null,
-                "id": 940100765,
-                "language": "Lua",
-                "license": "MIT",
-                "last_commit": "2025-02-27T16:18:32Z",
-                "open_issues": 0,
-                "owner": "Southporter",
-                "repo": "zeta.nvim",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:23:46.669Z"
-            },
-            {
-              "node_type": "item",
               "title": "zenodea/nextedit.nvim",
               "description": null,
               "children": [],
@@ -1798,6 +1777,27 @@
                 "open_issues": 0,
                 "owner": "zenodea",
                 "repo": "nextedit.nvim",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Southporter/zeta.nvim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Zeta edit predictions for Neovim",
+                "homepage": null,
+                "id": 940100765,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-02-27T16:18:32Z",
+                "open_issues": 0,
+                "owner": "Southporter",
+                "repo": "zeta.nvim",
                 "stars": 1,
                 "topics": []
               },
@@ -3487,7 +3487,7 @@
                     "open_issues": 31,
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3225,
+                    "stars": 3224,
                     "topics": [
                       "neovim",
                       "neovim-plugin",
@@ -3965,6 +3965,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
+            },
+            {
+              "node_type": "item",
+              "title": "sxlar333/file-preview.nvim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "file previewer for neovim",
+                "homepage": null,
+                "id": 1348969507,
+                "language": "Lua",
+                "license": null,
+                "last_commit": "2026-08-27T21:42:41Z",
+                "open_issues": 0,
+                "owner": "sxlar333",
+                "repo": "file-preview.nvim",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T22:41:53.266Z"
             }
           ],
           "description": null,
@@ -4011,7 +4032,7 @@
                 "id": 1277984459,
                 "language": "Lua",
                 "license": null,
-                "last_commit": "2026-08-27T10:40:42Z",
+                "last_commit": "2026-08-29T22:28:01Z",
                 "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
@@ -4246,7 +4267,7 @@
                 "open_issues": 12,
                 "owner": "neo451",
                 "repo": "feed.nvim",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -4498,7 +4519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:36:49.312Z",
+    "last_updated": "2026-08-29T22:41:53.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4506,7 +4527,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-08-28T08:47:36Z",
+      "last_commit": "2026-08-29T15:05:26Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4518,7 +4539,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "700b2a5a027e1d31290974471e1c3b7ef66dda37",
+    "original_repository_sha": "df595843e29c3a353a4b3e1c6fb719e6f4ee5aa1",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
