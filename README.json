@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar for Neovim.",
+            "homepage": null,
             "id": 828239135,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-31T13:21:56Z",
+            "open_issues": 1,
             "owner": "OXY2DEV",
             "repo": "bars.nvim",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:46.669Z"
         },
@@ -28,12 +33,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
+                "homepage": null,
                 "id": 568784960,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-07-09T13:17:28Z",
+                "open_issues": 10,
                 "owner": "luukvbaal",
                 "repo": "statuscol.nvim",
-                "stars": 612
+                "stars": 612,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "neovim-lua",
+                  "nvim",
+                  "plugin",
+                  "statuscolumn"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -44,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "When you've got something significant to say.",
+                "homepage": null,
                 "id": 540950690,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-09-28T12:39:38Z",
+                "open_issues": 0,
                 "owner": "ElPiloto",
                 "repo": "significant.nvim",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -60,12 +82,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a lightweight statuscolumn plugin for neovim",
+                "homepage": null,
                 "id": 1170787295,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-02T15:14:33Z",
+                "open_issues": 1,
                 "owner": "wsdjeg",
                 "repo": "statuscolumn.nvim",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -76,12 +105,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optionated statuscolumn plugin for Neovim",
+                "homepage": null,
                 "id": 918486392,
                 "language": "Lua",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-13T16:28:27Z",
+                "open_issues": 0,
                 "owner": "tombell",
                 "repo": "hem.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "neovim-plugin-lua"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -92,12 +130,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opinionated Neovim StatusColumn",
+                "homepage": null,
                 "id": 1210502721,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-04-19T08:24:42Z",
+                "open_issues": 0,
                 "owner": "coreyb-git",
                 "repo": "statuscolumn.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "neovim-plugin",
+                  "statuscolumn"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -115,12 +161,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make your nvim window separators colorful",
+                "homepage": null,
                 "id": 559837961,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-04-26T13:24:53Z",
+                "open_issues": 0,
                 "owner": "nvim-zh",
                 "repo": "colorful-winsep.nvim",
-                "stars": 707
+                "stars": 707,
+                "topics": [
+                  "neovim-plugin",
+                  "nvim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -131,12 +185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An alternative window highlighter",
+                "homepage": null,
                 "id": 672173377,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-30T15:43:41Z",
+                "open_issues": 0,
                 "owner": "A-Lamia",
                 "repo": "spotlight.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -154,12 +213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scroll past the end of file just like scrolloff option",
+                "homepage": null,
                 "id": 596565210,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-09-14T21:16:08Z",
+                "open_issues": 7,
                 "owner": "Aasim-A",
                 "repo": "scrollEOF.nvim",
-                "stars": 171
+                "stars": 171,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -170,12 +234,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auto zz when editing.",
+                "homepage": null,
                 "id": 846604020,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-01-18T16:41:32Z",
+                "open_issues": 0,
                 "owner": "LZDQ",
                 "repo": "nvim-autocenter",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -186,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim plugin to keep the screen centered",
+                "homepage": null,
                 "id": 560016590,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-10-30T17:08:35Z",
+                "open_issues": 0,
                 "owner": "vvvvv",
                 "repo": "yfix.nvim",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -202,12 +278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple utility to keep cursor always vertically centered. Focused on minimizing stuttering.",
+                "homepage": null,
                 "id": 738272943,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-06-30T23:09:57Z",
+                "open_issues": 0,
                 "owner": "MagnetizedFreckles",
                 "repo": "centerscroll.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -225,12 +306,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim",
+                "homepage": null,
                 "id": 74680100,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-06-20T17:43:59Z",
+                "open_issues": 10,
                 "owner": "andrewferrier",
                 "repo": "wrapping.nvim",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "neovim",
+                  "plugin",
+                  "wrapping"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -241,12 +331,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery",
+                "homepage": null,
                 "id": 735470177,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-04-01T23:07:06Z",
+                "open_issues": 1,
                 "owner": "benlubas",
                 "repo": "wrapping-paper.nvim",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "nvim",
+                  "nvim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -257,12 +355,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Show the start of long lines when scrolling way off to the right.",
+                "homepage": null,
                 "id": 843998350,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-01-14T18:19:41Z",
+                "open_issues": 0,
                 "owner": "rlychrisg",
                 "repo": "truncateline.nvim",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -280,12 +386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim modeline but better",
+                "homepage": null,
                 "id": 844936758,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-08-23T05:19:03Z",
+                "open_issues": 0,
                 "owner": "RoBaertschi",
                 "repo": "modeline2.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -296,12 +407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim specific plugin for handling modelines.",
+                "homepage": null,
                 "id": 1010691728,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-06-29T15:58:04Z",
+                "open_issues": 0,
                 "owner": "CheesyChocolate",
                 "repo": "modeline.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -312,12 +428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny template to add and update modelines",
+                "homepage": null,
                 "id": 1023075008,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-20T15:26:55Z",
+                "open_issues": 0,
                 "owner": "Coding4Glory",
                 "repo": "modneo-modeline",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -335,12 +456,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.",
+                "homepage": null,
                 "id": 385163844,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-28T15:02:10Z",
+                "open_issues": 2,
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1547
+                "stars": 1547,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "tree-sitter",
+                  "treesitter"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -351,12 +482,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Focus on one function at a time",
+                "homepage": null,
                 "id": 488487720,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-11-14T18:56:01Z",
+                "open_issues": 0,
                 "owner": "koenverburg",
                 "repo": "peepsight.nvim",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "neovim-configuration",
+                  "neovim-lua",
+                  "neovim-plugin",
+                  "nvim",
+                  "nvim-configs",
+                  "nvim-lua",
+                  "nvim-plugin",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -374,12 +521,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Imitate VSCode's \"Render Whitespace\" feature in visual mode",
+                "homepage": null,
                 "id": 769686870,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-06-05T17:30:16Z",
+                "open_issues": 0,
                 "owner": "mcauley-penney",
                 "repo": "visual-whitespace.nvim",
-                "stars": 477
+                "stars": 477,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -390,12 +542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configure and toggle listchars easily",
+                "homepage": null,
                 "id": 614252748,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-05-28T09:34:39Z",
+                "open_issues": 1,
                 "owner": "0xfraso",
                 "repo": "nvim-listchars",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -406,12 +563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim plugin to convert gaps in selected text into a sequence of horizontal ellipsis.",
+                "homepage": null,
                 "id": 909234734,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-24T13:00:53Z",
+                "open_issues": 0,
                 "owner": "rseichter",
                 "repo": "ellipsis.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -422,12 +584,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up custom `listchars` in neivim and allow easy toggling",
+                "homepage": null,
                 "id": 1213334901,
                 "language": "Lua",
+                "license": "MPL-2.0",
                 "last_commit": "2026-04-17T11:48:21Z",
+                "open_issues": 0,
                 "owner": "Corey-Keller",
                 "repo": "ToggleListChars.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -449,12 +616,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Neovim plugin for toggling options.",
+            "homepage": null,
             "id": 736224284,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-28T09:37:29Z",
+            "open_issues": 0,
             "owner": "gregorias",
             "repo": "toggle.nvim",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "neovim-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:23:46.669Z"
         },
@@ -465,12 +639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 966793310,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-04-15T13:14:02Z",
+            "open_issues": 0,
             "owner": "walkingshamrock",
             "repo": "optiongroup.nvim",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:46.669Z"
         },
@@ -481,12 +660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple start screen",
+            "homepage": null,
             "id": 855615702,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-03-18T07:50:57Z",
+            "open_issues": 2,
             "owner": "Kibadda",
             "repo": "starter.nvim",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:46.669Z"
         },
@@ -497,12 +681,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Better implementations for Neovim's built-in options.",
+            "homepage": null,
             "id": 1324155242,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-05T17:00:33Z",
+            "open_issues": 0,
             "owner": "ras0q",
             "repo": "optplus.nvim",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "lua",
+              "neovim",
+              "neovim-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:23:46.669Z"
         }
@@ -521,12 +714,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jump back and forth while being in insert mode",
+                "homepage": null,
                 "id": 736797825,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-07-20T15:05:45Z",
+                "open_issues": 0,
                 "owner": "AgusDOLARD",
                 "repo": "backout.nvim",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lua",
+                  "neovim",
+                  "neovim-plugin",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -537,12 +742,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Do you often find yourself caught off guard idling in Insert mode instead of escaping to Normal mode like a true Vim user? Let this help you train yourself out of the bad habit. It also boots you out of Insert mode after certain amount of seconds of inactivity",
+                "homepage": null,
                 "id": 868051596,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-08-11T02:48:06Z",
+                "open_issues": 0,
                 "owner": "csessh",
                 "repo": "stopinsert.nvim",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "lua",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -553,12 +766,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin to assist with editing strings.",
+                "homepage": null,
                 "id": 1061335653,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-01-05T22:48:27Z",
+                "open_issues": 1,
                 "owner": "duqcyxwd",
                 "repo": "stringbreaker.nvim",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -569,12 +787,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin that enhances insert-mode keymapping by showing typed keys in real time, without waiting for timeoutlen. It provides a responsive and intuitive insert-mode experience, ideal for complex input workflows such as ime.",
+                "homepage": null,
                 "id": 1010500470,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-11T01:56:04Z",
+                "open_issues": 0,
                 "owner": "sontungexpt",
                 "repo": "bim.nvim",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -585,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 964289488,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-04-11T01:59:57Z",
+                "open_issues": 0,
                 "owner": "yuki-yano",
                 "repo": "smart-i.nvim",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -601,12 +829,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily insert the current date and/or time into your Neovim buffer.",
+                "homepage": null,
                 "id": 583937346,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-11-23T17:07:26Z",
+                "open_issues": 0,
                 "owner": "AntonVanAssche",
                 "repo": "date-time-inserter.nvim",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim",
+                  "nvim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -617,12 +856,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neovim plugin for generating fake data",
+                "homepage": null,
                 "id": 909481418,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-12-30T22:38:41Z",
+                "open_issues": 0,
                 "owner": "tehdb",
                 "repo": "nvim-faker",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -633,12 +877,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "insert newline/space without entering insert mode",
+                "homepage": null,
                 "id": 902686091,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-12-01T02:32:52Z",
+                "open_issues": 0,
                 "owner": "aidancz",
                 "repo": "lfsp.nvim",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -649,12 +898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nvim-smartchr is a single-character expansion plugin for Neovim.",
+                "homepage": null,
                 "id": 817380119,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-06-19T18:47:25Z",
+                "open_issues": 0,
                 "owner": "enoatu",
                 "repo": "nvim-smartchr",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -665,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 529705264,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-08-17T06:30:37Z",
+                "open_issues": 0,
                 "owner": "njaczko",
                 "repo": "nvim-dummy-text",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -681,12 +940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Leave Insert Mode Automatically",
+                "homepage": null,
                 "id": 753376551,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-02-07T03:43:34Z",
+                "open_issues": 0,
                 "owner": "nobody-famous",
                 "repo": "lima.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -697,12 +961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 876466662,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-10-17T10:34:12Z",
+                "open_issues": 0,
                 "owner": "Akirisu-kirisu",
                 "repo": "nvim-insert-mode",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -713,12 +982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 583390510,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-29T18:44:30Z",
+                "open_issues": 0,
                 "owner": "bwintertkb",
                 "repo": "enclose_nav.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -729,12 +1003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 669332936,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-07-22T00:40:16Z",
+                "open_issues": 0,
                 "owner": "resonyze",
                 "repo": "erase_node.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -745,12 +1024,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 694051380,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-09-20T08:30:25Z",
+                "open_issues": 0,
                 "owner": "adammccartney",
                 "repo": "nvim-rinse",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -761,12 +1045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a vhdl-stutter-mode from emacs for general nvim use, with custom bindable stutter bindings",
+                "homepage": null,
                 "id": 741898932,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-01-27T20:15:37Z",
+                "open_issues": 1,
                 "owner": "Someone-s-out-there",
                 "repo": "stutter.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -777,12 +1066,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 812944289,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-02-03T15:50:14Z",
+                "open_issues": 0,
                 "owner": "haolian9",
                 "repo": "ico.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -793,12 +1087,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sacrilegious insertmode plugin for Neovim",
+                "homepage": null,
                 "id": 832846158,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-09-26T03:07:23Z",
+                "open_issues": 0,
                 "owner": "ins0mniaque",
                 "repo": "sacrilege.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -809,12 +1108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Lua plugin to print the current date in an ascii box",
+                "homepage": null,
                 "id": 1002069994,
                 "language": "Lua",
+                "license": "Unlicense",
                 "last_commit": "2025-06-14T19:51:35Z",
+                "open_issues": 0,
                 "owner": "cwmaguire",
                 "repo": "datebox.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -827,12 +1131,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easily jump to the end of current node.",
+                    "homepage": null,
                     "id": 711054040,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2023-11-18T06:58:24Z",
+                    "open_issues": 3,
                     "owner": "boltlessengineer",
                     "repo": "smart-tab.nvim",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": [
+                      "neovim",
+                      "neovim-plugin",
+                      "nvim",
+                      "nvim-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:46.669Z"
                 },
@@ -843,12 +1157,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 753804687,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-07-07T21:18:09Z",
+                    "open_issues": 0,
                     "owner": "lsvmello",
                     "repo": "elastictabstops.nvim",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:46.669Z"
                 },
@@ -859,12 +1178,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 712878975,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2023-11-01T11:49:16Z",
+                    "open_issues": 0,
                     "owner": "nvim-jo",
                     "repo": "smarttab.nvim",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:46.669Z"
                 }
@@ -887,12 +1211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "alternative to matchparen neovim plugin ",
+                "homepage": null,
                 "id": 437496358,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-07-04T14:19:28Z",
+                "open_issues": 2,
                 "owner": "monkoose",
                 "repo": "matchparen.nvim",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -903,12 +1232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeoVim plugin for jumping to the other end of the current Tree-sitter node",
+                "homepage": null,
                 "id": 788233817,
                 "language": "Lua",
+                "license": "MPL-2.0",
                 "last_commit": "2026-06-19T15:05:45Z",
+                "open_issues": 2,
                 "owner": "yorickpeterse",
                 "repo": "nvim-tree-pairs",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -919,12 +1253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Neovim plugin that allows highlighting the whole area between matching delimiters ('{}' '[]' '()' '<>') ",
+                "homepage": null,
                 "id": 557340897,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-18T09:43:20Z",
+                "open_issues": 0,
                 "owner": "rareitems",
                 "repo": "hl_match_area.nvim",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -935,12 +1274,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A typical alternative to matchparen and matchit",
+                "homepage": null,
                 "id": 783181952,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-15T09:56:09Z",
+                "open_issues": 0,
                 "owner": "tar80",
                 "repo": "matchwith.nvim",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -951,12 +1298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Highlight matching paren in visual mode",
+                "homepage": null,
                 "id": 1137019981,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-23T19:16:14Z",
+                "open_issues": 0,
                 "owner": "jugarpeupv",
                 "repo": "visual-match-paren.nvim",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -967,12 +1319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1103252475,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-12-17T08:30:09Z",
+                "open_issues": 0,
                 "owner": "haolian9",
                 "repo": "showmatch.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -990,12 +1347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 824692450,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-12-26T04:11:13Z",
+                "open_issues": 0,
                 "owner": "haolian9",
                 "repo": "gary.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -1013,12 +1375,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeoVim plugin to replace some text with the result of evaluating it",
+                "homepage": null,
                 "id": 861222152,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-09-22T10:38:48Z",
+                "open_issues": 0,
                 "owner": "fvictorio",
                 "repo": "eval-replace.nvim",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1029,12 +1400,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neovim plugin to run your selection text/code on visual mode.",
+                "homepage": null,
                 "id": 1027709367,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-10-10T11:29:55Z",
+                "open_issues": 0,
                 "owner": "lost22git",
                 "repo": "run-visual.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "code-runner",
+                  "fennel",
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -1052,12 +1433,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal plugin for NeoVim for aligning lines",
+                "homepage": null,
                 "id": 500106145,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2024-04-10T08:01:45Z",
+                "open_issues": 7,
                 "owner": "Vonr",
                 "repo": "align.nvim",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1068,12 +1460,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.",
+                "homepage": null,
                 "id": 556845934,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-07-07T13:41:52Z",
+                "open_issues": 0,
                 "owner": "nvim-mini",
                 "repo": "mini.align",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "lua",
+                  "mini-nvim",
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1084,12 +1486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim plugin for aligning text",
+                "homepage": null,
                 "id": 350898528,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2022-08-23T22:21:22Z",
+                "open_issues": 0,
                 "owner": "RRethy",
                 "repo": "nvim-align",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1100,12 +1507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim plugin to columnize selected lines",
+                "homepage": null,
                 "id": 682276665,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-01-12T18:49:43Z",
+                "open_issues": 0,
                 "owner": "jakeru",
                 "repo": "columnize.nvim",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1116,12 +1528,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another Neovim plugin that aligns text.",
+                "homepage": null,
                 "id": 566458877,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-11-15T18:06:20Z",
+                "open_issues": 0,
                 "owner": "vzze",
                 "repo": "aligner.nvim",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1132,12 +1553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neovim plugin for centering the visual selection",
+                "homepage": null,
                 "id": 691086165,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-09-14T03:06:54Z",
+                "open_issues": 0,
                 "owner": "chuck-flowers",
                 "repo": "align-selection.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1148,12 +1574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 816150457,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-12-05T07:55:49Z",
+                "open_issues": 0,
                 "owner": "haolian9",
                 "repo": "furrow.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1164,12 +1595,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin for aligning text that uses virtualtext.",
+                "homepage": null,
                 "id": 867647842,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-10-04T13:36:29Z",
+                "open_issues": 0,
                 "owner": "ApolloFops",
                 "repo": "virtual-align.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "nvim-plugin",
+                  "text-alignment"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1180,12 +1619,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Align plugin for nvim",
+                "homepage": null,
                 "id": 1058301062,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-09-16T23:31:10Z",
+                "open_issues": 0,
                 "owner": "AGomezCuervo",
                 "repo": "align.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1196,12 +1640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1227370146,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-05-02T16:34:56Z",
+                "open_issues": 0,
                 "owner": "NoSpawnn",
                 "repo": "align.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1212,12 +1661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1315977624,
                 "language": "Lua",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-29T11:33:46Z",
+                "open_issues": 0,
                 "owner": "FLeWz",
                 "repo": "align-format.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -1240,24 +1694,42 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Auxiliary filetype plugin for markdown",
+                    "homepage": null,
                     "id": 748894993,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-08-03T07:30:54Z",
+                    "open_issues": 0,
                     "owner": "dnebauer",
                     "repo": "dn-markdown.nvim",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:46.669Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A Paredit implementation for Neovim, built using Treesitter and written in Lua.",
+                "homepage": null,
                 "id": 650743148,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-12-08T17:18:22Z",
+                "open_issues": 18,
                 "owner": "julienvincent",
                 "repo": "nvim-paredit",
-                "stars": 263
+                "stars": 263,
+                "topics": [
+                  "clojure",
+                  "lisp",
+                  "lua",
+                  "neovim",
+                  "nvim",
+                  "paredit",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -1275,12 +1747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "edit prediction in neovim",
+                "homepage": null,
                 "id": 933340795,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-27T10:39:16Z",
+                "open_issues": 3,
                 "owner": "boltlessengineer",
                 "repo": "zeta.nvim",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1291,12 +1768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zeta edit predictions for Neovim",
+                "homepage": null,
                 "id": 940100765,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-02-27T16:18:32Z",
+                "open_issues": 0,
                 "owner": "Southporter",
                 "repo": "zeta.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1307,12 +1789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next edit implementation for nvim",
+                "homepage": null,
                 "id": 1306063063,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-08-03T20:19:44Z",
+                "open_issues": 0,
                 "owner": "zenodea",
                 "repo": "nextedit.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -1330,12 +1817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make editing big files faster 🚀",
+                "homepage": null,
                 "id": 564198454,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-01T09:43:59Z",
+                "open_issues": 11,
                 "owner": "LunarVim",
                 "repo": "bigfile.nvim",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1346,12 +1838,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some Neovim plugins and features can make Neovim slow when editing big files, files with very long lines (minified JS/JSON/CSS), or while   executing macros. Faster.nvim will selectively disable some features when a big file is opened, a long-line file is opened, or a macro is executed.",
+                "homepage": null,
                 "id": 762590849,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-06-22T15:39:59Z",
+                "open_issues": 0,
                 "owner": "pteroctopus",
                 "repo": "faster.nvim",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "neovim",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1362,12 +1862,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Detect big files and disable features like LSP and TreeSitter to improve performance, with per-filetype size limit support.",
+                "homepage": null,
                 "id": 885719953,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-09T08:15:10Z",
+                "open_issues": 1,
                 "owner": "ouuan",
                 "repo": "nvim-bigfile",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1378,12 +1886,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛡️ BigSheetGardna detects large files on the fly, automatically disabling certain resource-intensive features to keep Neovim snappy and responsive.",
+                "homepage": null,
                 "id": 885217145,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-11-13T01:21:45Z",
+                "open_issues": 0,
                 "owner": "mei28",
                 "repo": "BigSheetGardna.nvim",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "neovim-plugin",
+                  "neovim-plugins",
+                  "nvim-plugin",
+                  "nvim-plugins"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -1401,12 +1919,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tabout plugin for neovim",
+                "homepage": null,
                 "id": 388928951,
                 "language": "Lua",
+                "license": "Unlicense",
                 "last_commit": "2024-12-10T10:36:12Z",
+                "open_issues": 7,
                 "owner": "abecodes",
                 "repo": "tabout.nvim",
-                "stars": 861
+                "stars": 861,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "tabout"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1417,12 +1944,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toggle character in Neovim",
+                "homepage": null,
                 "id": 420989432,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-11-14T00:03:49Z",
+                "open_issues": 0,
                 "owner": "saifulapm",
                 "repo": "chartoggle.nvim",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1433,12 +1965,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Expand and repeat expression to multiple lines for neovim.",
+                "homepage": null,
                 "id": 395554335,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2021-08-14T10:21:19Z",
+                "open_issues": 0,
                 "owner": "AllenDang",
                 "repo": "nvim-expand-expr",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1449,12 +1986,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse the lines in your buffer",
+                "homepage": null,
                 "id": 821344693,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-06-28T10:31:30Z",
+                "open_issues": 0,
                 "owner": "svban",
                 "repo": "Reverse.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "neovim-plugin",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1465,12 +2012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet Another Tab-out Plugins for neovim.",
+                "homepage": null,
                 "id": 1023755416,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-05-22T11:06:16Z",
+                "open_issues": 0,
                 "owner": "Parsifa1",
                 "repo": "smartab.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -1494,12 +2046,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.",
+                "homepage": null,
                 "id": 510311989,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-06-19T09:17:35Z",
+                "open_issues": 4,
                 "owner": "sitiom",
                 "repo": "nvim-numbertoggle",
-                "stars": 230
+                "stars": 230,
+                "topics": [
+                  "line-numbers",
+                  "lua",
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1510,12 +2073,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin to display both relative and absolute line numbers side-by-side",
+                "homepage": null,
                 "id": 970357925,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-04-05T09:11:18Z",
+                "open_issues": 1,
                 "owner": "shrynx",
                 "repo": "line-numbers.nvim",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "linenumber",
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1526,12 +2099,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toggles relativenumbers when not needed",
+                "homepage": null,
                 "id": 482091428,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-26T20:48:54Z",
+                "open_issues": 0,
                 "owner": "nkakouros-original",
                 "repo": "numbers.nvim",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "neovim-lua",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1542,12 +2123,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toggles smoothly between number and relative number, supports various number combinations",
+                "homepage": null,
                 "id": 611103753,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-07-13T16:21:23Z",
+                "open_issues": 0,
                 "owner": "cpea2506",
                 "repo": "relative-toggle.nvim",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "number",
+                  "relativenumber",
+                  "relativenumbertoggle"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1558,12 +2150,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin that adds unobtrusive relative line numbers to the sign column.",
+                "homepage": null,
                 "id": 1139685076,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-06-26T08:08:33Z",
+                "open_issues": 0,
                 "owner": "indium114",
                 "repo": "unobtrusive-relnums.nvim",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1574,12 +2174,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toggle configurations quickly.",
+                "homepage": null,
                 "id": 491110676,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-11-06T18:02:16Z",
+                "open_issues": 0,
                 "owner": "prichrd",
                 "repo": "flagmode.nvim",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1590,12 +2198,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Just a little peep — without breaking focus.",
+                "homepage": null,
                 "id": 1142287752,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-04-16T08:52:18Z",
+                "open_issues": 0,
                 "owner": "lum1nar",
                 "repo": "peep.nvim",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "neovim-plugin",
+                  "nvim",
+                  "nvim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1606,12 +2223,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual hints of relative distances from your cursor",
+                "homepage": null,
                 "id": 902056840,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-12-13T21:14:11Z",
+                "open_issues": 0,
                 "owner": "fluxdiv",
                 "repo": "relative-rainbow.nvim",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1622,12 +2247,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 673709531,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-08-03T17:15:53Z",
+                "open_issues": 0,
                 "owner": "gvlatko",
                 "repo": "inline-relative-numbers.nvim",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1638,12 +2271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open nvim files with name:line:column syntax",
+                "homepage": null,
                 "id": 968135006,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-03T17:59:39Z",
+                "open_issues": 0,
                 "owner": "dk949",
                 "repo": "file_line.nvim",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1654,12 +2292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 964964937,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-04-15T04:45:44Z",
+                "open_issues": 0,
                 "owner": "walkingshamrock",
                 "repo": "rnum.nvim",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1670,12 +2313,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart line number toggling with sane defaults. Switches based on window focus, mode, and filetype with configurable events and excluded filetypes out of the box.",
+                "homepage": null,
                 "id": 1250419545,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-06-25T17:31:31Z",
+                "open_issues": 0,
                 "owner": "markosnarinian",
                 "repo": "ln.nvim",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "line-numbers",
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim",
+                  "nvim-plugin",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1686,12 +2341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a neovim plugin to quickly toggle features that make it easier for an observer to understand what you are doing.",
+                "homepage": null,
                 "id": 839960409,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-08-08T18:24:29Z",
+                "open_issues": 0,
                 "owner": "redxtech",
                 "repo": "sharing.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1702,12 +2362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin that automatically hides line numbers when entering terminal mode and restores them when leaving.",
+                "homepage": null,
                 "id": 874001476,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-10-17T05:13:11Z",
+                "open_issues": 0,
                 "owner": "Sayyidalijufri",
                 "repo": "termlinehide.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1718,12 +2383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quickly toggle number and relative number",
+                "homepage": null,
                 "id": 877465991,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-10-23T19:18:03Z",
+                "open_issues": 0,
                 "owner": "DarrellBrogdon",
                 "repo": "trnu.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1734,12 +2404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 591461377,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-04-01T19:04:10Z",
+                "open_issues": 0,
                 "owner": "joshdirkx",
                 "repo": "toggle-relativenumber.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1750,12 +2425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hiding all the column and number in Neovim",
+                "homepage": null,
                 "id": 922108363,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-11-27T05:03:51Z",
+                "open_issues": 0,
                 "owner": "Long104",
                 "repo": "hidecolumn.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1766,12 +2446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Relative virtual numbers at the end of each line",
+                "homepage": null,
                 "id": 988649582,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-02-13T09:15:35Z",
+                "open_issues": 0,
                 "owner": "teial",
                 "repo": "relvirt.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1782,12 +2467,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically toggles Neovim line numbers between relative and absolute based on current mode.",
+                "homepage": null,
                 "id": 995527964,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-06-03T16:06:00Z",
+                "open_issues": 0,
                 "owner": "am2b",
                 "repo": "smartnumber.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1798,12 +2488,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1097150016,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-11-20T07:27:30Z",
+                "open_issues": 0,
                 "owner": "segfaulted67",
                 "repo": "rln.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1814,12 +2509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim plugin that shows relative line numbers in visual/operator-pending mode",
+                "homepage": null,
                 "id": 1200177492,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-04-03T06:10:45Z",
+                "open_issues": 0,
                 "owner": "secobaka",
                 "repo": "peepingnum.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1830,12 +2530,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically toggling between relative and absolute line numbers in Neovim.",
+                "homepage": null,
                 "id": 736950420,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-03-19T14:51:13Z",
+                "open_issues": 0,
                 "owner": "rastaesh",
                 "repo": "relative-toggle.nvim",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "neovim-plugin",
+                  "nvim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -1853,12 +2561,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A telescope extension to view and search your undo tree 🌴",
+                "homepage": null,
                 "id": 579081642,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-01-31T15:13:51Z",
+                "open_issues": 6,
                 "owner": "debugloop",
                 "repo": "telescope-undo.nvim",
-                "stars": 788
+                "stars": 788,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "neovim-plugins",
+                  "nvim",
+                  "nvim-plugin",
+                  "nvim-plugins",
+                  "nvim-telescope",
+                  "telescope-extension"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1869,12 +2591,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "neovim undotree written in lua",
+                "homepage": null,
                 "id": 469660196,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-05-16T02:03:49Z",
+                "open_issues": 0,
                 "owner": "jiaoshijie",
                 "repo": "undotree",
-                "stars": 367
+                "stars": 367,
+                "topics": [
+                  "neovim-plugin",
+                  "neovim-plugin-lua",
+                  "nvim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1885,12 +2616,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Highlight changed text after any text changing operation",
+                "homepage": null,
                 "id": 651009283,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-26T11:39:45Z",
+                "open_issues": 0,
                 "owner": "tzachar",
                 "repo": "highlight-undo.nvim",
-                "stars": 355
+                "stars": 355,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1901,12 +2641,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern undotree plugin for nvim",
+                "homepage": null,
                 "id": 1072333216,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T11:55:26Z",
+                "open_issues": 0,
                 "owner": "XXiaoA",
                 "repo": "atone.nvim",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim",
+                  "nvim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1917,12 +2667,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "undo specific lines or partial selections without affecting the rest of the file",
+                "homepage": null,
                 "id": 828209073,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-07-05T14:23:55Z",
+                "open_issues": 0,
                 "owner": "SunnyTamang",
                 "repo": "select-undo.nvim",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "neovim-plugin-lua",
+                  "neovim-plugins"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1933,12 +2693,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌈 Add animated glow/highlight effects to your neovim operation (undo, redo, yank, paste and more) with simple APIs. Alternatives to highlight-undo.nvim and tiny-glimmer.nvim.",
+                "homepage": null,
                 "id": 932798534,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-07-04T17:43:25Z",
+                "open_issues": 1,
                 "owner": "y3owk1n",
                 "repo": "undo-glow.nvim",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "neovim",
+                  "neovim-highlight",
+                  "neovim-plugin",
+                  "neovim-plugins",
+                  "nvim",
+                  "nvim-plugin",
+                  "nvim-plugins"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1949,12 +2722,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Undo. Redo. Time travel. Take control of your edit history with an interactive timeline, diff previews, taggings, live reloading trees and cleanup functions.",
+                "homepage": null,
                 "id": 969609865,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-07-04T17:31:37Z",
+                "open_issues": 0,
                 "owner": "y3owk1n",
                 "repo": "time-machine.nvim",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "neovim-plugins",
+                  "nvim",
+                  "nvim-plugin",
+                  "nvim-plugins",
+                  "undomanager",
+                  "undotree"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1965,12 +2752,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ Highlight arbitrary text changes by undo, redo, :substitute, etc.",
+                "homepage": null,
                 "id": 896314173,
                 "language": "Fennel",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-21T15:08:19Z",
+                "open_issues": 1,
                 "owner": "aileot",
                 "repo": "emission.nvim",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim",
+                  "nvim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1981,12 +2778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Session-aware undo protection",
+                "homepage": null,
                 "id": 928523387,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-02-09T04:58:08Z",
+                "open_issues": 0,
                 "owner": "mvllow",
                 "repo": "session-undo.nvim",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -1997,12 +2799,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an example to get the redo commands used by the dot",
+                "homepage": "https://github.com/haolian9/zongzi/blob/master/nvim/.config/nvim/machinecity/lua/statusline.lua",
                 "id": 566746288,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-11-16T12:40:25Z",
+                "open_issues": 0,
                 "owner": "haolian9",
                 "repo": "redostr.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "nvim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2013,12 +2822,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 969990823,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-04-21T09:20:40Z",
+                "open_issues": 0,
                 "owner": "walkingshamrock",
                 "repo": "undoplay.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2036,12 +2850,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tags sources for nvim-cmp",
+                "homepage": null,
                 "id": 399838318,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-05T06:28:05Z",
+                "open_issues": 2,
                 "owner": "quangnguyen30192",
                 "repo": "cmp-nvim-tags",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "nvim-cmp"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2052,12 +2873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Preview tags in a floating window",
+                "homepage": null,
                 "id": 371523936,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-01-05T09:44:32Z",
+                "open_issues": 0,
                 "owner": "weilbith",
                 "repo": "nvim-floating-tag-preview",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2068,12 +2894,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tags generator/management for old school vimers in Neovim.",
+                "homepage": null,
                 "id": 728920348,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-08-20T13:33:57Z",
+                "open_issues": 1,
                 "owner": "linrongbin16",
                 "repo": "gentags.nvim",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "neovim-plugin",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2084,12 +2920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1017565418,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-10-12T10:40:00Z",
+                "open_issues": 0,
                 "owner": "francescoApophis",
                 "repo": "tags.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2107,12 +2948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1154530773,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-03-12T15:32:53Z",
+                "open_issues": 3,
                 "owner": "axlebedev",
                 "repo": "nvim-footprints",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2130,12 +2976,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin for browsing and inserting digraphs.",
+                "homepage": null,
                 "id": 952840482,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-05-16T08:42:47Z",
+                "open_issues": 0,
                 "owner": "srackham",
                 "repo": "digraph-picker.nvim",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "digraphs",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2146,12 +3000,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "telescope integration with digraphs and custom unicode characters",
+                "homepage": null,
                 "id": 756059343,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-09-10T19:35:09Z",
+                "open_issues": 0,
                 "owner": "jonathanforhan",
                 "repo": "nvim-glyph",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2162,12 +3021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nerd Glyph Glider",
+                "homepage": null,
                 "id": 756850389,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-03-02T20:54:23Z",
+                "open_issues": 0,
                 "owner": "adorostkar",
                 "repo": "NGG.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2185,12 +3049,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abbreviation reminder plugin for Neovim 0.5+",
+                "homepage": null,
                 "id": 384979853,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-30T21:38:44Z",
+                "open_issues": 0,
                 "owner": "0styx0",
                 "repo": "abbreinder.nvim",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "neovim-plugin",
+                  "vim",
+                  "vim-abbreviations"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2201,12 +3076,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a spelling auto correct plugin for Neovim including over 20k entries",
+                "homepage": null,
                 "id": 876252506,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-12-08T16:05:09Z",
+                "open_issues": 1,
                 "owner": "ck-zhang",
                 "repo": "mistake.nvim",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2217,12 +3100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim plugin that works like electric-quotes emacs mode",
+                "homepage": null,
                 "id": 680207896,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-08-30T17:46:08Z",
+                "open_issues": 1,
                 "owner": "shadyalfred",
                 "repo": "electric-quotes.nvim",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2233,12 +3121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim plugin to use abbr for fish/zsh users",
+                "homepage": null,
                 "id": 978828950,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-07-31T13:58:55Z",
+                "open_issues": 2,
                 "owner": "reyalka",
                 "repo": "shell-abbr.nvim",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2249,12 +3142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 890077924,
                 "language": "Lua",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-11-20T01:10:30Z",
+                "open_issues": 1,
                 "owner": "Russoul",
                 "repo": "abbrev-expand.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2265,12 +3163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart Markdown abbreviation expander for Neovim (roots + prefixes + suffixes + cmp)",
+                "homepage": null,
                 "id": 1166251704,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-07-21T04:06:08Z",
+                "open_issues": 0,
                 "owner": "dgtipon",
                 "repo": "abbrev-gen.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2288,12 +3191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern LSP-powered Neovim plugin for seamless environment variable integration and management. Provides intelligent auto-completion, hover, go-to-definition, references, and diagnostics for environment variables in your projects.",
+                "homepage": null,
                 "id": 1138364158,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-05-19T13:08:18Z",
+                "open_issues": 0,
                 "owner": "ph1losof",
                 "repo": "ecolog2.nvim",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2304,12 +3212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a neovim plugin to display OS and project wise ENV variables",
+                "homepage": null,
                 "id": 807262699,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-06-02T23:44:51Z",
+                "open_issues": 0,
                 "owner": "yohendry",
                 "repo": "envs.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2320,12 +3233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin for managing environment variables with project-specific overrides and persistence.",
+                "homepage": null,
                 "id": 927553349,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-03-25T20:32:47Z",
+                "open_issues": 0,
                 "owner": "Alexandersfg4",
                 "repo": "environment.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2336,12 +3254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin for managing .env files",
+                "homepage": null,
                 "id": 1088198761,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-08-27T06:55:55Z",
+                "open_issues": 0,
                 "owner": "sociale11",
                 "repo": "envim.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2352,12 +3275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin that dynamically hides environment variables in your buffer",
+                "homepage": null,
                 "id": 943397870,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-04-10T14:39:39Z",
+                "open_issues": 0,
                 "owner": "Leonardo-Luz",
                 "repo": "hidenv.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2368,12 +3296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native red squiggles for environment variables used in code but missing from your .env files — catches \"works on my machine\" bugs before deploy.",
+                "homepage": null,
                 "id": 1315621192,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-07-29T03:15:24Z",
+                "open_issues": 0,
                 "owner": "Gyandeep09",
                 "repo": "env-drift.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2391,12 +3324,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1029541910,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-08-13T08:11:31Z",
+                "open_issues": 0,
                 "owner": "mart-mihkel",
                 "repo": "pshada.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2414,12 +3355,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mouse gesture plugin for neovim",
+                "homepage": null,
                 "id": 154956785,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-08-16T05:44:25Z",
+                "open_issues": 0,
                 "owner": "notomo",
                 "repo": "gesture.nvim",
-                "stars": 546
+                "stars": 546,
+                "topics": [
+                  "mouse-gestures",
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2430,12 +3380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple neovim plugin for managing the mouse",
+                "homepage": null,
                 "id": 1009462407,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-06-27T23:02:09Z",
+                "open_issues": 1,
                 "owner": "ryardley",
                 "repo": "mouser.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2453,12 +3408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send file (multi-)selection to Neovim's arglist and manage the arglist using Telescope.nvim.",
+                "homepage": null,
                 "id": 1331119153,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-08-11T16:15:02Z",
+                "open_issues": 0,
                 "owner": "muellan",
                 "repo": "nvim-telescope-arglist",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2482,12 +3442,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Changing function arguments order in Neovim!",
+                "homepage": null,
                 "id": 804170627,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-02-17T08:09:35Z",
+                "open_issues": 1,
                 "owner": "SleepySwords",
                 "repo": "change-function.nvim",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim-lsp",
+                  "nvim-treesitter",
+                  "refactoring-tools"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2507,12 +3478,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Show code context",
+                    "homepage": null,
                     "id": 305332301,
                     "language": "Janet",
+                    "license": "MIT",
                     "last_commit": "2026-08-02T08:51:48Z",
+                    "open_issues": 31,
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3225
+                    "stars": 3225,
+                    "topics": [
+                      "neovim",
+                      "neovim-plugin",
+                      "vim",
+                      "vim-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:46.669Z"
                 },
@@ -2523,12 +3504,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "neovim plugin to add context aware print debug statements",
+                    "homepage": null,
                     "id": 314732486,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2021-07-18T20:31:06Z",
+                    "open_issues": 0,
                     "owner": "polarmutex",
                     "repo": "contextprint.nvim",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:46.669Z"
                 }
@@ -2551,12 +3537,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An import picker that learns from your codebase",
+                "homepage": null,
                 "id": 686779255,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-05T00:04:36Z",
+                "open_issues": 0,
                 "owner": "piersolenski",
                 "repo": "import.nvim",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "dependencies",
+                  "lua",
+                  "neovim",
+                  "neovim-lua",
+                  "neovim-plugin",
+                  "nvim",
+                  "nvim-lua",
+                  "nvim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2574,12 +3574,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Describe the regexp under the cursor",
+                "homepage": null,
                 "id": 460134121,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-14T16:18:20Z",
+                "open_issues": 2,
                 "owner": "bennypowers",
                 "repo": "nvim-regexplainer",
-                "stars": 758
+                "stars": 758,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim",
+                  "nvim-plugin",
+                  "regex",
+                  "regexp",
+                  "regular-expression",
+                  "tree-sitter"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2590,12 +3605,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Neovim plugin that provides an explanation for regular expressions.",
+                "homepage": null,
                 "id": 593284732,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-11T17:31:34Z",
+                "open_issues": 3,
                 "owner": "tomiis4",
                 "repo": "hypersonic.nvim",
-                "stars": 233
+                "stars": 233,
+                "topics": [
+                  "awesome-neovim",
+                  "lua",
+                  "neovim",
+                  "regex"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2606,12 +3631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple regex helper",
+                "homepage": null,
                 "id": 529358474,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-08-25T11:33:56Z",
+                "open_issues": 3,
                 "owner": "Djancyp",
                 "repo": "regex.nvim",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2622,12 +3652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "regex-railroad.nvim",
+                "homepage": null,
                 "id": 779619554,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-06-29T09:53:47Z",
+                "open_issues": 0,
                 "owner": "rclawlor",
                 "repo": "regex-railroad.nvim",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2638,12 +3673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "search in neovim with variable expansion",
+                "homepage": null,
                 "id": 717367709,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-03-31T03:39:08Z",
+                "open_issues": 0,
                 "owner": "jake-stewart",
                 "repo": "regex-vars.nvim",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2661,12 +3701,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Annotation generation framework with support for most languages and annotation styles⌨️✨",
+                "homepage": null,
                 "id": 902125635,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-14T13:29:39Z",
+                "open_issues": 1,
                 "owner": "jeangiraldoo",
                 "repo": "codedocs.nvim",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "annotation",
+                  "docs-generator",
+                  "documentation",
+                  "lua",
+                  "neovim",
+                  "neovim-annotation",
+                  "neovim-lua",
+                  "nvim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2677,12 +3731,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code documentation generator for Neovim",
+                "homepage": null,
                 "id": 672122684,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-24T11:38:33Z",
+                "open_issues": 0,
                 "owner": "Zeioth",
                 "repo": "dooku.nvim",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "c",
+                  "csharp",
+                  "doxygen",
+                  "doxygen-documentation",
+                  "godoc",
+                  "javascript",
+                  "lua",
+                  "luadoc",
+                  "neovim-plugin",
+                  "neovim-plugins",
+                  "nvim-plugin",
+                  "nvim-plugins",
+                  "php",
+                  "python",
+                  "ruby",
+                  "rustdoc",
+                  "typescript",
+                  "yard",
+                  "yardoc"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2706,12 +3785,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Draw ASCII diagrams in Neovim",
+                "homepage": null,
                 "id": 372869195,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-08-16T03:55:30Z",
+                "open_issues": 5,
                 "owner": "jbyuki",
                 "repo": "venn.nvim",
-                "stars": 1182
+                "stars": 1182,
+                "topics": [
+                  "ascii-art",
+                  "ascii-graphics",
+                  "diagrams",
+                  "neovim",
+                  "nvim"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2722,12 +3812,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diagrams as code in Neovim.",
+                "homepage": null,
                 "id": 842976478,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-06-12T23:52:58Z",
+                "open_issues": 26,
                 "owner": "3rd",
                 "repo": "diagram.nvim",
-                "stars": 403
+                "stars": 403,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2738,12 +3836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Diagon within neovim and retain the instructions so they can be modified",
+                "homepage": null,
                 "id": 773162019,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-05-23T08:27:07Z",
+                "open_issues": 1,
                 "owner": "McKean",
                 "repo": "diagon.nvim",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2761,12 +3864,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hover plugin framework for Neovim",
+                "homepage": null,
                 "id": 470564971,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-03-20T12:46:44Z",
+                "open_issues": 23,
                 "owner": "lewis6991",
                 "repo": "hover.nvim",
-                "stars": 742
+                "stars": 742,
+                "topics": [
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2777,12 +3887,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small and customizable Neovim plugin for pretty printing the hover information from LSP servers",
+                "homepage": null,
                 "id": 625502036,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-05-22T15:44:43Z",
+                "open_issues": 2,
                 "owner": "Fildo7525",
                 "repo": "pretty_hover",
-                "stars": 250
+                "stars": 250,
+                "topics": [
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2793,12 +3910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple weather plugin in your Neovim",
+                "homepage": null,
                 "id": 307880256,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2022-12-11T14:08:27Z",
+                "open_issues": 2,
                 "owner": "ellisonleao",
                 "repo": "weather.nvim",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2809,12 +3931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nvim-update-time updates timestamp markers in your files as you save them.",
+                "homepage": null,
                 "id": 586058797,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-10-26T12:16:47Z",
+                "open_issues": 0,
                 "owner": "StonyBoy",
                 "repo": "nvim-update-time",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2825,12 +3952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Termify is a simple Neovim plugin that enables you to run and read the output of a script in a disposable popup window.",
+                "homepage": null,
                 "id": 531681803,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-09-02T21:58:46Z",
+                "open_issues": 0,
                 "owner": "dgyurov",
                 "repo": "termify.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2848,12 +3980,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight and quick file operations without being a full-blown file manager.",
+                "homepage": null,
                 "id": 568799277,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-08-03T07:54:49Z",
+                "open_issues": 2,
                 "owner": "chrisgrieser",
                 "repo": "nvim-genghis",
-                "stars": 222
+                "stars": 222,
+                "topics": [
+                  "file-management",
+                  "file-movement",
+                  "neovim-plugin",
+                  "nvim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2864,12 +4006,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified :File command for Neovim — create, rename, move, duplicate, delete, and cycle files via libuv, cross-platform, no shell.",
+                "homepage": null,
                 "id": 1277984459,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-27T10:40:42Z",
+                "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "file-management",
+                  "libuv",
+                  "lua",
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2887,12 +4040,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reload your neovim config on the fly! It works with any lua file.",
+                "homepage": "https://normalnvim.github.io/",
                 "id": 857847791,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-24T11:46:46Z",
+                "open_issues": 0,
                 "owner": "Zeioth",
                 "repo": "hot-reload.nvim",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "config",
+                  "configuration",
+                  "hot",
+                  "hot-reload",
+                  "load",
+                  "neovim-plugin",
+                  "neovim-plugins",
+                  "nvim-plugin",
+                  "nvim-plugins",
+                  "reload"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2903,12 +4072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple plugin that reloads your neovim configuration painlessly.",
+                "homepage": null,
                 "id": 549584324,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-04T08:36:26Z",
+                "open_issues": 1,
                 "owner": "milkias17",
                 "repo": "reloader.nvim",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2919,12 +4093,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Live reload Neovim plugins with ease!",
+                "homepage": null,
                 "id": 577073905,
                 "language": "Lua",
+                "license": "ISC",
                 "last_commit": "2023-04-12T11:42:05Z",
+                "open_issues": 0,
                 "owner": "mskelton",
                 "repo": "live-reload.nvim",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "live-reload",
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -2935,12 +4118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 853161397,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-06T05:35:08Z",
+                "open_issues": 0,
                 "owner": "Little-Captain",
                 "repo": "reloader.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2958,12 +4146,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A text-based schedule plugin for neovim",
+                "homepage": null,
                 "id": 559131281,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-08-18T07:37:08Z",
+                "open_issues": 1,
                 "owner": "Cassin01",
                 "repo": "sche.nvim",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "calendar",
+                  "neovim-plugin",
+                  "scheduler"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -2981,12 +4178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keystroke plugin for NeoVim",
+                "homepage": null,
                 "id": 570742902,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-04-01T00:40:48Z",
+                "open_issues": 0,
                 "owner": "jerrywang1981",
                 "repo": "keystroke.nvim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -3004,12 +4206,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim plugin to avoid nested nvim",
+                "homepage": null,
                 "id": 601632744,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-08-10T01:48:36Z",
+                "open_issues": 0,
                 "owner": "notomo",
                 "repo": "waitevent.nvim",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -3027,12 +4237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim feed reader, rss, atom and jsonfeed, all in lua",
+                "homepage": "https://neo451.github.io/feed.nvim-docs/",
                 "id": 847032697,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-01T01:54:28Z",
+                "open_issues": 12,
                 "owner": "neo451",
                 "repo": "feed.nvim",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -3043,12 +4258,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "wyw.nvim (While You Wait) is designed to fill the awkward silence between your prompt and the AI's response, or during long test suites. Browse Hacker News, RSS feeds, and Japanese tech platforms without context switching.",
+                "homepage": null,
                 "id": 1116247364,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-12-14T13:59:45Z",
+                "open_issues": 0,
                 "owner": "r7sqtr",
                 "repo": "wyw.nvim",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -3059,12 +4281,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple RSS Feed for Neovim",
+                "homepage": null,
                 "id": 912145292,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-10-06T14:22:19Z",
+                "open_issues": 1,
                 "owner": "4DRIAN0RTIZ",
                 "repo": "rssfeed.nvim",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -3075,12 +4304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decsync meets Neovim.",
+                "homepage": null,
                 "id": 746049237,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2024-12-19T17:18:29Z",
+                "open_issues": 0,
                 "owner": "pawemix",
                 "repo": "decscribe.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -3091,12 +4325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim quick RSS feed news popup",
+                "homepage": null,
                 "id": 1177079790,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-04-19T19:00:22Z",
+                "open_issues": 0,
                 "owner": "jwayston",
                 "repo": "quicknews.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -3109,12 +4348,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code::Stats plugin for Neovim",
+                    "homepage": null,
                     "id": 610203370,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-01-18T16:51:18Z",
+                    "open_issues": 1,
                     "owner": "liljaylj",
                     "repo": "codestats.nvim",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "codestats",
+                      "neovim",
+                      "nvim-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:46.669Z"
                 },
@@ -3125,12 +4373,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code::Stats plugin for Neovim",
+                    "homepage": "https://code-stats-nvim.readthedocs.io/",
                     "id": 835636383,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-19T15:15:49Z",
+                    "open_issues": 1,
                     "owner": "Freed-Wu",
                     "repo": "code-stats.nvim",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "code-stats",
+                      "lua",
+                      "neovim",
+                      "vim"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:46.669Z"
                 },
@@ -3141,12 +4399,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 561802485,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-06-29T11:05:09Z",
+                    "open_issues": 0,
                     "owner": "maorun",
                     "repo": "code-stats.nvim",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:46.669Z"
                 }
@@ -3169,12 +4432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 947505611,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-26T19:39:52Z",
+                "open_issues": 1,
                 "owner": "johannww",
                 "repo": "tts.nvim",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -3185,12 +4453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim plugin to read selected text with Kokoro.",
+                "homepage": null,
                 "id": 948169769,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2025-11-08T23:07:22Z",
+                "open_issues": 0,
                 "owner": "cskeeters",
                 "repo": "kokoro.nvim",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -3201,12 +4474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neovim plugin that allows neovim to emit speech, braille, and more at a deep level.",
+                "homepage": null,
                 "id": 1326994801,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-20T16:26:53Z",
+                "open_issues": 0,
                 "owner": "derekriemer",
                 "repo": "nvim-speaks",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             }
@@ -3220,15 +4498,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:50:59.544Z",
+    "last_updated": "2026-08-29T04:36:49.312Z",
     "original_repository_info": {
       "archived": false,
+      "description": "My personal list of Neovim plugins",
+      "homepage": "https://yutkat.github.io/my-neovim-pluginlist/",
       "id": 482552025,
       "language": "Shell",
+      "license": "NOASSERTION",
       "last_commit": "2026-08-28T08:47:36Z",
+      "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
-      "stars": 830
+      "stars": 830,
+      "topics": [
+        "awesome-list",
+        "github-pages",
+        "neovim",
+        "neovim-plugins"
+      ]
     },
     "original_repository_sha": "700b2a5a027e1d31290974471e1c3b7ef66dda37",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
