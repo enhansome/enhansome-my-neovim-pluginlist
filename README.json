@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "luukvbaal",
                 "repo": "statuscol.nvim",
-                "stars": 612,
+                "stars": 613,
                 "topics": [
                   "lua",
                   "neovim",
@@ -465,7 +465,7 @@
                 "open_issues": 2,
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1547,
+                "stars": 1549,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -530,7 +530,7 @@
                 "open_issues": 0,
                 "owner": "mcauley-penney",
                 "repo": "visual-whitespace.nvim",
-                "stars": 476,
+                "stars": 477,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -4031,8 +4031,8 @@
                 "homepage": null,
                 "id": 1277984459,
                 "language": "Lua",
-                "license": null,
-                "last_commit": "2026-08-29T22:28:01Z",
+                "license": "MIT",
+                "last_commit": "2026-08-30T02:07:45Z",
                 "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
@@ -4519,7 +4519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:41:53.266Z",
+    "last_updated": "2026-08-30T22:49:59.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4527,7 +4527,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-08-29T15:05:26Z",
+      "last_commit": "2026-08-30T04:13:45Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4539,7 +4539,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "df595843e29c3a353a4b3e1c6fb719e6f4ee5aa1",
+    "original_repository_sha": "028675230ab1062018881fc485566d06b188b36f",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"

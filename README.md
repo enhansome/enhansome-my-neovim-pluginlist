@@ -192,7 +192,7 @@
 
 ### statuscolumn
 
-* [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) ⭐ 612 | 🐛 10 | 🌐 Lua | 📅 2026-07-09 ![](https://img.shields.io/github/stars/luukvbaal/statuscol.nvim) ![](https://img.shields.io/github/last-commit/luukvbaal/statuscol.nvim) ![](https://img.shields.io/github/commit-activity/y/luukvbaal/statuscol.nvim)
+* [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) ⭐ 613 | 🐛 10 | 🌐 Lua | 📅 2026-07-09 ![](https://img.shields.io/github/stars/luukvbaal/statuscol.nvim) ![](https://img.shields.io/github/last-commit/luukvbaal/statuscol.nvim) ![](https://img.shields.io/github/commit-activity/y/luukvbaal/statuscol.nvim)
 * [ElPiloto/significant.nvim](https://github.com/ElPiloto/significant.nvim) ⭐ 56 | 🐛 0 | 🌐 Lua | 📅 2022-09-28 ![](https://img.shields.io/github/stars/ElPiloto/significant.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/significant.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/significant.nvim)
 * [wsdjeg/statuscolumn.nvim](https://github.com/wsdjeg/statuscolumn.nvim) ⭐ 3 | 🐛 1 | 🌐 Lua | 📅 2026-03-02 ![](https://img.shields.io/github/stars/wsdjeg/statuscolumn.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/statuscolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/statuscolumn.nvim)
 * [tombell/hem.nvim](https://github.com/tombell/hem.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-02-13 ![](https://img.shields.io/github/stars/tombell/hem.nvim) ![](https://img.shields.io/github/last-commit/tombell/hem.nvim) ![](https://img.shields.io/github/commit-activity/y/tombell/hem.nvim)
@@ -234,12 +234,12 @@
 
 ### Highlight current function
 
-* [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ⭐ 1,547 | 🐛 2 | 🌐 Lua | 📅 2025-10-28 ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
+* [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ⭐ 1,549 | 🐛 2 | 🌐 Lua | 📅 2025-10-28 ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
 * [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) ⭐ 115 | 🐛 0 | 🌐 Lua | 📅 2023-11-14 ![](https://img.shields.io/github/stars/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/last-commit/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/commit-activity/y/koenverburg/peepsight.nvim)
 
 ### listchars
 
-* [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) ⭐ 476 | 🐛 0 | 🌐 Lua | 📅 2026-06-05 ![](https://img.shields.io/github/stars/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/last-commit/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/mcauley-penney/visual-whitespace.nvim)
+* [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) ⭐ 477 | 🐛 0 | 🌐 Lua | 📅 2026-06-05 ![](https://img.shields.io/github/stars/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/last-commit/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/mcauley-penney/visual-whitespace.nvim)
 * [fraso-dev/nvim-listchars](https://github.com/fraso-dev/nvim-listchars) ⭐ 22 | 🐛 1 | 🌐 Lua | 📅 2025-05-28 ![](https://img.shields.io/github/stars/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/last-commit/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/commit-activity/y/fraso-dev/nvim-listchars)
 * [rseichter/ellipsis.nvim](https://github.com/rseichter/ellipsis.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-04-24 ![](https://img.shields.io/github/stars/rseichter/ellipsis.nvim) ![](https://img.shields.io/github/last-commit/rseichter/ellipsis.nvim) ![](https://img.shields.io/github/commit-activity/y/rseichter/ellipsis.nvim)
 * [Corey-Keller/ToggleListChars.nvim](https://github.com/Corey-Keller/ToggleListChars.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-04-17 ![](https://img.shields.io/github/stars/Corey-Keller/ToggleListChars.nvim) ![](https://img.shields.io/github/last-commit/Corey-Keller/ToggleListChars.nvim) ![](https://img.shields.io/github/commit-activity/y/Corey-Keller/ToggleListChars.nvim)
@@ -570,7 +570,7 @@
 ### File Handling
 
 * [chrisgrieser/nvim-ghengis](https://github.com/chrisgrieser/nvim-ghengis) ⭐ 222 | 🐛 2 | 🌐 Lua | 📅 2026-08-03 ![](https://img.shields.io/github/stars/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-ghengis)
-* [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-29 ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
+* [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-30 ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
 
 ### Reload Configuration
 
@@ -705,4 +705,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
