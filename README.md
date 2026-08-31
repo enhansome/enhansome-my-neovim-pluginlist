@@ -393,7 +393,7 @@
 * [joshdirkx/toggle-relativenumber.nvim](https://github.com/joshdirkx/toggle-relativenumber.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2023-04-01 ![](https://img.shields.io/github/stars/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/last-commit/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/commit-activity/y/joshdirkx/toggle-relativenumber.nvim)
 * [Long104/hidecolumn.nvim](https://github.com/Long104/hidecolumn.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-11-27 ![](https://img.shields.io/github/stars/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/last-commit/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/Long104/hidecolumn.nvim)
 * [teial/relvirt.nvim](https://github.com/teial/relvirt.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-02-13 ![](https://img.shields.io/github/stars/teial/relvirt.nvim) ![](https://img.shields.io/github/last-commit/teial/relvirt.nvim) ![](https://img.shields.io/github/commit-activity/y/teial/relvirt.nvim)
-* [am2b/smartnumber.nvim](https://github.com/am2b/smartnumber.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-06-03 ![](https://img.shields.io/github/stars/am2b/smartnumber.nvim) ![](https://img.shields.io/github/last-commit/am2b/smartnumber.nvim) ![](https://img.shields.io/github/commit-activity/y/am2b/smartnumber.nvim)
+* [am2b/smartnumber.nvim](https://github.com/am2b/smartnumber.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-31 ![](https://img.shields.io/github/stars/am2b/smartnumber.nvim) ![](https://img.shields.io/github/last-commit/am2b/smartnumber.nvim) ![](https://img.shields.io/github/commit-activity/y/am2b/smartnumber.nvim)
 * [segfaulted67/rln.nvim](https://github.com/segfaulted67/rln.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-11-20 ![](https://img.shields.io/github/stars/segfaulted67/rln.nvim) ![](https://img.shields.io/github/last-commit/segfaulted67/rln.nvim) ![](https://img.shields.io/github/commit-activity/y/segfaulted67/rln.nvim)
 * [secobaka/peepingnum.nvim](https://github.com/secobaka/peepingnum.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-04-03 ![](https://img.shields.io/github/stars/secobaka/peepingnum.nvim) ![](https://img.shields.io/github/last-commit/secobaka/peepingnum.nvim) ![](https://img.shields.io/github/commit-activity/y/secobaka/peepingnum.nvim)
 * [togawalk/relative-toggle.nvim](https://github.com/togawalk/relative-toggle.nvim) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2024-03-19 ![](https://img.shields.io/github/stars/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/last-commit/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/togawalk/relative-toggle.nvim)
@@ -570,7 +570,7 @@
 ### File Handling
 
 * [chrisgrieser/nvim-ghengis](https://github.com/chrisgrieser/nvim-ghengis) ⭐ 222 | 🐛 2 | 🌐 Lua | 📅 2026-08-03 ![](https://img.shields.io/github/stars/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-ghengis)
-* [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-30 ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
+* [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-31 ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
 
 ### Reload Configuration
 
@@ -705,4 +705,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
