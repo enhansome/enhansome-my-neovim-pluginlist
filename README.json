@@ -3977,8 +3977,8 @@
                 "homepage": "https://github.com/StefanBartl/hover.nvim",
                 "id": 1353950444,
                 "language": "Lua",
-                "license": null,
-                "last_commit": "2026-09-03T21:47:03Z",
+                "license": "MIT",
+                "last_commit": "2026-09-04T18:32:34Z",
                 "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "hover.nvim",
@@ -4083,7 +4083,7 @@
                 "id": 1277984459,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-03T21:58:54Z",
+                "last_commit": "2026-09-04T18:58:00Z",
                 "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
@@ -4570,7 +4570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:39:37.731Z",
+    "last_updated": "2026-09-04T22:25:00.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4578,8 +4578,8 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-03T06:34:08Z",
-      "open_issues": 0,
+      "last_commit": "2026-09-04T02:38:59Z",
+      "open_issues": 1,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
       "stars": 830,
@@ -4590,7 +4590,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "3e9afdc75396898dcdc9e70437527bed17802820",
+    "original_repository_sha": "1bcb4cc2051428c99e4a17c6ae9036add3c8a89b",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
