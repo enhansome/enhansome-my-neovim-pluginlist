@@ -449,7 +449,7 @@
 ### Abbreviation
 
 * [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) ⭐ 92 | 🐛 0 | 🌐 Lua | 📅 2022-06-30 ![](https://img.shields.io/github/stars/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/last-commit/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/commit-activity/y/0styx0/abbreinder.nvim)
-* [ck-zhang/mistake.nvim](https://github.com/ck-zhang/mistake.nvim) ⭐ 56 | 🐛 1 | 🌐 Lua | 📅 2025-12-08 ![](https://img.shields.io/github/stars/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/last-commit/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/commit-activity/y/ck-zhang/mistake.nvim)
+* [ck-zhang/mistake.nvim](https://github.com/ck-zhang/mistake.nvim) ⭐ 55 | 🐛 1 | 🌐 Lua | 📅 2025-12-08 ![](https://img.shields.io/github/stars/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/last-commit/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/commit-activity/y/ck-zhang/mistake.nvim)
 * [shadyalfred/electric-quotes.nvim](https://github.com/shadyalfred/electric-quotes.nvim) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2023-08-30 ![](https://img.shields.io/github/stars/shadyalfred/electric-quotes.nvim) ![](https://img.shields.io/github/last-commit/shadyalfred/electric-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/shadyalfred/electric-quotes.nvim)
 * [reyalka/shell-abbr.nvim](https://github.com/reyalka/shell-abbr.nvim) ⭐ 4 | 🐛 2 | 🌐 Lua | 📅 2025-07-31 ![](https://img.shields.io/github/stars/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/last-commit/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/commit-activity/y/reyalka/shell-abbr.nvim)
 * [Russoul/abbrev-expand.nvim](https://github.com/Russoul/abbrev-expand.nvim) ⭐ 1 | 🐛 1 | 🌐 Lua | 📅 2024-11-20 ![](https://img.shields.io/github/stars/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/last-commit/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/commit-activity/y/Russoul/abbrev-expand.nvim)
@@ -551,7 +551,7 @@
 
 ### Diagram
 
-* [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) ⭐ 1,186 | 🐛 5 | 🌐 Lua | 📅 2024-08-16 ![](https://img.shields.io/github/stars/jbyuki/venn.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/venn.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/venn.nvim)
+* [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) ⭐ 1,187 | 🐛 5 | 🌐 Lua | 📅 2024-08-16 ![](https://img.shields.io/github/stars/jbyuki/venn.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/venn.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/venn.nvim)
 * [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) ⭐ 405 | 🐛 26 | 🌐 Lua | 📅 2026-09-03 ![](https://img.shields.io/github/stars/3rd/diagram.nvim) ![](https://img.shields.io/github/last-commit/3rd/diagram.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/diagram.nvim)
 * [McKean/diagon.nvim](https://github.com/McKean/diagon.nvim) ⭐ 3 | 🐛 1 | 🌐 Lua | 📅 2024-05-23 ![](https://img.shields.io/github/stars/McKean/diagon.nvim) ![](https://img.shields.io/github/last-commit/McKean/diagon.nvim) ![](https://img.shields.io/github/commit-activity/y/McKean/diagon.nvim)
 
@@ -707,4 +707,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

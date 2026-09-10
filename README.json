@@ -3106,7 +3106,7 @@
                 "open_issues": 1,
                 "owner": "ck-zhang",
                 "repo": "mistake.nvim",
-                "stars": 56,
+                "stars": 55,
                 "topics": [
                   "neovim",
                   "neovim-plugin"
@@ -3815,7 +3815,7 @@
                 "open_issues": 5,
                 "owner": "jbyuki",
                 "repo": "venn.nvim",
-                "stars": 1186,
+                "stars": 1187,
                 "topics": [
                   "ascii-art",
                   "ascii-graphics",
@@ -4570,7 +4570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:37:58.894Z",
+    "last_updated": "2026-09-10T22:40:29.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4578,7 +4578,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-09T02:58:38Z",
+      "last_commit": "2026-09-10T02:55:49Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4590,7 +4590,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "a7e9a3ece021e1b80fdcff73fca8926e1f5c5b9b",
+    "original_repository_sha": "46084ca058e477ac3e357d81485b91a4c4619622",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
