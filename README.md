@@ -234,7 +234,7 @@
 
 ### Highlight current function
 
-* [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ⭐ 1,548 | 🐛 2 | 🌐 Lua | 📅 2025-10-28 ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
+* [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ⭐ 1,549 | 🐛 2 | 🌐 Lua | 📅 2025-10-28 ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
 * [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) ⭐ 115 | 🐛 0 | 🌐 Lua | 📅 2023-11-14 ![](https://img.shields.io/github/stars/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/last-commit/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/commit-activity/y/koenverburg/peepsight.nvim)
 
 ### listchars
@@ -333,7 +333,7 @@
 * [CoffeeCoder1/virtual-align.nvim](https://github.com/CoffeeCoder1/virtual-align.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2024-10-04 ![](https://img.shields.io/github/stars/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/last-commit/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/commit-activity/y/CoffeeCoder1/virtual-align.nvim)
 * [AGomezCuervo/align.nvim](https://github.com/AGomezCuervo/align.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-09-16 ![](https://img.shields.io/github/stars/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/last-commit/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/commit-activity/y/AGomezCuervo/align.nvim)
 * [NoSpawnn/align.nvim](https://github.com/NoSpawnn/align.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-05-02 ![](https://img.shields.io/github/stars/NoSpawnn/align.nvim) ![](https://img.shields.io/github/last-commit/NoSpawnn/align.nvim) ![](https://img.shields.io/github/commit-activity/y/NoSpawnn/align.nvim)
-* [FLeWz/align-format.nvim](https://github.com/FLeWz/align-format.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-07-29 ![](https://img.shields.io/github/stars/FLeWz/align-format.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/align-format.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/align-format.nvim)
+* [FLeWz/align-format.nvim](https://github.com/FLeWz/align-format.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-09-16 ![](https://img.shields.io/github/stars/FLeWz/align-format.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/align-format.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/align-format.nvim)
 
 ### [TextObject, Operator](./textobject_operator.md)
 
@@ -375,7 +375,7 @@
 
 ### Number
 
-* [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) ⭐ 230 | 🐛 4 | 🌐 Lua | 📅 2026-06-19 ![](https://img.shields.io/github/stars/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/last-commit/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/commit-activity/y/sitiom/nvim-numbertoggle)
+* [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) ⭐ 229 | 🐛 4 | 🌐 Lua | 📅 2026-06-19 ![](https://img.shields.io/github/stars/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/last-commit/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/commit-activity/y/sitiom/nvim-numbertoggle)
 * [shrynx/line-numbers.nvim](https://github.com/shrynx/line-numbers.nvim) ⭐ 45 | 🐛 1 | 🌐 Lua | 📅 2026-04-05 ![](https://img.shields.io/github/stars/shrynx/line-numbers.nvim) ![](https://img.shields.io/github/last-commit/shrynx/line-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/shrynx/line-numbers.nvim)
 * [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim) ⭐ 41 | 🐛 0 | 🌐 Lua | 📅 2026-04-26 ![](https://img.shields.io/github/stars/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/last-commit/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/nkakouros-original/numbers.nvim)
 * [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) ⭐ 37 | 🐛 0 | 🌐 Lua | 📅 2025-07-13 ![](https://img.shields.io/github/stars/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/last-commit/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/cpea2506/relative-toggle.nvim)
@@ -509,7 +509,7 @@
 
 #### Context Header
 
-* [romgrk/nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context) ⭐ 3,228 | 🐛 32 | 🌐 Janet | 📅 2026-08-02 ![](https://img.shields.io/github/stars/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/last-commit/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/commit-activity/y/romgrk/nvim-treesitter-context)
+* [romgrk/nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context) ⭐ 3,227 | 🐛 32 | 🌐 Janet | 📅 2026-08-02 ![](https://img.shields.io/github/stars/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/last-commit/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/commit-activity/y/romgrk/nvim-treesitter-context)
 * [polarmutex/contextprint.nvim](https://github.com/polarmutex/contextprint.nvim) ⭐ 40 | 🐛 0 | 🌐 Lua | 📅 2021-07-18 ![](https://img.shields.io/github/stars/polarmutex/contextprint.nvim) ![](https://img.shields.io/github/last-commit/polarmutex/contextprint.nvim) ![](https://img.shields.io/github/commit-activity/y/polarmutex/contextprint.nvim)
 
 ### [Linter / Formatter](./linter_formatter.md)
@@ -707,4 +707,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
