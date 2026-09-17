@@ -337,10 +337,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2025-04-01T23:07:06Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "benlubas",
                 "repo": "wrapping-paper.nvim",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "nvim",
                   "nvim-plugin"
@@ -465,7 +465,7 @@
                 "open_issues": 2,
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1549,
+                "stars": 1548,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -775,7 +775,7 @@
                 "open_issues": 1,
                 "owner": "duqcyxwd",
                 "repo": "stringbreaker.nvim",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -1928,7 +1928,7 @@
                 "open_issues": 7,
                 "owner": "abecodes",
                 "repo": "tabout.nvim",
-                "stars": 877,
+                "stars": 878,
                 "topics": [
                   "lua",
                   "neovim",
@@ -2596,7 +2596,7 @@
                 "id": 469660196,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-05-16T02:03:49Z",
+                "last_commit": "2026-09-17T14:35:04Z",
                 "open_issues": 1,
                 "owner": "jiaoshijie",
                 "repo": "undotree",
@@ -2889,6 +2889,32 @@
             },
             {
               "node_type": "item",
+              "title": "linrongbin16/gentags.nvim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tags generator/management for old school vimers in Neovim.",
+                "homepage": null,
+                "id": 728920348,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-08-20T13:33:57Z",
+                "open_issues": 1,
+                "owner": "linrongbin16",
+                "repo": "gentags.nvim",
+                "stars": 25,
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "neovim-plugin",
+                  "plugin"
+                ]
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
+            },
+            {
+              "node_type": "item",
               "title": "weilbith/nvim-floating-tag-preview",
               "description": null,
               "children": [],
@@ -2905,32 +2931,6 @@
                 "repo": "nvim-floating-tag-preview",
                 "stars": 24,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T04:23:46.669Z"
-            },
-            {
-              "node_type": "item",
-              "title": "linrongbin16/gentags.nvim",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Tags generator/management for old school vimers in Neovim.",
-                "homepage": null,
-                "id": 728920348,
-                "language": "Lua",
-                "license": "MIT",
-                "last_commit": "2025-08-20T13:33:57Z",
-                "open_issues": 1,
-                "owner": "linrongbin16",
-                "repo": "gentags.nvim",
-                "stars": 24,
-                "topics": [
-                  "lua",
-                  "neovim",
-                  "neovim-plugin",
-                  "plugin"
-                ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
             },
@@ -3508,7 +3508,7 @@
                     "open_issues": 32,
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3227,
+                    "stars": 3229,
                     "topics": [
                       "neovim",
                       "neovim-plugin",
@@ -3978,7 +3978,7 @@
                 "id": 1353950444,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-14T14:44:40Z",
+                "last_commit": "2026-09-17T20:11:37Z",
                 "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "hover.nvim",
@@ -4083,7 +4083,7 @@
                 "id": 1277984459,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-14T12:59:15Z",
+                "last_commit": "2026-09-17T21:20:11Z",
                 "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
@@ -4570,7 +4570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:02:56.224Z",
+    "last_updated": "2026-09-17T22:54:51.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4578,8 +4578,8 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-16T02:52:16Z",
-      "open_issues": 0,
+      "last_commit": "2026-09-17T03:14:28Z",
+      "open_issues": 1,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
       "stars": 833,
@@ -4590,7 +4590,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "3cd1b786e733ee2e038ce54c3bd269334f31a2f5",
+    "original_repository_sha": "0f0f529b5457815238b63fb752971512a685d3be",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
