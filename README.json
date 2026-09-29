@@ -465,7 +465,7 @@
                 "open_issues": 3,
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1547,
+                "stars": 1548,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -530,7 +530,7 @@
                 "open_issues": 0,
                 "owner": "mcauley-penney",
                 "repo": "visual-whitespace.nvim",
-                "stars": 477,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -1847,7 +1847,7 @@
                 "open_issues": 11,
                 "owner": "LunarVim",
                 "repo": "bigfile.nvim",
-                "stars": 370,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -2617,11 +2617,11 @@
                 "id": 469660196,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-17T14:35:04Z",
+                "last_commit": "2026-09-28T04:46:24Z",
                 "open_issues": 1,
                 "owner": "jiaoshijie",
                 "repo": "undotree",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "neovim-plugin",
                   "neovim-plugin-lua",
@@ -2646,7 +2646,7 @@
                 "open_issues": 0,
                 "owner": "tzachar",
                 "repo": "highlight-undo.nvim",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "lua",
                   "neovim",
@@ -2901,7 +2901,7 @@
                 "open_issues": 2,
                 "owner": "quangnguyen30192",
                 "repo": "cmp-nvim-tags",
-                "stars": 58,
+                "stars": 57,
                 "topics": [
                   "nvim-cmp"
                 ]
@@ -3656,7 +3656,7 @@
                 "open_issues": 3,
                 "owner": "tomiis4",
                 "repo": "hypersonic.nvim",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "awesome-neovim",
                   "lua",
@@ -4591,7 +4591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:09:38.983Z",
+    "last_updated": "2026-09-29T00:26:48.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4599,7 +4599,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-27T05:05:36Z",
+      "last_commit": "2026-09-28T02:48:37Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4611,7 +4611,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "d9fadd2de12d9d3e2bccf08d0f0613773cfee541",
+    "original_repository_sha": "8b35d9f141f778d1df457723359fb5bc6af89ce8",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
