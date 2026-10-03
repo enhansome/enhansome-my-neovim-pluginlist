@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "OXY2DEV/bars.nvim",
-          "description": null,
+          "description": "OXY2DEV/bars.nvim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "luukvbaal/statuscol.nvim",
-              "description": null,
+              "description": "luukvbaal/statuscol.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -57,7 +57,7 @@
             {
               "node_type": "item",
               "title": "ElPiloto/significant.nvim",
-              "description": null,
+              "description": "ElPiloto/significant.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "wsdjeg/statuscolumn.nvim",
-              "description": null,
+              "description": "wsdjeg/statuscolumn.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -101,7 +101,7 @@
             {
               "node_type": "item",
               "title": "tombell/hem.nvim",
-              "description": null,
+              "description": "tombell/hem.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -126,7 +126,7 @@
             {
               "node_type": "item",
               "title": "coreyb-git/statuscolumn.nvim",
-              "description": null,
+              "description": "coreyb-git/statuscolumn.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -157,7 +157,7 @@
             {
               "node_type": "item",
               "title": "nvim-zh/colorful-winsep.nvim",
-              "description": null,
+              "description": "nvim-zh/colorful-winsep.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -181,7 +181,7 @@
             {
               "node_type": "item",
               "title": "A-Lamia/spotlight.nvim",
-              "description": null,
+              "description": "A-Lamia/spotlight.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -209,7 +209,7 @@
             {
               "node_type": "item",
               "title": "Aasim-A/scrollEOF.nvim",
-              "description": null,
+              "description": "Aasim-A/scrollEOF.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -230,7 +230,7 @@
             {
               "node_type": "item",
               "title": "LZDQ/nvim-autocenter",
-              "description": null,
+              "description": "LZDQ/nvim-autocenter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -253,7 +253,7 @@
             {
               "node_type": "item",
               "title": "vvvvv/yfix.nvim",
-              "description": null,
+              "description": "vvvvv/yfix.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -274,7 +274,7 @@
             {
               "node_type": "item",
               "title": "MagnetizedFreckles/centerscroll.nvim",
-              "description": null,
+              "description": "MagnetizedFreckles/centerscroll.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -302,7 +302,7 @@
             {
               "node_type": "item",
               "title": "andrewferrier/wrapping.nvim",
-              "description": null,
+              "description": "andrewferrier/wrapping.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -327,7 +327,7 @@
             {
               "node_type": "item",
               "title": "benlubas/wrapping-paper.nvim",
-              "description": null,
+              "description": "benlubas/wrapping-paper.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -351,7 +351,7 @@
             {
               "node_type": "item",
               "title": "rlychrisg/truncateline.nvim",
-              "description": null,
+              "description": "rlychrisg/truncateline.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -382,7 +382,7 @@
             {
               "node_type": "item",
               "title": "RoBaertschi/modeline2.nvim",
-              "description": null,
+              "description": "RoBaertschi/modeline2.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -403,7 +403,7 @@
             {
               "node_type": "item",
               "title": "CheesyChocolate/modeline.nvim",
-              "description": null,
+              "description": "CheesyChocolate/modeline.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -424,7 +424,7 @@
             {
               "node_type": "item",
               "title": "Coding4Glory/tiny-modeline.nvim",
-              "description": null,
+              "description": "Coding4Glory/modneo-modeline",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -452,7 +452,7 @@
             {
               "node_type": "item",
               "title": "folke/twilight.nvim",
-              "description": null,
+              "description": "folke/twilight.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -478,7 +478,7 @@
             {
               "node_type": "item",
               "title": "koenverburg/peepsight.nvim",
-              "description": null,
+              "description": "koenverburg/peepsight.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -517,7 +517,7 @@
             {
               "node_type": "item",
               "title": "mcauley-penney/visual-whitespace.nvim",
-              "description": null,
+              "description": "mcauley-penney/visual-whitespace.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,7 +538,7 @@
             {
               "node_type": "item",
               "title": "fraso-dev/nvim-listchars",
-              "description": null,
+              "description": "0xfraso/nvim-listchars",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -559,7 +559,7 @@
             {
               "node_type": "item",
               "title": "rseichter/ellipsis.nvim",
-              "description": null,
+              "description": "rseichter/ellipsis.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -580,7 +580,7 @@
             {
               "node_type": "item",
               "title": "Corey-Keller/ToggleListChars.nvim",
-              "description": null,
+              "description": "Corey-Keller/ToggleListChars.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -612,7 +612,7 @@
         {
           "node_type": "item",
           "title": "gregorias/toggle.nvim",
-          "description": null,
+          "description": "gregorias/toggle.nvim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,7 +635,7 @@
         {
           "node_type": "item",
           "title": "walkingshamrock/optiongroup.nvim",
-          "description": null,
+          "description": "walkingshamrock/optiongroup.nvim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -656,7 +656,7 @@
         {
           "node_type": "item",
           "title": "Kibadda/starter.nvim",
-          "description": null,
+          "description": "Kibadda/starter.nvim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -677,7 +677,7 @@
         {
           "node_type": "item",
           "title": "ras0q/optplus.nvim",
-          "description": null,
+          "description": "ras0q/optplus.nvim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -710,7 +710,7 @@
             {
               "node_type": "item",
               "title": "AgusDOLARD/backout.nvim",
-              "description": null,
+              "description": "AgusDOLARD/backout.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -738,7 +738,7 @@
             {
               "node_type": "item",
               "title": "csessh/stopinsert.nvim",
-              "description": null,
+              "description": "csessh/stopinsert.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -762,7 +762,7 @@
             {
               "node_type": "item",
               "title": "duqcyxwd/stringbreaker.nvim",
-              "description": null,
+              "description": "duqcyxwd/stringbreaker.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -783,7 +783,7 @@
             {
               "node_type": "item",
               "title": "sontungexpt/bim.nvim",
-              "description": null,
+              "description": "sontungexpt/bim.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -804,7 +804,7 @@
             {
               "node_type": "item",
               "title": "yuki-yano/smart-i.nvim",
-              "description": null,
+              "description": "yuki-yano/smart-i.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -825,7 +825,7 @@
             {
               "node_type": "item",
               "title": "AntonVanAssche/date-time-inserter.nvim",
-              "description": null,
+              "description": "AntonVanAssche/date-time-inserter.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -852,7 +852,7 @@
             {
               "node_type": "item",
               "title": "tehdb/nvim-faker",
-              "description": null,
+              "description": "tehdb/nvim-faker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -873,7 +873,7 @@
             {
               "node_type": "item",
               "title": "aidancz/lfsp.nvim",
-              "description": null,
+              "description": "aidancz/lfsp.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -894,7 +894,7 @@
             {
               "node_type": "item",
               "title": "enoatu/nvim-smartchr",
-              "description": null,
+              "description": "enoatu/nvim-smartchr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -915,7 +915,7 @@
             {
               "node_type": "item",
               "title": "njaczko/nvim-dummy-text",
-              "description": null,
+              "description": "njaczko/nvim-dummy-text",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -936,7 +936,7 @@
             {
               "node_type": "item",
               "title": "nobody-famous/lima.nvim",
-              "description": null,
+              "description": "nobody-famous/lima.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -957,7 +957,7 @@
             {
               "node_type": "item",
               "title": "Akirisu-kirisu/nvim-insert-mode",
-              "description": null,
+              "description": "Akirisu-kirisu/nvim-insert-mode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -978,7 +978,7 @@
             {
               "node_type": "item",
               "title": "bwintertkb/enclose_nav.nvim",
-              "description": null,
+              "description": "bwintertkb/enclose_nav.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -999,7 +999,7 @@
             {
               "node_type": "item",
               "title": "resonyze/erase_node.nvim",
-              "description": null,
+              "description": "resonyze/erase_node.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1020,7 +1020,7 @@
             {
               "node_type": "item",
               "title": "adammccartney/nvim-rinse",
-              "description": null,
+              "description": "adammccartney/nvim-rinse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1041,7 +1041,7 @@
             {
               "node_type": "item",
               "title": "Someone-s-out-there/stutter.nvim",
-              "description": null,
+              "description": "Someone-s-out-there/stutter.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1062,7 +1062,7 @@
             {
               "node_type": "item",
               "title": "haolian9/ico.nvim",
-              "description": null,
+              "description": "haolian9/ico.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1083,7 +1083,7 @@
             {
               "node_type": "item",
               "title": "ins0mniaque/sacrilege.nvim",
-              "description": null,
+              "description": "ins0mniaque/sacrilege.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1104,7 +1104,7 @@
             {
               "node_type": "item",
               "title": "cwmaguire/datebox.nvim",
-              "description": null,
+              "description": "cwmaguire/datebox.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1127,7 +1127,7 @@
                 {
                   "node_type": "item",
                   "title": "boltlessengineer/smart-tab.nvim",
-                  "description": null,
+                  "description": "boltlessengineer/smart-tab.nvim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1153,7 +1153,7 @@
                 {
                   "node_type": "item",
                   "title": "lsvmello/elastictabstops.nvim",
-                  "description": null,
+                  "description": "lsvmello/elastictabstops.nvim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1174,7 +1174,7 @@
                 {
                   "node_type": "item",
                   "title": "nvim-jo/smarttab.nvim",
-                  "description": null,
+                  "description": "nvim-jo/smarttab.nvim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1207,7 +1207,7 @@
             {
               "node_type": "item",
               "title": "monkoose/matchparen.nvim",
-              "description": null,
+              "description": "monkoose/matchparen.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1228,7 +1228,7 @@
             {
               "node_type": "item",
               "title": "yorickpeterse/nvim-tree-pairs",
-              "description": null,
+              "description": "yorickpeterse/nvim-tree-pairs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1249,7 +1249,7 @@
             {
               "node_type": "item",
               "title": "rareitems/hl_match_area.nvim",
-              "description": null,
+              "description": "rareitems/hl_match_area.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1270,7 +1270,7 @@
             {
               "node_type": "item",
               "title": "tar80/matchwith.nvim",
-              "description": null,
+              "description": "tar80/matchwith.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1294,7 +1294,7 @@
             {
               "node_type": "item",
               "title": "jugarpeupv/visual-match-paren.nvim",
-              "description": null,
+              "description": "jugarpeupv/visual-match-paren.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1315,7 +1315,7 @@
             {
               "node_type": "item",
               "title": "haolian9/showmatch.nvim",
-              "description": null,
+              "description": "haolian9/showmatch.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1343,7 +1343,7 @@
             {
               "node_type": "item",
               "title": "haolian9/gary.nvim",
-              "description": null,
+              "description": "haolian9/gary.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1371,7 +1371,7 @@
             {
               "node_type": "item",
               "title": "fvictorio/eval-replace.nvim",
-              "description": null,
+              "description": "fvictorio/eval-replace.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1396,7 +1396,7 @@
             {
               "node_type": "item",
               "title": "lost22git/run-visual.nvim",
-              "description": null,
+              "description": "lost22git/run-visual.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1429,7 +1429,7 @@
             {
               "node_type": "item",
               "title": "Vonr/align.nvim",
-              "description": null,
+              "description": "Vonr/align.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1456,7 +1456,7 @@
             {
               "node_type": "item",
               "title": "echasnovski/mini.align",
-              "description": null,
+              "description": "nvim-mini/mini.align",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1482,7 +1482,7 @@
             {
               "node_type": "item",
               "title": "RRethy/nvim-align",
-              "description": null,
+              "description": "RRethy/nvim-align",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1503,7 +1503,7 @@
             {
               "node_type": "item",
               "title": "jakeru/columnize.nvim",
-              "description": null,
+              "description": "jakeru/columnize.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1524,7 +1524,7 @@
             {
               "node_type": "item",
               "title": "vzze/aligner.nvim",
-              "description": null,
+              "description": "vzze/aligner.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1549,7 +1549,7 @@
             {
               "node_type": "item",
               "title": "chuck-flowers/align-selection.nvim",
-              "description": null,
+              "description": "chuck-flowers/align-selection.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1570,7 +1570,7 @@
             {
               "node_type": "item",
               "title": "haolian9/furrow.nvim",
-              "description": null,
+              "description": "haolian9/furrow.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1591,7 +1591,7 @@
             {
               "node_type": "item",
               "title": "CoffeeCoder1/virtual-align.nvim",
-              "description": null,
+              "description": "ApolloFops/virtual-align.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1615,7 +1615,7 @@
             {
               "node_type": "item",
               "title": "AGomezCuervo/align.nvim",
-              "description": null,
+              "description": "AGomezCuervo/align.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1636,7 +1636,7 @@
             {
               "node_type": "item",
               "title": "NoSpawnn/align.nvim",
-              "description": null,
+              "description": "NoSpawnn/align.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1657,7 +1657,7 @@
             {
               "node_type": "item",
               "title": "FLeWz/align-format.nvim",
-              "description": null,
+              "description": "FLeWz/align-format.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1678,7 +1678,7 @@
             {
               "node_type": "item",
               "title": "tunachip/lazy-align.nvim",
-              "description": null,
+              "description": "tunachip/lazy-align.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1706,12 +1706,12 @@
             {
               "node_type": "item",
               "title": "julienvincent/nvim-paredit",
-              "description": null,
+              "description": "julienvincent/nvim-paredit",
               "children": [
                 {
                   "node_type": "item",
                   "title": "dnebauer/dn-markdown.nvim",
-                  "description": null,
+                  "description": "dnebauer/dn-markdown.nvim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1764,7 +1764,7 @@
             {
               "node_type": "item",
               "title": "boltlessengineer/zeta.nvim",
-              "description": null,
+              "description": "boltlessengineer/zeta.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1785,7 +1785,7 @@
             {
               "node_type": "item",
               "title": "zenodea/nextedit.nvim",
-              "description": null,
+              "description": "zenodea/nextedit.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1806,7 +1806,7 @@
             {
               "node_type": "item",
               "title": "Southporter/zeta.nvim",
-              "description": null,
+              "description": "Southporter/zeta.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1834,7 +1834,7 @@
             {
               "node_type": "item",
               "title": "LunarVim/bigfile.nvim",
-              "description": null,
+              "description": "LunarVim/bigfile.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1855,7 +1855,7 @@
             {
               "node_type": "item",
               "title": "pteroctopus/faster.nvim",
-              "description": null,
+              "description": "pteroctopus/faster.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1879,7 +1879,7 @@
             {
               "node_type": "item",
               "title": "ouuan/nvim-bigfile",
-              "description": null,
+              "description": "ouuan/nvim-bigfile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1903,7 +1903,7 @@
             {
               "node_type": "item",
               "title": "mei28/BigSheetGardna.nvim",
-              "description": null,
+              "description": "mei28/BigSheetGardna.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1936,7 +1936,7 @@
             {
               "node_type": "item",
               "title": "abecodes/tabout.nvim",
-              "description": null,
+              "description": "abecodes/tabout.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1961,7 +1961,7 @@
             {
               "node_type": "item",
               "title": "saifulapm/chartoggle.nvim",
-              "description": null,
+              "description": "saifulapm/chartoggle.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1982,7 +1982,7 @@
             {
               "node_type": "item",
               "title": "Allendang/nvim-expand-expr",
-              "description": null,
+              "description": "AllenDang/nvim-expand-expr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2003,7 +2003,7 @@
             {
               "node_type": "item",
               "title": "svban/Reverse.nvim",
-              "description": null,
+              "description": "svban/Reverse.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2029,7 +2029,7 @@
             {
               "node_type": "item",
               "title": "Parsifa1/smartab.nvim",
-              "description": null,
+              "description": "Parsifa1/smartab.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2063,7 +2063,7 @@
             {
               "node_type": "item",
               "title": "sitiom/nvim-numbertoggle",
-              "description": null,
+              "description": "sitiom/nvim-numbertoggle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2090,7 +2090,7 @@
             {
               "node_type": "item",
               "title": "shrynx/line-numbers.nvim",
-              "description": null,
+              "description": "shrynx/line-numbers.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2116,7 +2116,7 @@
             {
               "node_type": "item",
               "title": "nkakouros-original/numbers.nvim",
-              "description": null,
+              "description": "nkakouros-original/numbers.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2140,7 +2140,7 @@
             {
               "node_type": "item",
               "title": "cpea2506/relative-toggle.nvim",
-              "description": null,
+              "description": "cpea2506/relative-toggle.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2167,7 +2167,7 @@
             {
               "node_type": "item",
               "title": "stikypiston/unobtrusive-relnums.nvim",
-              "description": null,
+              "description": "indium114/unobtrusive-relnums.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2191,7 +2191,7 @@
             {
               "node_type": "item",
               "title": "prichrd/flagmode.nvim",
-              "description": null,
+              "description": "prichrd/flagmode.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2215,7 +2215,7 @@
             {
               "node_type": "item",
               "title": "lum1nar/peep.nvim",
-              "description": null,
+              "description": "lum1nar/peep.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2240,7 +2240,7 @@
             {
               "node_type": "item",
               "title": "fluxdiv/relative-rainbow.nvim",
-              "description": null,
+              "description": "fluxdiv/relative-rainbow.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2264,7 +2264,7 @@
             {
               "node_type": "item",
               "title": "gvlatko/inline-relative-numbers.nvim",
-              "description": null,
+              "description": "gvlatko/inline-relative-numbers.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2288,7 +2288,7 @@
             {
               "node_type": "item",
               "title": "walkingshamrock/rnum.nvim",
-              "description": null,
+              "description": "walkingshamrock/rnum.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2309,7 +2309,7 @@
             {
               "node_type": "item",
               "title": "dk949/file_line.nvim",
-              "description": null,
+              "description": "dk949/file_line.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2330,7 +2330,7 @@
             {
               "node_type": "item",
               "title": "markosnarinian/ln.nvim",
-              "description": null,
+              "description": "markosnarinian/ln.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2358,7 +2358,7 @@
             {
               "node_type": "item",
               "title": "redxtech/sharing.nvim",
-              "description": null,
+              "description": "redxtech/sharing.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2379,7 +2379,7 @@
             {
               "node_type": "item",
               "title": "Sayyidalijufri/termlinehide.nvim",
-              "description": null,
+              "description": "Sayyidalijufri/termlinehide.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2400,7 +2400,7 @@
             {
               "node_type": "item",
               "title": "DarrellBrogdon/trnu.nvim",
-              "description": null,
+              "description": "DarrellBrogdon/trnu.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2421,7 +2421,7 @@
             {
               "node_type": "item",
               "title": "joshdirkx/toggle-relativenumber.nvim",
-              "description": null,
+              "description": "joshdirkx/toggle-relativenumber.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2442,7 +2442,7 @@
             {
               "node_type": "item",
               "title": "Long104/hidecolumn.nvim",
-              "description": null,
+              "description": "Long104/hidecolumn.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2463,7 +2463,7 @@
             {
               "node_type": "item",
               "title": "teial/relvirt.nvim",
-              "description": null,
+              "description": "teial/relvirt.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2484,7 +2484,7 @@
             {
               "node_type": "item",
               "title": "am2b/smartnumber.nvim",
-              "description": null,
+              "description": "am2b/smartnumber.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2505,7 +2505,7 @@
             {
               "node_type": "item",
               "title": "segfaulted67/rln.nvim",
-              "description": null,
+              "description": "segfaulted67/rln.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2526,7 +2526,7 @@
             {
               "node_type": "item",
               "title": "secobaka/peepingnum.nvim",
-              "description": null,
+              "description": "secobaka/peepingnum.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2547,7 +2547,7 @@
             {
               "node_type": "item",
               "title": "togawalk/relative-toggle.nvim",
-              "description": null,
+              "description": "rastaesh/relative-toggle.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2578,7 +2578,7 @@
             {
               "node_type": "item",
               "title": "debugloop/telescope-undo.nvim",
-              "description": null,
+              "description": "debugloop/telescope-undo.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2608,7 +2608,7 @@
             {
               "node_type": "item",
               "title": "jiaoshijie/undotree",
-              "description": null,
+              "description": "jiaoshijie/undotree",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2633,7 +2633,7 @@
             {
               "node_type": "item",
               "title": "tzachar/highlight-undo.nvim",
-              "description": null,
+              "description": "tzachar/highlight-undo.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2658,7 +2658,7 @@
             {
               "node_type": "item",
               "title": "XXiaoA/atone.nvim",
-              "description": null,
+              "description": "XXiaoA/atone.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2684,7 +2684,7 @@
             {
               "node_type": "item",
               "title": "SunnyTamang/select-undo.nvim",
-              "description": null,
+              "description": "SunnyTamang/select-undo.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2710,7 +2710,7 @@
             {
               "node_type": "item",
               "title": "y3owk1n/undo-glow.nvim",
-              "description": null,
+              "description": "y3owk1n/undo-glow.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2739,7 +2739,7 @@
             {
               "node_type": "item",
               "title": "y3owk1n/time-machine.nvim",
-              "description": null,
+              "description": "y3owk1n/time-machine.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2769,7 +2769,7 @@
             {
               "node_type": "item",
               "title": "aileot/emission.nvim",
-              "description": null,
+              "description": "aileot/emission.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2795,7 +2795,7 @@
             {
               "node_type": "item",
               "title": "mvllow/session-undo.nvim",
-              "description": null,
+              "description": "mvllow/session-undo.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2816,7 +2816,7 @@
             {
               "node_type": "item",
               "title": "haolian9/redostr.nvim",
-              "description": null,
+              "description": "haolian9/redostr.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2839,7 +2839,7 @@
             {
               "node_type": "item",
               "title": "walkingshamrock/undoplay.nvim",
-              "description": null,
+              "description": "walkingshamrock/undoplay.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2860,7 +2860,7 @@
             {
               "node_type": "item",
               "title": "DE-ZIX/undohistory.nvim",
-              "description": null,
+              "description": "DE-ZIX/undohistory.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2888,7 +2888,7 @@
             {
               "node_type": "item",
               "title": "quangnguyen30192/cmp-nvim-tags",
-              "description": null,
+              "description": "quangnguyen30192/cmp-nvim-tags",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2911,7 +2911,7 @@
             {
               "node_type": "item",
               "title": "linrongbin16/gentags.nvim",
-              "description": null,
+              "description": "linrongbin16/gentags.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2937,7 +2937,7 @@
             {
               "node_type": "item",
               "title": "weilbith/nvim-floating-tag-preview",
-              "description": null,
+              "description": "weilbith/nvim-floating-tag-preview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2958,7 +2958,7 @@
             {
               "node_type": "item",
               "title": "francescoApophis/tags.nvim",
-              "description": null,
+              "description": "francescoApophis/tags.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2986,7 +2986,7 @@
             {
               "node_type": "item",
               "title": "axlebedev/nvim-footprints",
-              "description": null,
+              "description": "axlebedev/nvim-footprints",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3014,7 +3014,7 @@
             {
               "node_type": "item",
               "title": "srackham/digraph-picker.nvim",
-              "description": null,
+              "description": "srackham/digraph-picker.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3038,7 +3038,7 @@
             {
               "node_type": "item",
               "title": "jonathanforhan/nvim-glyph",
-              "description": null,
+              "description": "jonathanforhan/nvim-glyph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3059,7 +3059,7 @@
             {
               "node_type": "item",
               "title": "adorostkar/NGG.nvim",
-              "description": null,
+              "description": "adorostkar/NGG.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3087,7 +3087,7 @@
             {
               "node_type": "item",
               "title": "0styx0/abbreinder.nvim",
-              "description": null,
+              "description": "0styx0/abbreinder.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3114,7 +3114,7 @@
             {
               "node_type": "item",
               "title": "ck-zhang/mistake.nvim",
-              "description": null,
+              "description": "ck-zhang/mistake.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3138,7 +3138,7 @@
             {
               "node_type": "item",
               "title": "shadyalfred/electric-quotes.nvim",
-              "description": null,
+              "description": "shadyalfred/electric-quotes.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3159,7 +3159,7 @@
             {
               "node_type": "item",
               "title": "reyalka/shell-abbr.nvim",
-              "description": null,
+              "description": "reyalka/shell-abbr.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3180,7 +3180,7 @@
             {
               "node_type": "item",
               "title": "Russoul/abbrev-expand.nvim",
-              "description": null,
+              "description": "Russoul/abbrev-expand.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3201,7 +3201,7 @@
             {
               "node_type": "item",
               "title": "dgtipon/abbrev-gen.nvim",
-              "description": null,
+              "description": "dgtipon/abbrev-gen.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3229,7 +3229,7 @@
             {
               "node_type": "item",
               "title": "ph1losof/ecolog2.nvim",
-              "description": null,
+              "description": "ph1losof/ecolog2.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3250,7 +3250,7 @@
             {
               "node_type": "item",
               "title": "yohendry/envs.nvim",
-              "description": null,
+              "description": "yohendry/envs.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3271,7 +3271,7 @@
             {
               "node_type": "item",
               "title": "Alexandersfg4/environment.nvim",
-              "description": null,
+              "description": "Alexandersfg4/environment.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3292,7 +3292,7 @@
             {
               "node_type": "item",
               "title": "sociale11/envim.nvim",
-              "description": null,
+              "description": "sociale11/envim.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3313,7 +3313,7 @@
             {
               "node_type": "item",
               "title": "Leonardo-Luz/hidenv.nvim",
-              "description": null,
+              "description": "Leonardo-Luz/hidenv.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3334,7 +3334,7 @@
             {
               "node_type": "item",
               "title": "Gyandeep09/env-drift.nvim",
-              "description": null,
+              "description": "Gyandeep09/env-drift.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3362,7 +3362,7 @@
             {
               "node_type": "item",
               "title": "mart-mihkel/pshada.nvim",
-              "description": null,
+              "description": "mart-mihkel/pshada.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3393,7 +3393,7 @@
             {
               "node_type": "item",
               "title": "notomo/gesture.nvim",
-              "description": null,
+              "description": "notomo/gesture.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3418,7 +3418,7 @@
             {
               "node_type": "item",
               "title": "ryardley/mouser.nvim",
-              "description": null,
+              "description": "ryardley/mouser.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3446,7 +3446,7 @@
             {
               "node_type": "item",
               "title": "muellan/nvim-telescope-arglist",
-              "description": null,
+              "description": "muellan/nvim-telescope-arglist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3480,7 +3480,7 @@
             {
               "node_type": "item",
               "title": "SleepySwords/change-function.nvim",
-              "description": null,
+              "description": "SleepySwords/change-function.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3516,7 +3516,7 @@
                 {
                   "node_type": "item",
                   "title": "romgrk/nvim-treesitter-context",
-                  "description": null,
+                  "description": "nvim-treesitter/nvim-treesitter-context",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3542,7 +3542,7 @@
                 {
                   "node_type": "item",
                   "title": "polarmutex/contextprint.nvim",
-                  "description": null,
+                  "description": "polarmutex/contextprint.nvim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3575,7 +3575,7 @@
             {
               "node_type": "item",
               "title": "piersolenski/telescope-import.nvim",
-              "description": null,
+              "description": "piersolenski/import.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3612,7 +3612,7 @@
             {
               "node_type": "item",
               "title": "bennypowers/nvim-regexplainer",
-              "description": null,
+              "description": "bennypowers/nvim-regexplainer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3643,7 +3643,7 @@
             {
               "node_type": "item",
               "title": "tomiis4/Hypersonic.nvim",
-              "description": null,
+              "description": "tomiis4/hypersonic.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3669,7 +3669,7 @@
             {
               "node_type": "item",
               "title": "Djancyp/regex.nvim",
-              "description": null,
+              "description": "Djancyp/regex.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3690,7 +3690,7 @@
             {
               "node_type": "item",
               "title": "rclawlor/regex-railroad.nvim",
-              "description": null,
+              "description": "rclawlor/regex-railroad.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3711,7 +3711,7 @@
             {
               "node_type": "item",
               "title": "jake-stewart/regex-vars.nvim",
-              "description": null,
+              "description": "jake-stewart/regex-vars.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3739,7 +3739,7 @@
             {
               "node_type": "item",
               "title": "jeangiraldoo/codedocs.nvim",
-              "description": null,
+              "description": "jeangiraldoo/codedocs.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3769,7 +3769,7 @@
             {
               "node_type": "item",
               "title": "Zeioth/dooku.nvim",
-              "description": null,
+              "description": "Zeioth/dooku.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3823,7 +3823,7 @@
             {
               "node_type": "item",
               "title": "jbyuki/venn.nvim",
-              "description": null,
+              "description": "jbyuki/venn.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3836,7 +3836,7 @@
                 "open_issues": 5,
                 "owner": "jbyuki",
                 "repo": "venn.nvim",
-                "stars": 1192,
+                "stars": 1193,
                 "topics": [
                   "ascii-art",
                   "ascii-graphics",
@@ -3850,7 +3850,7 @@
             {
               "node_type": "item",
               "title": "3rd/diagram.nvim",
-              "description": null,
+              "description": "3rd/diagram.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3874,7 +3874,7 @@
             {
               "node_type": "item",
               "title": "McKean/diagon.nvim",
-              "description": null,
+              "description": "McKean/diagon.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3902,7 +3902,7 @@
             {
               "node_type": "item",
               "title": "lewis6991/hover.nvim",
-              "description": null,
+              "description": "lewis6991/hover.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3925,7 +3925,7 @@
             {
               "node_type": "item",
               "title": "Fildo7525/pretty_hover",
-              "description": null,
+              "description": "Fildo7525/pretty_hover",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3948,7 +3948,7 @@
             {
               "node_type": "item",
               "title": "ellisonleao/weather.nvim",
-              "description": null,
+              "description": "ellisonleao/weather.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3969,7 +3969,7 @@
             {
               "node_type": "item",
               "title": "StonyBoy/nvim-update-time",
-              "description": null,
+              "description": "StonyBoy/nvim-update-time",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3990,7 +3990,7 @@
             {
               "node_type": "item",
               "title": "StefanBartl/hover.nvim",
-              "description": null,
+              "description": "StefanBartl/hover.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4020,7 +4020,7 @@
             {
               "node_type": "item",
               "title": "dgyurov/termify.nvim",
-              "description": null,
+              "description": "dgyurov/termify.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4041,7 +4041,7 @@
             {
               "node_type": "item",
               "title": "sxlar333/file-preview.nvim",
-              "description": null,
+              "description": "sxlar333/file-preview.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4069,7 +4069,7 @@
             {
               "node_type": "item",
               "title": "chrisgrieser/nvim-ghengis",
-              "description": null,
+              "description": "chrisgrieser/nvim-genghis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4095,7 +4095,7 @@
             {
               "node_type": "item",
               "title": "StefanBartl/fileops.nvim",
-              "description": null,
+              "description": "StefanBartl/fileops.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4129,7 +4129,7 @@
             {
               "node_type": "item",
               "title": "Zeioth/hot-reload.nvim",
-              "description": null,
+              "description": "Zeioth/hot-reload.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4161,7 +4161,7 @@
             {
               "node_type": "item",
               "title": "milkias17/reloader.nvim",
-              "description": null,
+              "description": "milkias17/reloader.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4182,7 +4182,7 @@
             {
               "node_type": "item",
               "title": "mskelton/live-reload.nvim",
-              "description": null,
+              "description": "mskelton/live-reload.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4207,7 +4207,7 @@
             {
               "node_type": "item",
               "title": "Little-Captain/reloader.nvim",
-              "description": null,
+              "description": "Little-Captain/reloader.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4235,7 +4235,7 @@
             {
               "node_type": "item",
               "title": "Cassin01/sche.nvim",
-              "description": null,
+              "description": "Cassin01/sche.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4267,7 +4267,7 @@
             {
               "node_type": "item",
               "title": "jerrywang1981/keystroke.nvim",
-              "description": null,
+              "description": "jerrywang1981/keystroke.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4295,7 +4295,7 @@
             {
               "node_type": "item",
               "title": "notomo/waitevent.nvim",
-              "description": null,
+              "description": "notomo/waitevent.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4326,7 +4326,7 @@
             {
               "node_type": "item",
               "title": "neo451/feed.nvim",
-              "description": null,
+              "description": "neo451/feed.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4347,7 +4347,7 @@
             {
               "node_type": "item",
               "title": "r7sqtr/wyw.nvim",
-              "description": null,
+              "description": "r7sqtr/wyw.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4370,7 +4370,7 @@
             {
               "node_type": "item",
               "title": "4DRIAN0RTIZ/rssfeed.nvim",
-              "description": null,
+              "description": "4DRIAN0RTIZ/rssfeed.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4393,7 +4393,7 @@
             {
               "node_type": "item",
               "title": "pawemix/decscribe.nvim",
-              "description": null,
+              "description": "pawemix/decscribe.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4414,7 +4414,7 @@
             {
               "node_type": "item",
               "title": "jwayston/quicknews.nvim",
-              "description": null,
+              "description": "jwayston/quicknews.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4437,7 +4437,7 @@
                 {
                   "node_type": "item",
                   "title": "liljaylj/codestats.nvim",
-                  "description": null,
+                  "description": "liljaylj/codestats.nvim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4462,7 +4462,7 @@
                 {
                   "node_type": "item",
                   "title": "Freed-Wu/code-stats.nvim",
-                  "description": null,
+                  "description": "Freed-Wu/code-stats.nvim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4488,7 +4488,7 @@
                 {
                   "node_type": "item",
                   "title": "maorun/code-stats.nvim",
-                  "description": null,
+                  "description": "maorun/code-stats.nvim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4521,7 +4521,7 @@
             {
               "node_type": "item",
               "title": "johannww/tts.nvim",
-              "description": null,
+              "description": "johannww/tts.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4542,7 +4542,7 @@
             {
               "node_type": "item",
               "title": "cskeeters/kokoro.nvim",
-              "description": null,
+              "description": "cskeeters/kokoro.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4563,7 +4563,7 @@
             {
               "node_type": "item",
               "title": "derekriemer/nvim-speaks",
-              "description": null,
+              "description": "derekriemer/nvim-speaks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4591,7 +4591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:51:56.475Z",
+    "last_updated": "2026-10-03T04:57:21.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4599,8 +4599,8 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-02T07:27:51Z",
-      "open_issues": 0,
+      "last_commit": "2026-10-03T02:53:31Z",
+      "open_issues": 1,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
       "stars": 833,
