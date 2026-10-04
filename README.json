@@ -170,7 +170,7 @@
                 "open_issues": 0,
                 "owner": "nvim-zh",
                 "repo": "colorful-winsep.nvim",
-                "stars": 710,
+                "stars": 711,
                 "topics": [
                   "neovim-plugin",
                   "nvim-plugin"
@@ -465,7 +465,7 @@
                 "open_issues": 3,
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1549,
+                "stars": 1548,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -530,7 +530,7 @@
                 "open_issues": 0,
                 "owner": "mcauley-penney",
                 "repo": "visual-whitespace.nvim",
-                "stars": 479,
+                "stars": 480,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -2794,6 +2794,27 @@
             },
             {
               "node_type": "item",
+              "title": "dsummersl/diffundo.nvim",
+              "description": "dsummersl/diffundo.nvim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Quickly open diff splits against your undo history in nvim",
+                "homepage": null,
+                "id": 392168552,
+                "language": "Lua",
+                "license": null,
+                "last_commit": "2026-10-02T17:51:17Z",
+                "open_issues": 1,
+                "owner": "dsummersl",
+                "repo": "diffundo.nvim",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-10-04T23:18:31.251Z"
+            },
+            {
+              "node_type": "item",
               "title": "mvllow/session-undo.nvim",
               "description": "mvllow/session-undo.nvim",
               "children": [],
@@ -3027,7 +3048,7 @@
                 "open_issues": 0,
                 "owner": "srackham",
                 "repo": "digraph-picker.nvim",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "digraphs",
                   "neovim-plugin"
@@ -3529,7 +3550,7 @@
                     "open_issues": 32,
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3231,
+                    "stars": 3230,
                     "topics": [
                       "neovim",
                       "neovim-plugin",
@@ -4335,8 +4356,8 @@
                 "id": 847032697,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-04-01T01:54:28Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-04T15:56:22Z",
+                "open_issues": 7,
                 "owner": "neo451",
                 "repo": "feed.nvim",
                 "stars": 203,
@@ -4541,6 +4562,27 @@
             },
             {
               "node_type": "item",
+              "title": "themakunga/tennant.nvim",
+              "description": "themakunga/tennant.nvim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "a Neovim plugin that converts text to speech using each operating system's native TTS engine: say on macOS, PowerShell on Windows, and spd-say / espeak-ng / espeak / festival on Linux. No external Lua dependencies or paid APIs required.",
+                "homepage": null,
+                "id": 1169557005,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-28T18:32:12Z",
+                "open_issues": 0,
+                "owner": "themakunga",
+                "repo": "tennant.nvim",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-10-04T23:18:31.251Z"
+            },
+            {
+              "node_type": "item",
               "title": "cskeeters/kokoro.nvim",
               "description": "cskeeters/kokoro.nvim",
               "children": [],
@@ -4591,7 +4633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:10:29.438Z",
+    "last_updated": "2026-10-04T23:18:31.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4599,8 +4641,8 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-03T14:13:52Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-04T06:35:04Z",
+      "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
       "stars": 833,
@@ -4611,7 +4653,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "99e192c367350b37eb37583ad9e1178a4559f021",
+    "original_repository_sha": "193bc662a815367ddd8911b0928ac068ffa1fbfc",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
