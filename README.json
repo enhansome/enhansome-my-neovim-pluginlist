@@ -222,7 +222,7 @@
                 "open_issues": 0,
                 "owner": "Aasim-A",
                 "repo": "scrollEOF.nvim",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -698,6 +698,27 @@
             ]
           },
           "first_seen": "2026-08-28T04:23:46.669Z"
+        },
+        {
+          "node_type": "item",
+          "title": "6ereke7/quicksettings.nvim",
+          "description": "6ereke7/quicksettings.nvim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1423528439,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2026-10-17T17:42:17Z",
+            "open_issues": 0,
+            "owner": "6ereke7",
+            "repo": "quicksettings.nvim",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-19T23:48:31.090Z"
         }
       ],
       "title": "Set Option"
@@ -1970,7 +1991,7 @@
                 "open_issues": 7,
                 "owner": "abecodes",
                 "repo": "tabout.nvim",
-                "stars": 884,
+                "stars": 885,
                 "topics": [
                   "lua",
                   "neovim",
@@ -3231,7 +3252,7 @@
                 "id": 890077924,
                 "language": "Lua",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-14T07:16:55Z",
+                "last_commit": "2026-10-19T14:57:08Z",
                 "open_issues": 1,
                 "owner": "Russoul",
                 "repo": "abbrev-expand.nvim",
@@ -3571,7 +3592,7 @@
                     "open_issues": 16,
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3237,
+                    "stars": 3239,
                     "topics": [
                       "neovim",
                       "neovim-plugin",
@@ -4041,7 +4062,7 @@
                 "id": 1353950444,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-14T17:16:51Z",
+                "last_commit": "2026-10-19T20:12:26Z",
                 "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "hover.nvim",
@@ -4146,7 +4167,7 @@
                 "id": 1277984459,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-17T14:20:52Z",
+                "last_commit": "2026-10-19T19:31:42Z",
                 "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
@@ -4654,7 +4675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:29:14.044Z",
+    "last_updated": "2026-10-19T23:48:31.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4662,7 +4683,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-18T03:17:39Z",
+      "last_commit": "2026-10-19T09:55:33Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4674,7 +4695,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "a2162fb0076339e66cbbc3f7b58be26f3ba92511",
+    "original_repository_sha": "b80762b541da43c36ae2bb594788a21cf5c25572",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
