@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "luukvbaal",
                 "repo": "statuscol.nvim",
-                "stars": 615,
+                "stars": 614,
                 "topics": [
                   "lua",
                   "neovim",
@@ -1507,7 +1507,7 @@
                 "id": 556845934,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-13T11:04:21Z",
+                "last_commit": "2026-10-20T11:37:00Z",
                 "open_issues": 0,
                 "owner": "nvim-mini",
                 "repo": "mini.align",
@@ -1991,7 +1991,7 @@
                 "open_issues": 7,
                 "owner": "abecodes",
                 "repo": "tabout.nvim",
-                "stars": 885,
+                "stars": 884,
                 "topics": [
                   "lua",
                   "neovim",
@@ -2659,8 +2659,8 @@
                 "id": 469660196,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-02T17:13:26Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-20T13:44:33Z",
+                "open_issues": 0,
                 "owner": "jiaoshijie",
                 "repo": "undotree",
                 "stars": 369,
@@ -2713,7 +2713,7 @@
                 "open_issues": 1,
                 "owner": "XXiaoA",
                 "repo": "atone.nvim",
-                "stars": 191,
+                "stars": 190,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -2739,7 +2739,7 @@
                 "open_issues": 0,
                 "owner": "SunnyTamang",
                 "repo": "select-undo.nvim",
-                "stars": 127,
+                "stars": 126,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -3815,7 +3815,7 @@
                 "open_issues": 1,
                 "owner": "jeangiraldoo",
                 "repo": "codedocs.nvim",
-                "stars": 110,
+                "stars": 109,
                 "topics": [
                   "annotation",
                   "docs-generator",
@@ -4167,7 +4167,7 @@
                 "id": 1277984459,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-19T19:31:42Z",
+                "last_commit": "2026-10-20T03:03:48Z",
                 "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "fileops.nvim",
@@ -4409,29 +4409,6 @@
             },
             {
               "node_type": "item",
-              "title": "r7sqtr/wyw.nvim",
-              "description": "r7sqtr/wyw.nvim",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "wyw.nvim (While You Wait) is designed to fill the awkward silence between your prompt and the AI's response, or during long test suites. Browse Hacker News, RSS feeds, and Japanese tech platforms without context switching.",
-                "homepage": null,
-                "id": 1116247364,
-                "language": "Lua",
-                "license": null,
-                "last_commit": "2025-12-14T13:59:45Z",
-                "open_issues": 0,
-                "owner": "r7sqtr",
-                "repo": "wyw.nvim",
-                "stars": 5,
-                "topics": [
-                  "neovim-plugin"
-                ]
-              },
-              "first_seen": "2026-08-28T04:23:46.669Z"
-            },
-            {
-              "node_type": "item",
               "title": "4DRIAN0RTIZ/rssfeed.nvim",
               "description": "4DRIAN0RTIZ/rssfeed.nvim",
               "children": [],
@@ -4446,6 +4423,29 @@
                 "open_issues": 1,
                 "owner": "4DRIAN0RTIZ",
                 "repo": "rssfeed.nvim",
+                "stars": 4,
+                "topics": [
+                  "neovim-plugin"
+                ]
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
+            },
+            {
+              "node_type": "item",
+              "title": "r7sqtr/wyw.nvim",
+              "description": "r7sqtr/wyw.nvim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "wyw.nvim (While You Wait) is designed to fill the awkward silence between your prompt and the AI's response, or during long test suites. Browse Hacker News, RSS feeds, and Japanese tech platforms without context switching.",
+                "homepage": null,
+                "id": 1116247364,
+                "language": "Lua",
+                "license": null,
+                "last_commit": "2025-12-14T13:59:45Z",
+                "open_issues": 0,
+                "owner": "r7sqtr",
+                "repo": "wyw.nvim",
                 "stars": 4,
                 "topics": [
                   "neovim-plugin"
@@ -4675,7 +4675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:48:31.090Z",
+    "last_updated": "2026-10-20T23:14:31.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4683,7 +4683,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-19T09:55:33Z",
+      "last_commit": "2026-10-20T03:02:38Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4695,7 +4695,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "b80762b541da43c36ae2bb594788a21cf5c25572",
+    "original_repository_sha": "d60515409e9d4c837ad64b722fdcba746cde1b3a",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
