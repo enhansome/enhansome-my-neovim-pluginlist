@@ -465,7 +465,7 @@
                 "open_issues": 3,
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1547,
+                "stars": 1548,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -530,7 +530,7 @@
                 "open_issues": 0,
                 "owner": "mcauley-penney",
                 "repo": "visual-whitespace.nvim",
-                "stars": 480,
+                "stars": 481,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -2663,7 +2663,7 @@
                 "open_issues": 0,
                 "owner": "jiaoshijie",
                 "repo": "undotree",
-                "stars": 369,
+                "stars": 368,
                 "topics": [
                   "neovim-plugin",
                   "neovim-plugin-lua",
@@ -2713,7 +2713,7 @@
                 "open_issues": 1,
                 "owner": "XXiaoA",
                 "repo": "atone.nvim",
-                "stars": 190,
+                "stars": 189,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -3688,7 +3688,7 @@
                 "open_issues": 2,
                 "owner": "bennypowers",
                 "repo": "nvim-regexplainer",
-                "stars": 758,
+                "stars": 757,
                 "topics": [
                   "lua",
                   "neovim",
@@ -3812,10 +3812,10 @@
                 "language": "Lua",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-14T13:29:39Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "jeangiraldoo",
                 "repo": "codedocs.nvim",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "annotation",
                   "docs-generator",
@@ -3926,7 +3926,7 @@
                 "open_issues": 26,
                 "owner": "3rd",
                 "repo": "diagram.nvim",
-                "stars": 414,
+                "stars": 415,
                 "topics": [
                   "neovim",
                   "neovim-plugin"
@@ -4062,7 +4062,7 @@
                 "id": 1353950444,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-21T17:04:11Z",
+                "last_commit": "2026-10-22T15:55:52Z",
                 "open_issues": 0,
                 "owner": "StefanBartl",
                 "repo": "hover.nvim",
@@ -4664,6 +4664,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
+            },
+            {
+              "node_type": "item",
+              "title": "aulme/readaloud.nvim",
+              "description": "aulme/readaloud.nvim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Read plain text and markdown aloud in Neovim, highlighting each word as it's spoken, with Kokoro running locally",
+                "homepage": null,
+                "id": 1427203954,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-20T15:20:54Z",
+                "open_issues": 0,
+                "owner": "aulme",
+                "repo": "readaloud.nvim",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T23:27:41.795Z"
             }
           ],
           "description": null,
@@ -4675,7 +4696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:27:56.825Z",
+    "last_updated": "2026-10-22T23:27:41.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4683,7 +4704,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-21T04:46:16Z",
+      "last_commit": "2026-10-22T04:46:30Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4695,7 +4716,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "58bb00ddf91831082bc56c86513876d050286833",
+    "original_repository_sha": "470d2b8d029538c0a17a56e1dba0ebed17850ee1",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
