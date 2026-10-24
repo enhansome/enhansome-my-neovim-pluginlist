@@ -216,7 +216,7 @@
 
 ### Wrap line
 
-* [andrewferrier/wrapping.nvim](https://github.com/andrewferrier/wrapping.nvim) ⭐ 183 | 🐛 10 | 🌐 Lua | 📅 2026-06-20 ![](https://img.shields.io/github/stars/andrewferrier/wrapping.nvim) ![](https://img.shields.io/github/last-commit/andrewferrier/wrapping.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewferrier/wrapping.nvim)
+* [andrewferrier/wrapping.nvim](https://github.com/andrewferrier/wrapping.nvim) ⭐ 183 | 🐛 10 | 🌐 Lua | 📅 2026-10-24 ![](https://img.shields.io/github/stars/andrewferrier/wrapping.nvim) ![](https://img.shields.io/github/last-commit/andrewferrier/wrapping.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewferrier/wrapping.nvim)
 * [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) ⭐ 78 | 🐛 2 | 🌐 Lua | 📅 2025-04-01 ![](https://img.shields.io/github/stars/benlubas/wrapping-paper.nvim) ![](https://img.shields.io/github/last-commit/benlubas/wrapping-paper.nvim) ![](https://img.shields.io/github/commit-activity/y/benlubas/wrapping-paper.nvim)
 * [rlychrisg/truncateline.nvim](https://github.com/rlychrisg/truncateline.nvim) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2026-01-14 ![](https://img.shields.io/github/stars/rlychrisg/truncateline.nvim) ![](https://img.shields.io/github/last-commit/rlychrisg/truncateline.nvim) ![](https://img.shields.io/github/commit-activity/y/rlychrisg/truncateline.nvim)
 
@@ -342,7 +342,7 @@
 
 ### Parenthetical edit
 
-* [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) ⭐ 267 | 🐛 18 | 🌐 Lua | 📅 2025-12-08 ![](https://img.shields.io/github/stars/julienvincent/nvim-paredit) ![](https://img.shields.io/github/last-commit/julienvincent/nvim-paredit) ![](https://img.shields.io/github/commit-activity/y/julienvincent/nvim-paredit)
+* [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) ⭐ 268 | 🐛 18 | 🌐 Lua | 📅 2025-12-08 ![](https://img.shields.io/github/stars/julienvincent/nvim-paredit) ![](https://img.shields.io/github/last-commit/julienvincent/nvim-paredit) ![](https://img.shields.io/github/commit-activity/y/julienvincent/nvim-paredit)
   * [dnebauer/dn-markdown.nvim](https://github.com/dnebauer/dn-markdown.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-03 ![](https://img.shields.io/github/stars/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/last-commit/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/dnebauer/dn-markdown.nvim)
 
 ### Edit Prediction
@@ -354,7 +354,7 @@
 ### Large file
 
 * [LunarVim/bigfile.nvim](https://github.com/LunarVim/bigfile.nvim) ⭐ 369 | 🐛 11 | 🌐 Lua | 📅 2024-08-01 ![](https://img.shields.io/github/stars/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/last-commit/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarVim/bigfile.nvim)
-* [pteroctopus/faster.nvim](https://github.com/pteroctopus/faster.nvim) ⭐ 129 | 🐛 1 | 🌐 Lua | 📅 2026-06-22 ![](https://img.shields.io/github/stars/pteroctopus/faster.nvim) ![](https://img.shields.io/github/last-commit/pteroctopus/faster.nvim) ![](https://img.shields.io/github/commit-activity/y/pteroctopus/faster.nvim)
+* [pteroctopus/faster.nvim](https://github.com/pteroctopus/faster.nvim) ⭐ 130 | 🐛 1 | 🌐 Lua | 📅 2026-06-22 ![](https://img.shields.io/github/stars/pteroctopus/faster.nvim) ![](https://img.shields.io/github/last-commit/pteroctopus/faster.nvim) ![](https://img.shields.io/github/commit-activity/y/pteroctopus/faster.nvim)
 * [ouuan/nvim-bigfile](https://github.com/ouuan/nvim-bigfile) ⭐ 6 | 🐛 1 | 🌐 Lua | 📅 2024-11-09 ![](https://img.shields.io/github/stars/ouuan/nvim-bigfile) ![](https://img.shields.io/github/last-commit/ouuan/nvim-bigfile) ![](https://img.shields.io/github/commit-activity/y/ouuan/nvim-bigfile)
 * [mei28/BigSheetGardna.nvim](https://github.com/mei28/BigSheetGardna.nvim) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2024-11-13 ![](https://img.shields.io/github/stars/mei28/BigSheetGardna.nvim) ![](https://img.shields.io/github/last-commit/mei28/BigSheetGardna.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/BigSheetGardna.nvim)
 
@@ -513,7 +513,7 @@
 
 #### Context Header
 
-* [romgrk/nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context) ⭐ 3,240 | 🐛 16 | 🌐 Janet | 📅 2026-10-09 ![](https://img.shields.io/github/stars/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/last-commit/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/commit-activity/y/romgrk/nvim-treesitter-context)
+* [romgrk/nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context) ⭐ 3,239 | 🐛 16 | 🌐 Janet | 📅 2026-10-09 ![](https://img.shields.io/github/stars/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/last-commit/romgrk/nvim-treesitter-context) ![](https://img.shields.io/github/commit-activity/y/romgrk/nvim-treesitter-context)
 * [polarmutex/contextprint.nvim](https://github.com/polarmutex/contextprint.nvim) ⭐ 40 | 🐛 0 | 🌐 Lua | 📅 2021-07-18 ![](https://img.shields.io/github/stars/polarmutex/contextprint.nvim) ![](https://img.shields.io/github/last-commit/polarmutex/contextprint.nvim) ![](https://img.shields.io/github/commit-activity/y/polarmutex/contextprint.nvim)
 
 ### [Linter / Formatter](./linter_formatter.md)
@@ -567,7 +567,7 @@
 * [Fildo7525/pretty\_hover](https://github.com/Fildo7525/pretty_hover) ⭐ 252 | 🐛 2 | 🌐 Lua | 📅 2026-05-22 ![](https://img.shields.io/github/stars/Fildo7525/pretty_hover) ![](https://img.shields.io/github/last-commit/Fildo7525/pretty_hover) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/pretty_hover)
 * [ellisonleao/weather.nvim](https://github.com/ellisonleao/weather.nvim) ⭐ 24 | 🐛 2 | 🌐 Lua | 📅 2022-12-11 ![](https://img.shields.io/github/stars/ellisonleao/weather.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/weather.nvim)
 * [StonyBoy/nvim-update-time](https://github.com/StonyBoy/nvim-update-time) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2025-10-26 ![](https://img.shields.io/github/stars/StonyBoy/nvim-update-time) ![](https://img.shields.io/github/last-commit/StonyBoy/nvim-update-time) ![](https://img.shields.io/github/commit-activity/y/StonyBoy/nvim-update-time)
-* [StefanBartl/hover.nvim](https://github.com/StefanBartl/hover.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-22 ![](https://img.shields.io/github/stars/StefanBartl/hover.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/hover.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/hover.nvim)
+* [StefanBartl/hover.nvim](https://github.com/StefanBartl/hover.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-24 ![](https://img.shields.io/github/stars/StefanBartl/hover.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/hover.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/hover.nvim)
 * [dgyurov/termify.nvim](https://github.com/dgyurov/termify.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2022-09-02 ![](https://img.shields.io/github/stars/dgyurov/termify.nvim) ![](https://img.shields.io/github/last-commit/dgyurov/termify.nvim) ![](https://img.shields.io/github/commit-activity/y/dgyurov/termify.nvim)
 * [sxlar333/file-preview.nvim](https://github.com/sxlar333/file-preview.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-08-27 ![](https://img.shields.io/github/stars/sxlar333/file-preview.nvim) ![](https://img.shields.io/github/last-commit/sxlar333/file-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/sxlar333/file-preview.nvim)
 
@@ -576,7 +576,7 @@
 ### File Handling
 
 * [chrisgrieser/nvim-ghengis](https://github.com/chrisgrieser/nvim-ghengis) ⭐ 222 | 🐛 2 | 🌐 Lua | 📅 2026-08-03 ![](https://img.shields.io/github/stars/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-ghengis)
-* [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
+* [StefanBartl/fileops.nvim](https://github.com/StefanBartl/fileops.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-10-24 ![](https://img.shields.io/github/stars/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/fileops.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/fileops.nvim)
 
 ### Reload Configuration
 
@@ -713,4 +713,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
