@@ -178,7 +178,7 @@
 
 ## View
 
-* [OXY2DEV/bars.nvim](https://github.com/OXY2DEV/bars.nvim) ⭐ 95 | 🐛 1 | 🌐 Lua | 📅 2026-05-31 ![](https://img.shields.io/github/stars/OXY2DEV/bars.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/bars.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/bars.nvim)
+* [OXY2DEV/bars.nvim](https://github.com/OXY2DEV/bars.nvim) ⭐ 96 | 🐛 1 | 🌐 Lua | 📅 2026-05-31 ![](https://img.shields.io/github/stars/OXY2DEV/bars.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/bars.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/bars.nvim)
 
 ### [Syntax / Highlight](./syntax_highlight.md)
 
@@ -326,7 +326,7 @@
 ### Align
 
 * [Vonr/align.nvim](https://github.com/Vonr/align.nvim) ⭐ 182 | 🐛 7 | 🌐 Lua | 📅 2024-04-10 ![](https://img.shields.io/github/stars/Vonr/align.nvim) ![](https://img.shields.io/github/last-commit/Vonr/align.nvim) ![](https://img.shields.io/github/commit-activity/y/Vonr/align.nvim)
-* [echasnovski/mini.align](https://github.com/echasnovski/mini.align) ⭐ 181 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 ![](https://img.shields.io/github/stars/echasnovski/mini.align) ![](https://img.shields.io/github/last-commit/echasnovski/mini.align) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.align)
+* [echasnovski/mini.align](https://github.com/echasnovski/mini.align) ⭐ 181 | 🐛 0 | 🌐 Lua | 📅 2026-10-27 ![](https://img.shields.io/github/stars/echasnovski/mini.align) ![](https://img.shields.io/github/last-commit/echasnovski/mini.align) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.align)
 * [RRethy/nvim-align](https://github.com/RRethy/nvim-align) ⭐ 48 | 🐛 0 | 🌐 Lua | 📅 2022-08-23 ![](https://img.shields.io/github/stars/RRethy/nvim-align) ![](https://img.shields.io/github/last-commit/RRethy/nvim-align) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-align)
 * [jakeru/columnize.nvim](https://github.com/jakeru/columnize.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2024-01-12 ![](https://img.shields.io/github/stars/jakeru/columnize.nvim) ![](https://img.shields.io/github/last-commit/jakeru/columnize.nvim) ![](https://img.shields.io/github/commit-activity/y/jakeru/columnize.nvim)
 * [vzze/aligner.nvim](https://github.com/vzze/aligner.nvim) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2022-11-15 ![](https://img.shields.io/github/stars/vzze/aligner.nvim) ![](https://img.shields.io/github/last-commit/vzze/aligner.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/aligner.nvim)
@@ -410,7 +410,7 @@
 * [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) ⭐ 354 | 🐛 0 | 🌐 Lua | 📅 2025-06-26 ![](https://img.shields.io/github/stars/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/last-commit/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/tzachar/highlight-undo.nvim)
 * [XXiaoA/atone.nvim](https://github.com/XXiaoA/atone.nvim) ⭐ 188 | 🐛 1 | 🌐 Lua | 📅 2026-08-15 ![](https://img.shields.io/github/stars/XXiaoA/atone.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/atone.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/atone.nvim)
 * [SunnyTamang/select-undo.nvim](https://github.com/SunnyTamang/select-undo.nvim) ⭐ 126 | 🐛 0 | 🌐 Lua | 📅 2026-07-05 ![](https://img.shields.io/github/stars/SunnyTamang/select-undo.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/select-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/select-undo.nvim)
-* [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim) ⭐ 108 | 🐛 1 | 🌐 Lua | 📅 2026-07-04 ![](https://img.shields.io/github/stars/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/undo-glow.nvim)
+* [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim) ⭐ 107 | 🐛 1 | 🌐 Lua | 📅 2026-07-04 ![](https://img.shields.io/github/stars/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/undo-glow.nvim)
 * [y3owk1n/time-machine.nvim](https://github.com/y3owk1n/time-machine.nvim) ⭐ 81 | 🐛 0 | 🌐 Lua | 📅 2026-07-04 ![](https://img.shields.io/github/stars/y3owk1n/time-machine.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/time-machine.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/time-machine.nvim)
 * [aileot/emission.nvim](https://github.com/aileot/emission.nvim) ⭐ 25 | 🐛 1 | 🌐 Fennel | 📅 2025-02-21 ![](https://img.shields.io/github/stars/aileot/emission.nvim) ![](https://img.shields.io/github/last-commit/aileot/emission.nvim) ![](https://img.shields.io/github/commit-activity/y/aileot/emission.nvim)
 * [dsummersl/diffundo.nvim](https://github.com/dsummersl/diffundo.nvim) ⭐ 19 | 🐛 1 | 🌐 Lua | 📅 2026-10-02 ![](https://img.shields.io/github/stars/dsummersl/diffundo.nvim) ![](https://img.shields.io/github/last-commit/dsummersl/diffundo.nvim) ![](https://img.shields.io/github/commit-activity/y/dsummersl/diffundo.nvim)
@@ -564,7 +564,7 @@
 ### Popup Info
 
 * [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) ⭐ 745 | 🐛 23 | 🌐 Lua | 📅 2026-03-20 ![](https://img.shields.io/github/stars/lewis6991/hover.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/hover.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/hover.nvim)
-* [Fildo7525/pretty\_hover](https://github.com/Fildo7525/pretty_hover) ⭐ 252 | 🐛 2 | 🌐 Lua | 📅 2026-05-22 ![](https://img.shields.io/github/stars/Fildo7525/pretty_hover) ![](https://img.shields.io/github/last-commit/Fildo7525/pretty_hover) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/pretty_hover)
+* [Fildo7525/pretty\_hover](https://github.com/Fildo7525/pretty_hover) ⭐ 251 | 🐛 2 | 🌐 Lua | 📅 2026-05-22 ![](https://img.shields.io/github/stars/Fildo7525/pretty_hover) ![](https://img.shields.io/github/last-commit/Fildo7525/pretty_hover) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/pretty_hover)
 * [ellisonleao/weather.nvim](https://github.com/ellisonleao/weather.nvim) ⭐ 24 | 🐛 2 | 🌐 Lua | 📅 2022-12-11 ![](https://img.shields.io/github/stars/ellisonleao/weather.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/weather.nvim)
 * [StonyBoy/nvim-update-time](https://github.com/StonyBoy/nvim-update-time) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2025-10-26 ![](https://img.shields.io/github/stars/StonyBoy/nvim-update-time) ![](https://img.shields.io/github/last-commit/StonyBoy/nvim-update-time) ![](https://img.shields.io/github/commit-activity/y/StonyBoy/nvim-update-time)
 * [StefanBartl/hover.nvim](https://github.com/StefanBartl/hover.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-26 ![](https://img.shields.io/github/stars/StefanBartl/hover.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/hover.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/hover.nvim)
@@ -713,4 +713,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
