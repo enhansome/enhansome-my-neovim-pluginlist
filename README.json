@@ -1252,9 +1252,9 @@
               "description": "yorickpeterse/nvim-tree-pairs",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "NeoVim plugin for jumping to the other end of the current Tree-sitter node",
-                "homepage": null,
+                "homepage": "https://codeberg.org/yorickpeterse/nvim-tree-pairs",
                 "id": 788233817,
                 "language": "Lua",
                 "license": "MPL-2.0",
@@ -1511,7 +1511,7 @@
                 "open_issues": 0,
                 "owner": "nvim-mini",
                 "repo": "mini.align",
-                "stars": 181,
+                "stars": 180,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -4685,6 +4685,27 @@
                 "topics": []
               },
               "first_seen": "2026-10-22T23:27:41.795Z"
+            },
+            {
+              "node_type": "item",
+              "title": "rohitsrao/readalong.nvim",
+              "description": "rohitsrao/readalong.nvim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1434092020,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-26T09:54:20Z",
+                "open_issues": 0,
+                "owner": "rohitsrao",
+                "repo": "readalong.nvim",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-29T00:05:11.803Z"
             }
           ],
           "description": null,
@@ -4696,7 +4717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:51:20.134Z",
+    "last_updated": "2026-10-29T00:05:11.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4704,7 +4725,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-27T03:26:16Z",
+      "last_commit": "2026-10-28T21:05:32Z",
       "open_issues": 1,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4716,7 +4737,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "a1461513cd789dd1418e6adbde24201ee7c95a20",
+    "original_repository_sha": "7b40c22de8667052ee930c3c22ed877591e2143c",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
