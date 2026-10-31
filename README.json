@@ -4041,7 +4041,7 @@
                 "id": 1353950444,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-30T23:32:34Z",
+                "last_commit": "2026-10-31T06:04:56Z",
                 "open_issues": 0,
                 "owner": "WKDSteve",
                 "repo": "hover.nvim",
@@ -4146,7 +4146,7 @@
                 "id": 1277984459,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-30T23:27:59Z",
+                "last_commit": "2026-10-31T06:05:11Z",
                 "open_issues": 0,
                 "owner": "WKDSteve",
                 "repo": "fileops.nvim",
@@ -4696,7 +4696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:54:36.076Z",
+    "last_updated": "2026-10-31T23:28:57.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4704,8 +4704,8 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-30T05:17:01Z",
-      "open_issues": 0,
+      "last_commit": "2026-10-31T11:35:11Z",
+      "open_issues": 1,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
       "stars": 833,
@@ -4716,7 +4716,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "436142363621b2898f8c013cc24e1af105c570a2",
+    "original_repository_sha": "e32ecd53ceb2ed31099ec57ffa404f32463da750",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
