@@ -2692,7 +2692,7 @@
                 "open_issues": 1,
                 "owner": "XXiaoA",
                 "repo": "atone.nvim",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -2744,7 +2744,7 @@
                 "open_issues": 1,
                 "owner": "y3owk1n",
                 "repo": "undo-glow.nvim",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "neovim",
                   "neovim-highlight",
@@ -3568,10 +3568,10 @@
                     "language": "Janet",
                     "license": "MIT",
                     "last_commit": "2026-10-09T15:34:01Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3239,
+                    "stars": 3240,
                     "topics": [
                       "neovim",
                       "neovim-plugin",
@@ -4041,7 +4041,7 @@
                 "id": 1353950444,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-31T06:04:56Z",
+                "last_commit": "2026-11-01T18:51:57Z",
                 "open_issues": 0,
                 "owner": "WKDSteve",
                 "repo": "hover.nvim",
@@ -4146,7 +4146,7 @@
                 "id": 1277984459,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-31T06:05:11Z",
+                "last_commit": "2026-11-01T18:11:21Z",
                 "open_issues": 0,
                 "owner": "WKDSteve",
                 "repo": "fileops.nvim",
@@ -4677,7 +4677,7 @@
                 "id": 1434092020,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-26T09:54:20Z",
+                "last_commit": "2026-11-01T11:35:51Z",
                 "open_issues": 0,
                 "owner": "rohitsrao",
                 "repo": "readalong.nvim",
@@ -4696,7 +4696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:28:57.939Z",
+    "last_updated": "2026-11-01T23:41:57.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4704,11 +4704,11 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-31T11:35:11Z",
+      "last_commit": "2026-11-01T07:35:04Z",
       "open_issues": 1,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
-      "stars": 833,
+      "stars": 832,
       "topics": [
         "awesome-list",
         "github-pages",
@@ -4716,7 +4716,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "e32ecd53ceb2ed31099ec57ffa404f32463da750",
+    "original_repository_sha": "fa98ad440d2a23fb463f062daef775e98f023223",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
