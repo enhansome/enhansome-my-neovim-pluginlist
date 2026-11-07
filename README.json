@@ -166,11 +166,11 @@
                 "id": 559837961,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-04-26T13:24:53Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-07T08:26:41Z",
+                "open_issues": 0,
                 "owner": "nvim-zh",
                 "repo": "colorful-winsep.nvim",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "neovim-plugin",
                   "nvim-plugin"
@@ -198,6 +198,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tox2ik/genja-splitpad.nvim",
+              "description": "tox2ik/genja-splitpad.nvim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Neovim padding column next to the split separator in unfocused windows",
+                "homepage": null,
+                "id": 1447262133,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-11-05T19:13:22Z",
+                "open_issues": 0,
+                "owner": "tox2ik",
+                "repo": "genja-splitpad.nvim",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-07T23:42:44.625Z"
             }
           ],
           "description": null,
@@ -1379,6 +1400,32 @@
           "children": [
             {
               "node_type": "item",
+              "title": "echasnovski/mini.align",
+              "description": "nvim-mini/mini.align",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.",
+                "homepage": null,
+                "id": 556845934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-27T14:47:17Z",
+                "open_issues": 0,
+                "owner": "nvim-mini",
+                "repo": "mini.align",
+                "stars": 183,
+                "topics": [
+                  "lua",
+                  "mini-nvim",
+                  "neovim",
+                  "neovim-plugin"
+                ]
+              },
+              "first_seen": "2026-08-28T04:23:46.669Z"
+            },
+            {
+              "node_type": "item",
               "title": "Vonr/align.nvim",
               "description": "Vonr/align.nvim",
               "children": [],
@@ -1400,32 +1447,6 @@
                   "neovim-plugin",
                   "nvim",
                   "vim"
-                ]
-              },
-              "first_seen": "2026-08-28T04:23:46.669Z"
-            },
-            {
-              "node_type": "item",
-              "title": "echasnovski/mini.align",
-              "description": "nvim-mini/mini.align",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.",
-                "homepage": null,
-                "id": 556845934,
-                "language": "Lua",
-                "license": "MIT",
-                "last_commit": "2026-10-27T14:47:17Z",
-                "open_issues": 0,
-                "owner": "nvim-mini",
-                "repo": "mini.align",
-                "stars": 182,
-                "topics": [
-                  "lua",
-                  "mini-nvim",
-                  "neovim",
-                  "neovim-plugin"
                 ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -1879,7 +1900,7 @@
                 "open_issues": 7,
                 "owner": "abecodes",
                 "repo": "tabout.nvim",
-                "stars": 887,
+                "stars": 886,
                 "topics": [
                   "lua",
                   "neovim",
@@ -3457,7 +3478,7 @@
                     "open_issues": 17,
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3241,
+                    "stars": 3242,
                     "topics": [
                       "neovim",
                       "neovim-plugin",
@@ -3676,7 +3697,7 @@
                 "id": 902125635,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T15:55:58Z",
+                "last_commit": "2026-11-07T03:46:54Z",
                 "open_issues": 3,
                 "owner": "jeangiraldoo",
                 "repo": "codedocs.nvim",
@@ -4032,7 +4053,7 @@
                 "id": 1277984459,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-06T23:14:06Z",
+                "last_commit": "2026-11-07T18:18:07Z",
                 "open_issues": 0,
                 "owner": "WKDSteve",
                 "repo": "fileops.nvim",
@@ -4582,7 +4603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:09:37.120Z",
+    "last_updated": "2026-11-07T23:42:44.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4590,8 +4611,8 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-06T06:09:58Z",
-      "open_issues": 0,
+      "last_commit": "2026-11-07T12:18:52Z",
+      "open_issues": 1,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
       "stars": 832,
@@ -4602,7 +4623,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "216ea4729616b4cce8584bb5f56232972dcfc7dc",
+    "original_repository_sha": "c30f85763d41493ced2f29d0f3ec9d26010cfb98",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
