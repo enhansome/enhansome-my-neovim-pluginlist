@@ -2648,7 +2648,7 @@
                 "open_issues": 0,
                 "owner": "SunnyTamang",
                 "repo": "select-undo.nvim",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -4288,7 +4288,7 @@
                 "open_issues": 7,
                 "owner": "neo451",
                 "repo": "feed.nvim",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -4603,7 +4603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:42:44.625Z",
+    "last_updated": "2026-11-08T23:49:42.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4611,8 +4611,8 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-07T12:18:52Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-08T07:35:49Z",
+      "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
       "stars": 832,
@@ -4623,7 +4623,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "c30f85763d41493ced2f29d0f3ec9d26010cfb98",
+    "original_repository_sha": "fecefd67c9276a90671ba0dca91b8fd306e8b869",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
