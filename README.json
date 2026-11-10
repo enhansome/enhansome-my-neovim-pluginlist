@@ -1876,6 +1876,27 @@
                 ]
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Jacky-Lzx/bigfile-tools.nvim",
+              "description": "Jacky-Lzx/bigfile-tools.nvim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Large-file handling for Neovim",
+                "homepage": null,
+                "id": 1449525586,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-11-07T16:19:13Z",
+                "open_issues": 0,
+                "owner": "Jacky-Lzx",
+                "repo": "bigfile-tools.nvim",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-10T02:48:39.098Z"
             }
           ],
           "description": null,
@@ -2572,7 +2593,7 @@
                 "open_issues": 0,
                 "owner": "jiaoshijie",
                 "repo": "undotree",
-                "stars": 369,
+                "stars": 370,
                 "topics": [
                   "neovim-plugin",
                   "neovim-plugin-lua",
@@ -2622,7 +2643,7 @@
                 "open_issues": 0,
                 "owner": "XXiaoA",
                 "repo": "atone.nvim",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -3478,7 +3499,7 @@
                     "open_issues": 17,
                     "owner": "nvim-treesitter",
                     "repo": "nvim-treesitter-context",
-                    "stars": 3242,
+                    "stars": 3243,
                     "topics": [
                       "neovim",
                       "neovim-plugin",
@@ -3948,7 +3969,7 @@
                 "id": 1353950444,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-06T16:37:34Z",
+                "last_commit": "2026-11-09T23:27:22Z",
                 "open_issues": 0,
                 "owner": "WKDSteve",
                 "repo": "hover.nvim",
@@ -4603,7 +4624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T23:49:42.514Z",
+    "last_updated": "2026-11-10T02:48:39.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4611,7 +4632,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-08T07:35:49Z",
+      "last_commit": "2026-11-09T05:25:21Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4623,7 +4644,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "fecefd67c9276a90671ba0dca91b8fd306e8b869",
+    "original_repository_sha": "8f7b244f96cc98dfa621bddbfb28851cb43ae9cc",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
