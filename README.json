@@ -170,7 +170,7 @@
                 "open_issues": 0,
                 "owner": "nvim-zh",
                 "repo": "colorful-winsep.nvim",
-                "stars": 716,
+                "stars": 717,
                 "topics": [
                   "neovim-plugin",
                   "nvim-plugin"
@@ -630,29 +630,6 @@
     {
       "description": null,
       "items": [
-        {
-          "node_type": "item",
-          "title": "gregorias/toggle.nvim",
-          "description": "gregorias/toggle.nvim",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Neovim plugin for toggling options.",
-            "homepage": null,
-            "id": 736224284,
-            "language": "Lua",
-            "license": "GPL-3.0",
-            "last_commit": "2025-12-28T09:37:29Z",
-            "open_issues": 0,
-            "owner": "gregorias",
-            "repo": "toggle.nvim",
-            "stars": 58,
-            "topics": [
-              "neovim-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T04:23:46.669Z"
-        },
         {
           "node_type": "item",
           "title": "walkingshamrock/optiongroup.nvim",
@@ -2618,7 +2595,7 @@
                 "open_issues": 0,
                 "owner": "tzachar",
                 "repo": "highlight-undo.nvim",
-                "stars": 354,
+                "stars": 353,
                 "topics": [
                   "lua",
                   "neovim",
@@ -3833,7 +3810,7 @@
                 "open_issues": 26,
                 "owner": "3rd",
                 "repo": "diagram.nvim",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "neovim",
                   "neovim-plugin"
@@ -3861,6 +3838,35 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
+            },
+            {
+              "node_type": "item",
+              "title": "IanMacwan/whiteboard.nvim",
+              "description": "IanMacwan/whiteboard.nvim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Neovim plugin that opens Excalidraw in its own window for quick sketches.",
+                "homepage": null,
+                "id": 1451902615,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-11-09T21:40:28Z",
+                "open_issues": 0,
+                "owner": "IanMacwan",
+                "repo": "whiteboard.nvim",
+                "stars": 1,
+                "topics": [
+                  "diagramming",
+                  "excalidraw",
+                  "lua",
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim",
+                  "whiteboard"
+                ]
+              },
+              "first_seen": "2026-11-12T01:56:32.253Z"
             }
           ],
           "description": null,
@@ -3969,7 +3975,7 @@
                 "id": 1353950444,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-10T08:15:25Z",
+                "last_commit": "2026-11-12T01:46:09Z",
                 "open_issues": 0,
                 "owner": "WKDSteve",
                 "repo": "hover.nvim",
@@ -4074,7 +4080,7 @@
                 "id": 1277984459,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-10T11:35:36Z",
+                "last_commit": "2026-11-11T20:41:03Z",
                 "open_issues": 0,
                 "owner": "WKDSteve",
                 "repo": "fileops.nvim",
@@ -4624,7 +4630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:42:57.315Z",
+    "last_updated": "2026-11-12T01:56:32.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4632,7 +4638,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-10T05:28:24Z",
+      "last_commit": "2026-11-11T05:45:25Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4644,7 +4650,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "57c2ea9ca59cb2e0d7f77a86fc9c1d3648aaf41d",
+    "original_repository_sha": "a3759601fb124aa394abcac78b90310cff14a4f4",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
