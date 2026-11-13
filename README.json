@@ -486,7 +486,7 @@
                 "open_issues": 4,
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1548,
+                "stars": 1550,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -1305,7 +1305,7 @@
                 "open_issues": 0,
                 "owner": "litao91",
                 "repo": "nvim-matchup-rs",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-10-10T23:40:19.527Z"
@@ -1387,11 +1387,11 @@
                 "id": 556845934,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-27T14:47:17Z",
+                "last_commit": "2026-11-12T16:39:10Z",
                 "open_issues": 0,
                 "owner": "nvim-mini",
                 "repo": "mini.align",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -1726,7 +1726,7 @@
                 "open_issues": 0,
                 "owner": "zenodea",
                 "repo": "nextedit.nvim",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:46.669Z"
@@ -3975,7 +3975,7 @@
                 "id": 1353950444,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-12T01:46:09Z",
+                "last_commit": "2026-11-12T20:06:40Z",
                 "open_issues": 0,
                 "owner": "WKDSteve",
                 "repo": "hover.nvim",
@@ -4080,7 +4080,7 @@
                 "id": 1277984459,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-11T20:41:03Z",
+                "last_commit": "2026-11-12T22:12:59Z",
                 "open_issues": 0,
                 "owner": "WKDSteve",
                 "repo": "fileops.nvim",
@@ -4630,7 +4630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:56:32.253Z",
+    "last_updated": "2026-11-13T01:13:20.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4638,7 +4638,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-11T05:45:25Z",
+      "last_commit": "2026-11-12T07:08:40Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4650,7 +4650,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "a3759601fb124aa394abcac78b90310cff14a4f4",
+    "original_repository_sha": "acefb3d5a3607e995b44014b9246d1bcea475f40",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
