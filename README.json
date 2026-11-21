@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "luukvbaal",
                 "repo": "statuscol.nvim",
-                "stars": 613,
+                "stars": 612,
                 "topics": [
                   "lua",
                   "neovim",
@@ -486,7 +486,7 @@
                 "open_issues": 4,
                 "owner": "folke",
                 "repo": "twilight.nvim",
-                "stars": 1546,
+                "stars": 1547,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -1387,7 +1387,7 @@
                 "id": 556845934,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-17T13:26:10Z",
+                "last_commit": "2026-11-20T12:53:16Z",
                 "open_issues": 0,
                 "owner": "nvim-mini",
                 "repo": "mini.align",
@@ -3810,7 +3810,7 @@
                 "open_issues": 26,
                 "owner": "3rd",
                 "repo": "diagram.nvim",
-                "stars": 418,
+                "stars": 419,
                 "topics": [
                   "neovim",
                   "neovim-plugin"
@@ -4645,13 +4645,41 @@
           "description": null,
           "node_type": "group",
           "title": "TTS (text-to-speech)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "amandarinduck/plasmid.nvim",
+              "description": "amandarinduck/plasmid.nvim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Claude-Generated DNA/Protein sequence viewer and editor for Neovim ",
+                "homepage": null,
+                "id": 1463453501,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-11-20T17:27:25Z",
+                "open_issues": 0,
+                "owner": "amandarinduck",
+                "repo": "plasmid.nvim",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-21T01:36:26.860Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bioinformatics"
         }
       ],
       "title": "New features"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:48:30.679Z",
+    "last_updated": "2026-11-21T01:36:26.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4659,8 +4687,8 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-20T01:47:40Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-20T05:09:22Z",
+      "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
       "stars": 833,
@@ -4671,7 +4699,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "52c6c92d507f6c0532132ded7a01b1efb450c63c",
+    "original_repository_sha": "37df392587f15e762e249286925b9a66dda6d7a5",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
