@@ -4550,12 +4550,17 @@
                 "id": 1169557005,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-15T05:31:53Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-22T23:43:02Z",
+                "open_issues": 1,
                 "owner": "themakunga",
                 "repo": "tennant.nvim",
                 "stars": 4,
-                "topics": []
+                "topics": [
+                  "lua",
+                  "neovim",
+                  "notifications",
+                  "text-to-speech"
+                ]
               },
               "first_seen": "2026-10-04T23:18:31.251Z"
             },
@@ -4681,7 +4686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T00:29:34.622Z",
+    "last_updated": "2026-11-23T00:57:50.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "My personal list of Neovim plugins",
@@ -4689,7 +4694,7 @@
       "id": 482552025,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-21T15:53:04Z",
+      "last_commit": "2026-11-22T08:55:12Z",
       "open_issues": 0,
       "owner": "yutkat",
       "repo": "my-neovim-pluginlist",
@@ -4701,7 +4706,7 @@
         "neovim-plugins"
       ]
     },
-    "original_repository_sha": "bdcfda6b42ac397ff6ad1ae0366d7a40efed01d8",
+    "original_repository_sha": "6082845742ca56130f2c14d45c71690a9a63597e",
     "enhanced_repository": "enhansome/enhansome-my-neovim-pluginlist",
     "enhanced_repository_description": null,
     "title": "Awesome my neovim pluginlist with stars"
