@@ -211,7 +211,7 @@
 
 ### Screen position
 
-* [Aasim-A/scrollEOF.nvim](https://github.com/Aasim-A/scrollEOF.nvim) ⭐ 173 | 🐛 0 | 🌐 Lua | 📅 2026-10-14 ![](https://img.shields.io/github/stars/Aasim-A/scrollEOF.nvim) ![](https://img.shields.io/github/last-commit/Aasim-A/scrollEOF.nvim) ![](https://img.shields.io/github/commit-activity/y/Aasim-A/scrollEOF.nvim)
+* [Aasim-A/scrollEOF.nvim](https://github.com/Aasim-A/scrollEOF.nvim) ⭐ 174 | 🐛 0 | 🌐 Lua | 📅 2026-10-14 ![](https://img.shields.io/github/stars/Aasim-A/scrollEOF.nvim) ![](https://img.shields.io/github/last-commit/Aasim-A/scrollEOF.nvim) ![](https://img.shields.io/github/commit-activity/y/Aasim-A/scrollEOF.nvim)
 * [LZDQ/nvim-autocenter](https://github.com/LZDQ/nvim-autocenter) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-01-18 ![](https://img.shields.io/github/stars/LZDQ/nvim-autocenter) ![](https://img.shields.io/github/last-commit/LZDQ/nvim-autocenter) ![](https://img.shields.io/github/commit-activity/y/LZDQ/nvim-autocenter)
 * [vvvvv/yfix.nvim](https://github.com/vvvvv/yfix.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2025-10-30 ![](https://img.shields.io/github/stars/vvvvv/yfix.nvim) ![](https://img.shields.io/github/last-commit/vvvvv/yfix.nvim) ![](https://img.shields.io/github/commit-activity/y/vvvvv/yfix.nvim)
 * [MagnetizedFreckles/centerscroll.nvim](https://github.com/MagnetizedFreckles/centerscroll.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2024-06-30 ![](https://img.shields.io/github/stars/MagnetizedFreckles/centerscroll.nvim) ![](https://img.shields.io/github/last-commit/MagnetizedFreckles/centerscroll.nvim) ![](https://img.shields.io/github/commit-activity/y/MagnetizedFreckles/centerscroll.nvim)
@@ -550,7 +550,7 @@
 
 ### Diagram
 
-* [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) ⭐ 1,193 | 🐛 5 | 🌐 Lua | 📅 2024-08-16 ![](https://img.shields.io/github/stars/jbyuki/venn.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/venn.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/venn.nvim)
+* [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) ⭐ 1,192 | 🐛 5 | 🌐 Lua | 📅 2024-08-16 ![](https://img.shields.io/github/stars/jbyuki/venn.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/venn.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/venn.nvim)
 * [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) ⭐ 419 | 🐛 26 | 🌐 Lua | 📅 2026-09-03 ![](https://img.shields.io/github/stars/3rd/diagram.nvim) ![](https://img.shields.io/github/last-commit/3rd/diagram.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/diagram.nvim)
 * [McKean/diagon.nvim](https://github.com/McKean/diagon.nvim) ⭐ 3 | 🐛 1 | 🌐 Lua | 📅 2024-05-23 ![](https://img.shields.io/github/stars/McKean/diagon.nvim) ![](https://img.shields.io/github/last-commit/McKean/diagon.nvim) ![](https://img.shields.io/github/commit-activity/y/McKean/diagon.nvim)
 * [IanMacwan/whiteboard.nvim](https://github.com/IanMacwan/whiteboard.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-11-09 ![](https://img.shields.io/github/stars/IanMacwan/whiteboard.nvim) ![](https://img.shields.io/github/last-commit/IanMacwan/whiteboard.nvim) ![](https://img.shields.io/github/commit-activity/y/IanMacwan/whiteboard.nvim)
@@ -623,7 +623,7 @@
 #### Code::Stats
 
 * [liljaylj/codestats.nvim](https://github.com/liljaylj/codestats.nvim) ⭐ 6 | 🐛 1 | 🌐 Lua | 📅 2025-01-18 ![](https://img.shields.io/github/stars/liljaylj/codestats.nvim) ![](https://img.shields.io/github/last-commit/liljaylj/codestats.nvim) ![](https://img.shields.io/github/commit-activity/y/liljaylj/codestats.nvim)
-* [Freed-Wu/code-stats.nvim](https://github.com/Freed-Wu/code-stats.nvim) ⭐ 3 | 🐛 1 | 🌐 Lua | 📅 2026-11-16 ![](https://img.shields.io/github/stars/Freed-Wu/code-stats.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/code-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/code-stats.nvim)
+* [Freed-Wu/code-stats.nvim](https://github.com/Freed-Wu/code-stats.nvim) ⭐ 3 | 🐛 1 | 🌐 Lua | 📅 2026-11-23 ![](https://img.shields.io/github/stars/Freed-Wu/code-stats.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/code-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/code-stats.nvim)
 * [maorun/code-stats.nvim](https://github.com/maorun/code-stats.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-06-29 ![](https://img.shields.io/github/stars/maorun/code-stats.nvim) ![](https://img.shields.io/github/last-commit/maorun/code-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/maorun/code-stats.nvim)
 
 ### [Checker](./checker.md)
@@ -641,7 +641,7 @@
 
 ### Bioinformatics
 
-* [amandarinduck/plasmid.nvim](https://github.com/amandarinduck/plasmid.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-11-20 ![](https://img.shields.io/github/stars/amandarinduck/plasmid.nvim) ![](https://img.shields.io/github/last-commit/amandarinduck/plasmid.nvim) ![](https://img.shields.io/github/commit-activity/y/amandarinduck/plasmid.nvim)
+* [amandarinduck/plasmid.nvim](https://github.com/amandarinduck/plasmid.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-11-24 ![](https://img.shields.io/github/stars/amandarinduck/plasmid.nvim) ![](https://img.shields.io/github/last-commit/amandarinduck/plasmid.nvim) ![](https://img.shields.io/github/commit-activity/y/amandarinduck/plasmid.nvim)
 
 ## [Util pack](./util-pack.md)
 
@@ -715,4 +715,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
